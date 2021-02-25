@@ -1,0 +1,12 @@
+{
+  "name": "JDTA非公式アプリ",
+  "short_name": "jdta",
+  "description": "Japan Digital Theatre Archives (JDTA) のAPIを用いた非公式アプリです。",
+  "icons": [],
+  "start_url": "/jdta/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ja",
+  "orientation": "portrait"
+}
