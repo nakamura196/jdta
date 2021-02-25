@@ -1,0 +1,157 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/208480",
+    "@type": [
+        "o:Item",
+        "dcepk:Agent"
+    ],
+    "dcepk:agentTranscription": [
+        {
+            "@language": "ja",
+            "@value": "びわけい",
+            "is_public": true,
+            "property_id": 487,
+            "property_label": "Agent名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:location": [
+        {
+            "@language": "ja",
+            "@value": "東京都",
+            "is_public": true,
+            "property_id": 505,
+            "property_label": "Agent住所(都道府県名)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:role": [
+        {
+            "@language": "ja",
+            "@value": "取得.納入",
+            "is_public": true,
+            "property_id": 514,
+            "property_label": "Agent役割",
+            "type": "literal"
+        }
+    ],
+    "dcepk:roleName": [
+        {
+            "@language": "ja",
+            "@value": "納入",
+            "is_public": true,
+            "property_id": 515,
+            "property_label": "Agent役割名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Delivery",
+            "is_public": true,
+            "property_id": 515,
+            "property_label": "Agent役割名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "04216-01-2002-02:del01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "1989年結成。山田せつ子主宰。新体操、民族舞踊、モダンダンス、演劇など様々な背景をもつダンサーの身体性を表現につなげ、独自のダンス世界を展開。ダンスによる他者とのコミュニケーションの可能性を追求し創作を行う。代表作『夢見る土地』『翔ぶ娘』『愛情十八番』等。98年より実験シリーズ「ダンスの発明」を行い、ソロ・デュオ・グループ作品など、ダンサー其々の斬新な作品を発表し注目を集める。ここで発表された天野由起子、尹明希の作品は第1回トヨタアワード・オーディエンス賞、第1回トリイアワード大賞等を受賞。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "The dance company BIWAKEI was formed by Setsuko Yamada in 1989. Emphasizing the various backgrounds of dancers, such as rhythmic gymnastics, folk dance, modern dance, and theater, it presents a unique world of dance that gives expression by way of the dancers’ differing physicalities. The company pursues new possibilities of communicating with others through dance. Its signature works include “Yumemiru tochi (the land that dreams),” “Tobu musume (flying daughter),” and “Aijo ohako (Fondness = My party piece).” Since 1998, it has held a popular experimental showcase series called “Invention of Dance” that presents innovative works by dancers in a form of solo, duo and group work. The presented works by Yukiko Amano and Yun Myong Fee received the first Audience Award of the Toyota Choreography Awards and the first TORII AWARD Grand Prix.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ag-bfb655d520e13f1b6e4340f45469a955",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "枇杷系",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:name": [
+        {
+            "@language": "ja",
+            "@value": "枇杷系",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "BIWAKEI",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:06:24+00:00"
+    },
+    "o:id": 208480,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:19:38+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/307",
+        "o:id": 307
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/12",
+        "o:id": 12
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "枇杷系",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

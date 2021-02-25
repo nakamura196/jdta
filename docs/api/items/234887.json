@@ -1,0 +1,435 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/234887",
+    "@type": "o:Item",
+    "dcepk:actor": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214981",
+            "display_title": "明羽美姫",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214981,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214982",
+            "display_title": "井上一馬",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214982,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214983",
+            "display_title": "勝部祐子",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214983,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214984",
+            "display_title": "大塚庸介",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214984,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214985",
+            "display_title": "金村 瞳",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214985,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214986",
+            "display_title": "中村つむぎ",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214986,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214987",
+            "display_title": "田中愛実",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214987,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214988",
+            "display_title": "新井あゆ美",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214988,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214989",
+            "display_title": "外岡えりか",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214989,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214990",
+            "display_title": "築出静夫",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214990,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214991",
+            "display_title": "縄田 晋",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214991,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214992",
+            "display_title": "四條久美子",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214992,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214993",
+            "display_title": "西海健二郎",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214993,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214994",
+            "display_title": "丸山優子",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214994,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00779-01-2017-01:1-1",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "げげげのきたろう　じゅうまんおくどのいのりうた",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:contributor": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225928",
+            "display_title": "ラサール石井",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225928,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225929",
+            "display_title": "水木しげる",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225929,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225930",
+            "display_title": "玉麻尚一",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225930,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225931",
+            "display_title": "水木しげる",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225931,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225932",
+            "display_title": "いずみたく",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225932,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225933",
+            "display_title": "皿田圭作",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225933,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225934",
+            "display_title": "牧野iwao純子",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225934,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225935",
+            "display_title": "明羽美姫",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225935,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225936",
+            "display_title": "野添義弘",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225936,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225937",
+            "display_title": "吉池アサノ",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225937,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225938",
+            "display_title": "泉 里沙",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225938,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225939",
+            "display_title": "古宮俊昭",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225939,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225940",
+            "display_title": "返町吉保",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225940,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225941",
+            "display_title": "本藤起久子",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225941,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225942",
+            "display_title": "岩戸堅一",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225942,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225943",
+            "display_title": "平澤一平",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225943,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "pg-dd00e6ba0ad0cb11b17de6783262050f",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "pg-dd00e6ba0ad0cb11b17de6783262050f",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "ゲゲゲの鬼太郎〜十万億土の祈り唄〜",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Musical Gegegenokitaro　Jumanokudonoinoriuta",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/MovingImage",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:19:05+00:00"
+    },
+    "o:id": 234887,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-20T04:22:44+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/10",
+        "o:id": 10
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "ゲゲゲの鬼太郎〜十万億土の祈り唄〜",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

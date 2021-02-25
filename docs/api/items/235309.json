@@ -1,0 +1,281 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/235309",
+    "@type": "o:Item",
+    "dcepk:actor": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214515",
+            "display_title": "工藤真",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214515,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214516",
+            "display_title": "木村好江",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214516,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214517",
+            "display_title": "森川倫行",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214517,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214518",
+            "display_title": "長浦恵",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214518,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/214519",
+            "display_title": "早川友規",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 214519,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00619-01-2007-02:1-1",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ほしもぐらさんじのでんせつ",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:contributor": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225326",
+            "display_title": "宮崎真子",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225326,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225327",
+            "display_title": "ふじたあさや",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225327,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225328",
+            "display_title": "岡田淳",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225328,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225329",
+            "display_title": "宮崎真子",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225329,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225330",
+            "display_title": "岡田淳",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225330,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225331",
+            "display_title": "ノノヤママナコ",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225331,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225332",
+            "display_title": "内山勉",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225332,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225333",
+            "display_title": "加納豊美",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225333,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225334",
+            "display_title": "御原祥子",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225334,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225335",
+            "display_title": "加藤敦雄",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225335,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/225336",
+            "display_title": "森つとむ",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 225336,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "pg-2d1c92ce6cf9366e10d2f4119623abc8",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "pg-2d1c92ce6cf9366e10d2f4119623abc8",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "星モグラサンジの伝説",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Musical Hoshimogurasanjinodensetsu",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/MovingImage",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:19:22+00:00"
+    },
+    "o:id": 235309,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-20T04:23:10+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/10",
+        "o:id": 10
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "星モグラサンジの伝説",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

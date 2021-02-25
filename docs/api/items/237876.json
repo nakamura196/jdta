@@ -1,0 +1,331 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/237876",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207760",
+            "display_title": "岡田利規",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207760,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "岡田利規",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "OKADA Toshiki",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2015/11/29",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "F/T15参加作品Blu-ray販売済\r\n英訳あり（作品名、あらすじ、上演劇場、上演主体名、上演主体代表者名、スタッフクレジット・配役）",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01057",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "あうるすぽっと",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "OWLSPOT THEATRE",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "あうるすぽっと",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234464",
+            "display_title": "God Bless Baseball",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234464,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233392",
+            "display_title": "EV00215272",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215272_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/aa34ece370859390e495cd7f13d15b047c15eade.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233392,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235760",
+            "display_title": "01_09954-04-2015-06_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "09954-04-2015-06_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/fc0be6b1a1d5798eb21aa3297ca297766bbcd8c2.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235760,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235761",
+            "display_title": "02_09954-04-2015-06_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "09954-04-2015-06_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/46b65e4d3424a03c37e3f4a475b3cb55d2d745a8.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235761,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235759",
+            "display_title": "03_09954-04-2015-06_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "09954-04-2015-06_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/b94229610bb272d5029cb0a088a2d93f33e48545.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235759,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "09954-04-2015-06",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ごっどぶれすべーすぼーる",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "演劇カンパニー「チェルフィッチュ」の主宰・劇作家として、現代社会に生きる人々を独自の言語と身体感覚を用いて鮮やかに描き、2011年の震災後も日本の社会状況を露わに批評した作品を発表してきた岡田利規。本作では、2015年9月に韓国・光州にオープンしたAsian Arts Theatreからの委嘱を受け、初めて日本人以外の俳優との創作に臨みました。「日韓共同制作」という枠組みでしか描けない物語とその表象を、身近な「野球」を題材にすることで最大限に追求し、「アメリカ」という巨大な存在との関係性について、これまでにないスケールで社会への重要な問いを投げかけます。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Two women who do not know the rules of baseball. One man who desperately tries to explain the rules to them (although he says he hates baseball). Then a discourse on baseball by Ichiro Suzuki (or a pseudo-Ichiro?), who likens the game to life itself.\r\n \r\n Mixing lines in Japanese, Korean, and English, the play unfolds in an infinitely loose groove before some unsettling signs eventually begin to appear on the horizon. The individual stories bound up with baseball told by the Japanese and Korean men and women come to converge around the subject of \"America\" as a presence above, behind, and inside both of their countries.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2015",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@language": "ja",
+            "@value": "F/T15参加作品",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "09954-04-2015-06",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "09954-04-2015-06",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2015/11/19",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "God Bless Baseball",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "God Bless Baseball",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:26:58+00:00"
+    },
+    "o:id": 237876,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:23+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "God Bless Baseball",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

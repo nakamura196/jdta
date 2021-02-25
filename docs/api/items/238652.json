@@ -1,0 +1,329 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238652",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208536",
+            "display_title": "公益社団法人教育演劇研究協会　劇団たんぽぽ",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208536,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "熊井宏之",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "KUMAI Kouji",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2020/11/25",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "ビデオよりデジタル変換",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P02345",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "ja",
+            "@value": "元気が出る",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "encouraging",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "大阪文化センター",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "OSAKABUNKASENTA",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "おおさかぶんかせんたー",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235270",
+            "display_title": "中岡はどこぜよ",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235270,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233513",
+            "display_title": "EV00215417",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215417_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/3abdb26e01020be63f5385cd21f2d8997fff7d7f.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233513,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237271",
+            "display_title": "01_00346-01-1993-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00346-01-1993-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/a47594440d51033b5e09e2aec5ed4cadba565614.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237271,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00346-01-1993-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "なかおかはどこぜよ",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "小学４年生のよしおは、弱虫で、いつも気の強いお姉ちゃんにしかられ、いじめっ子にはやられっぱなし。ある日突然、テレビの時代劇を見ていたら、中から坂本龍馬が飛び出してきた！友達の中岡をさがして、よしおも一緒に大阪の町をかけまわる。劇を観た後、元気が湧いてくる、奇想天外時空超越大活劇。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "The fourth grader Yoshio was always a weakling, being scolded by his stronger older sister and always beaten by bullies. One day, when watching a historical drama on TV, Sakamoto Ryoma suddenly jumped out from the TV! Sakamoto was looking for his friend Nakaoka, and Yoshio also travels around the city of Osaka together. A strange swashbuckler drama that transcends time and space, filling you with energy after watching the play.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2020",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "00346-01-1993-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "00346-01-1993-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "児童・青少年演劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "theater for children and young audience",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2020/11/25",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "中岡はどこぜよ",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Nakaokahadokozeyo",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:16+00:00"
+    },
+    "o:id": 238652,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:28+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "中岡はどこぜよ",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

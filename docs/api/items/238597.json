@@ -1,0 +1,383 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238597",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208481",
+            "display_title": "枇杷系",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208481,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "山田せつ子",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "YAMADA Setsuko",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2005/10/8",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "舞踊",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Dance",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P02192",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "en",
+            "@value": "Ends in the dark",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Proscenium",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "With music",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "songs",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyEpadOffice": [
+        {
+            "@language": "ja",
+            "@value": "暗転で終わる",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "プロセニアム",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "音楽あり",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "歌あり",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "京都芸術劇場春秋座",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Kyoto Art Theater Shunjuza",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "きょうとげいじゅつげきじょうしゅんじゅうざ",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235215",
+            "display_title": "愛情十八番",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235215,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233784",
+            "display_title": "EV00215774",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215774_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/6822d3b0852fe1107b5cc23b024cb3ed22bc4e43.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233784,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237118",
+            "display_title": "01_05734-02-2005-04_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "05734-02-2005-04_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/de9e959fcb7b124b78e6573df5b7f6622e24f6ae.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237118,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237119",
+            "display_title": "02_05734-02-2005-04_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "05734-02-2005-04_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/a17fca42f6b3b001a048cd6af42afa1393c05c1e.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237119,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "05734-02-2005-04",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "あいじょうじゅうはちばん",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "「ワタクシというものをすべての起点としてしか考えられないことから来る不幸と幸福。それらを大きな器の中に入れてシェイクしたらどんな味になるのだろうか。　からだという器からズブズブと零れ落ちてしまう蜜を持ったものたちは、そこここに痕跡を残し身を隠すことができない。巧妙に足跡を消しても匂いがあたりにかすかに残る。そのような人々はあきらめて、ダンスを踊る他はない。互いの匂いが混じりあい、私の匂いがかき消されるところまで踊るのだ。からだは空気を攪拌し汗は蒸気となって雲を作る。」―――このダンスのテキストはまず、「踊る人々」そのものである。様々な視覚が踊るからだの中で交通することから始まった。\r\n　ダンサーとコレオグラファーは向かい合ってたくさんの時間を過ごし、今、並んでもうひとつの場所を見ている。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Unhappiness and happiness that grow from considering oneself alone as the starting point of everything. What kind of taste would result if I put them in a large container and shake it? When nectar spills from the body as if from a container, the body cannot hide as it leaves traces everywhere. Even when footprints are skillfully erased, the scent of nectar still lingers on. At that moment, all one can do is to give up and dance. Dance to the point where each other’s scents mix and one’s own scent is drowned out. The body stirs the air, and the sweat turns into steam and creates clouds. – The script of this dance is, first of all, about “those people who dance.” It started with the intersection of various visions within the dancing body. The dancer and choreographer first spent a lot of time facing each other, and now, standing side by side, they are staring in a new direction.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2005",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "05734-02-2005-04",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "05734-02-2005-04",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "コンテンポラリーダンス",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "contemporary dance",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2005/10/7",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "愛情十八番",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Fondness= My Party Piece",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:15+00:00"
+    },
+    "o:id": 238597,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:28+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "愛情十八番",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

@@ -1,0 +1,326 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238327",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208211",
+            "display_title": "人形劇団プーク",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208211,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:award": [
+        {
+            "@language": "ja",
+            "@value": "平成4年度児童福祉文化最優秀グランプリ賞",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Grand Prix at the Child Welfare Culture Award from the Foundation for Promoting Sound Growth of Children in 1992",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "渡辺真知子",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "WATANABE Machiko",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01855",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "プーク人形劇場",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "PUKUNINGYOGEKIJO",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ぷーくにんぎょうげきじょう",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234945",
+            "display_title": "あやとじろきちおおかみ",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234945,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233278",
+            "display_title": "EV00215129",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215129_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/548d800bf0b893dc0ac20e85b196b96e81c43f8b.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233278,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236716",
+            "display_title": "01_00693-05-1992-15_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00693-05-1992-15_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/edc29bf95dfe98ff749f2686c5dd4a7cf7b3c350.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236716,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00693-05-1992-15",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "あやとじろきちおおかみ",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "ある日の夕暮れ、おおかみのじろきちは、山の峠であやという名の小さな女の子をひろって帰ってきました。そのじろきちに、牛のまんさくとっつぁんが言いました。「いま食っちまったら、ほんのひと口だ。三年育てりゃ大きくなって、もっとたらふく食えるぞ…」\r\nそれからというものじろきちは、あやが大きくなるのが楽しみで、あやにつきっきりで世話をしました。　　\r\nそして三年目・・・",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "One day at dusk, the wolf Jirokichi picked up a little girl named Aya at a mountain pass. The cow Mansaku Tottsan then tells Jirokichi, “If you eat her now, it’ll only be one bite. Let her grow for three years, and then you’ll be able to eat even more…”\r\nAfterwards, Jirokichi continued to look forward to seeing Aya grow up and took constant care of her.\r\nAnd then in the third year…",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1992",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "00693-05-1992-15",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "00693-05-1992-15",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "人形劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "児童・青少年演劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "puppetry",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "theater for children and young audience",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "1992/10/31",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "あやとじろきちおおかみ",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Aya and Jirokichi Wolf",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:09+00:00"
+    },
+    "o:id": 238327,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:26+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "あやとじろきちおおかみ",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

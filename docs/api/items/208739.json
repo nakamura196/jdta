@@ -1,0 +1,147 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/208739",
+    "@type": [
+        "o:Item",
+        "dcepk:Agent"
+    ],
+    "dcepk:agentTranscription": [
+        {
+            "@language": "ja",
+            "@value": "えぬぴーおーほうじんじぇいしーでぃーえぬ　おどりにいくぜ",
+            "is_public": true,
+            "property_id": 487,
+            "property_label": "Agent名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:role": [
+        {
+            "@language": "ja",
+            "@value": "取得.納入",
+            "is_public": true,
+            "property_id": 514,
+            "property_label": "Agent役割",
+            "type": "literal"
+        }
+    ],
+    "dcepk:roleName": [
+        {
+            "@language": "ja",
+            "@value": "納入",
+            "is_public": true,
+            "property_id": 515,
+            "property_label": "Agent役割名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Delivery",
+            "is_public": true,
+            "property_id": 515,
+            "property_label": "Agent役割名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "04872-03-2007-06:del01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "NPO法人JCDNが主催して行ってきた「踊りに行くぜ！！」は、2000-2009年のファースト、2010－2016年のセカンドの二つのシリーズがある。ファーストは、\r\nコンテンポラリーダンスの全国的な普及と全国でコンテンポラリーダンスのアー\r\nティストが生まれ、ツアーができるようになることを目的に、10年にわたり実\r\n施。Vol.1は4都市で始まり、Vol.10では21都市での開催へと広がっていった。国\r\n内だけではなくアジアのツアーも3年間にわたり実施。vol.1-10で、29都道府県\r\n43都市にて開催し、全国公募で選出された参加アーティスト総勢258組、上演し\r\nた作品数は全304作品に及ぶ。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "“We’re Gonna Go Dancing!!” is the project organized by a non-profit organization, Japan Contemporary Dance Network (JCDN). There were two installments in the project: the first series from 2000 to 2009 and the second from 2010 to 2016. The first series has been implemented for 10 years with the aims of promoting contemporary dance nationwide, encouraging more contemporary dance artists to emerge and creating an environment for them to tour. Vol.1 began with four cities, and vol.10 expanded to 21 cities. The project toured not only in Japan but also in Asia for three years. From Vol.1 to Vol.10, “We’re Gonna Go Dancing!” was held in 43 cities in 29 prefectures, with a total of 258 participating artists/groups selected from the public nationwide, and a total of 304 works performed.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ag-b3b08b3872b2aa906a6a3ba191b57134",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "NPO法人JCDN「踊りに行くぜ!!」",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:name": [
+        {
+            "@language": "ja",
+            "@value": "NPO法人JCDN「踊りに行くぜ!!」",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Japan Contemporary Dance Network (JCDN)",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:06:28+00:00"
+    },
+    "o:id": 208739,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:19:39+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/307",
+        "o:id": 307
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/12",
+        "o:id": 12
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "NPO法人JCDN「踊りに行くぜ!!」",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

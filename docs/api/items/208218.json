@@ -1,0 +1,166 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/208218",
+    "@type": [
+        "o:Item",
+        "dcepk:Agent"
+    ],
+    "dcepk:agentTranscription": [
+        {
+            "@language": "ja",
+            "@value": "にんぎょうげきだんぷーく",
+            "is_public": true,
+            "property_id": 487,
+            "property_label": "Agent名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:location": [
+        {
+            "@language": "ja",
+            "@value": "東京都",
+            "is_public": true,
+            "property_id": 505,
+            "property_label": "Agent住所(都道府県名)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:role": [
+        {
+            "@language": "ja",
+            "@value": "取得.納入",
+            "is_public": true,
+            "property_id": 514,
+            "property_label": "Agent役割",
+            "type": "literal"
+        }
+    ],
+    "dcepk:roleName": [
+        {
+            "@language": "ja",
+            "@value": "納入",
+            "is_public": true,
+            "property_id": 515,
+            "property_label": "Agent役割名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Delivery",
+            "is_public": true,
+            "property_id": 515,
+            "property_label": "Agent役割名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00693-05-2016-07:del01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "1929年創立。2019年には劇団創立90周年を迎えた。\r\n東京・新宿には人形劇専門劇場「プーク人形劇場」があり年間を通して公演を行っている。\r\n劇場を拠点に、全国での公演のほか、時には海外でも上演。\r\n映像部門の「スタジオ・ノーヴァ」ではテレビの人形劇製作に携わっている。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Founded in 1929.\r\nThe theater company marked their 90th anniversary in 2019.\r\nThe puppet theater “PUK Puppet Theater” is in Shinjuku, Tokyo, where they perform throughout the year.\r\nBased in the theater, they perform nationwide and sometimes internationally.\r\nAlso involved in TV puppet show productions at the video department “Studio Nova”.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ag-1508a19c607dfef02987f0c303dbdfcc",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "人形劇団プーク",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:homepage": [
+        {
+            "@value": "https://puk.jp/",
+            "is_public": true,
+            "property_id": 147,
+            "property_label": "homepage",
+            "type": "literal"
+        }
+    ],
+    "foaf:name": [
+        {
+            "@language": "ja",
+            "@value": "人形劇団プーク",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "PUK",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:06:21+00:00"
+    },
+    "o:id": 208218,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:19:37+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/307",
+        "o:id": 307
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/12",
+        "o:id": 12
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "人形劇団プーク",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

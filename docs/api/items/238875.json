@@ -1,0 +1,329 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238875",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208759",
+            "display_title": "株式会社ホリプロ",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208759,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "グレゴリー・ドーラン",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "GUREGORII Dooran",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2007/10/7",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P02710",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "ja",
+            "@value": "喜劇",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "comedy",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "天王洲 銀河劇場／兵庫県立芸術文化センター　中ホール",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "TENNOUZUGINGAGEKIJO/HYOGOKENRITSUGEIJUTSUBUNKASENTACHUHORU",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "てんのうずぎんがげきじょう／ひょうごけんりつげいじゅつぶんかせんたーちゅうほーる",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235499",
+            "display_title": "ヴェニスの商人",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235499,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234350",
+            "display_title": "EV00216575",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00216575_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/2574b0fd363981373b5aac2509b730c0b9b5393b.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234350,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237780",
+            "display_title": "01_00753-03-2007-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00753-03-2007-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/3d97c9f7f4316fa400610f9c7a69fe8aca441ce4.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237780,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237781",
+            "display_title": "02_00753-03-2007-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00753-03-2007-01_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/14f2f4f3e8d70dfe3b04965bd6af496d160b87df.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237781,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237782",
+            "display_title": "03_00753-03-2007-01_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00753-03-2007-01_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/8838d2ffe9f01004229542aad3cabbd4e33f5b1c.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237782,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00753-03-2007-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "べにすのしょうにん",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "天王洲銀河劇場オープン1周年記念作品として、ロイヤル・シェイクスピア・カンパニーのアソシエイト・ディレクターであるグレゴリー・ドーランを演出に、英国の著名なデザイナーであるマイケル・ヴェイルを美術デザインに迎えた国際共同制作作品。舞台はイタリアのヴェニス。バサーニオは富豪の娘ポーシャと結婚するために先立つものが欲しい。そこで、貿易商を営む友人のアントーニオから金を借りようとするが、アントーニオの財産は航海中の商船にあり、金を貸すことができない。アントーニオは自らが保証人となり悪名高いユダヤ人高利貸しのシャイロックをバサーニオに紹介する。アントーニオは金を借りるために、指定された日付までに借りた金を返すことが出来なければ、シャイロックに自分の肉1ポンドを与えなければいけないという条件に合意するが、船は難破し全財産を失ってしまう。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "An international co-production that commemorates the first anniversary of the opening of the Galaxy Theatre, Tennozu. Directed by Gregory Doran, the Associate Director of the Royal Shakespeare Company and with art design by Michael Vale, a well-known British designer. \r\nThe story takes place in Venice, Italy. Bassanio is in need of funds in order to marry Portia, a daughter of a rich merchant. He wants to borrow money from Antonio, a merchant, but his asset is tied to the commercial vessel currently at sea, and he cannot lend any money. Antonio introduces Shylock, an infamous Jewish loan shark, to Bassanio and agrees to be Bassanio’s guarantor. Antonio agrees to the terms that if he cannot pay back the money he is borrowing by the designated date, he has to give a pound of his own flesh to Shylock, but the vessel shipwrecked, and he lost all his asset.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2007",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "00753-03-2007-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "00753-03-2007-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2007/8/17",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "ヴェニスの商人",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "The Merchant of Venice",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:21+00:00"
+    },
+    "o:id": 238875,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:30+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "ヴェニスの商人",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

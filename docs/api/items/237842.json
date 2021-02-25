@@ -1,0 +1,345 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/237842",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207726",
+            "display_title": "維新派",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207726,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:award": [
+        {
+            "@language": "ja",
+            "@value": "大阪府舞台芸術奨励賞受賞",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Performing Arts Encouragement Award of Osaka Prefecture",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "松本雄吉",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "MATSUMOTO Yuukichi",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "1996/11/5",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "ROMANCE / ISHINHA\r\n英訳あり（上演主体代表者名）",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01015",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "大阪・南港ふれあい港館広場野外特設劇場＜kinetic-theater>",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "OSAKA　NANKOFUREAIMINATOKANHIROBAYAGAITOKUSETSUGEKIJO KINETEIKKUTHEATRE",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "おおさか　なんこうふれあいみなとかんひろばやがいとくせつげきじょう きねてぃっくしあたー",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234430",
+            "display_title": "ROMANCE",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234430,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233263",
+            "display_title": "EV00215109",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215109_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/cf5aa7dc7f2ef65d804c89afe1f5bebef394bcfb.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233263,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235639",
+            "display_title": "00028-01-1996-01_01",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00028-01-1996-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/9ea826d240f4e6d8af02b9e7e2c218ee5341b914.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235639,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00028-01-1996-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ろまんす",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "【Story】ヒカルは蒸気工場で働きながら街のはずれにある映画学校に通っている。脚本担当のユタンポ、作曲のジンタン、キャメラのワッペン、監督のゲッセカイ、元捕虜の少年ヂムレンたちと卒業制作の映画を作ることに懸命だ。 ４月５日、ヒカルたちは兵隊たちに護送される少年兵ハルハを目撃する。逃走したハルハをかくまうヒカルたち。ヒカルたちは卒業制作の映画「ROMANCE―走れフランケンシュタイン」にハルハを出演させて。\r\n\r\n【Note】\r\n蒸気と映画と戦争の街＜cock-city＞は映画の撮影セットのような緻密に作り上げられた架空の街。 奥行き40ｍの彼方から戦車型カメラとともに少年たちが現われるシーンは圧巻。 劇中映画を林海象、主題歌を木村充揮が担当。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Hikaru works at a steam factory and attends a film school in the outskirts of the city. He is working hard to make a graduation film with the scriptwriter Yutampo, composer Jintan, cameraman Wappen, director Gessekai, and former POW boy Jimren. On April 5th, Hikaru and the others see the child soldier Haruha being escorted by soldiers. Haruha runs away, and Hikaru and the group hide him. Hikaru and the others have Haruha star in their graduation film, “ROMANCE – Run Frankenstein”.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1996",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "00028-01-1996-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "00028-01-1996-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "現代劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "野外劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "contemporary theater",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "outdoor performance",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "1996/10/25",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "ROMANCE",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "ROMANCE",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:26:57+00:00"
+    },
+    "o:id": 237842,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:23+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "ROMANCE",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

@@ -1,0 +1,399 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238799",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208683",
+            "display_title": "ワタナベエンターテインメント",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208683,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "末満健一",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "SUEMITSU Ken'ichi",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2018/9/9",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P02586",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "ja",
+            "@value": "悲劇",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "ファンタジー",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "悲喜劇",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "生と死",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "恋愛",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "家族",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "tragedy",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Fantasy",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "tragicomedy",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Life and death",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "romance",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Family",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "サンシャイン劇場(東京)／梅田芸術劇場シアター・ドラマシティ",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "SANSHAINGEKIJO/UMEDAGEIJUTSUGEKIJOTHEATREDORAMASHITEI",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "さんしゃいんげきじょう／うめだげいじゅつげきじょうしあたーどらましてぃ",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235418",
+            "display_title": "マリーゴールド",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235418,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233219",
+            "display_title": "EV00215039",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215039_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/e47ff0341bf6b3172405669fac48a1b174c316f1.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233219,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237631",
+            "display_title": "01_09374-03-2018-03_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "09374-03-2018-03_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/9374a8b46def1b7243ff1ebcf9be564e1b13f6b0.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237631,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "09374-03-2018-03",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "まりーごーるど",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "人間であるアナベルにはガーベラというひとりの娘がいた。人間種と吸血種の混血《ダンピール》であるために街中から「窓際の化け物」と呼ばれ忌み嫌われていたガーベラは、アナベルによってマリーゴールドの花に囲まれた屋敷に閉じ込められるようにして暮らしている。アナベルは《ダリ・デリコ》というペンネームで、永遠の命を持つ吸血種《TRUMP》の伝承を主題とした作品で人気を博す小説家であり、吸血種の世界で実しやかに囁かれる《繭期少年少女失踪事件》を次なる題材に選ぶ。その頃アナベルは、自身の大ファンだと自称するふたりの少年、ソフィ、ウルと出会うのだった。\r\nTRUMPシリーズとは\r\n不死を失った吸血種《ヴァンプ》たちが、永遠の命を持つとされる吸血種《トランプ》の不死伝説に翻弄されていく様を描く、劇作家・末満健一がライフワークに掲げ、2009年より展開する演劇シリーズ作品である。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "\"\r\nThe human Annabelle has a daughter named Gerbera. Of mixed blood between human and vampire (\"\"Dhampir\"\"), Gerbera was hated and reviled by the town as a \"\"monster by the window\"\", and lived in a mansion surrounded by Marigold flowers as if imprisoned there. Under the pseudonym \"\"Dali de Rico\"\", Annabelle was a popular novelist writing on themes of the tradition of vampires with eternal life (\"\"TRUMP\"\"). She selects the \"\"Cocoon Boys and Girls Disappearance\"\", which has been whispered of in the world of vampires, as her next topic. At this time, Annabelle encountered two boys, Sophie and Ul, who claimed to be big fans of her.\r\n\r\n\r\nAbout the TRUMP Series\r\n\r\nLife work of playwright Suemitsu Kenichi, and a theater series developed since 2009, depicting the story of vampires who have lost their immortality (\"\"VAMP\"\") being at the mercy of the immortal legend of the vampires \"\"TRUMP\"\" who are said to have eternal life.\"",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2018",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "09374-03-2018-03",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "09374-03-2018-03",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "ミュージカル",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "musical",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2018/8/25",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "ミュージカル『マリーゴールド』",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Musical \"MARIGOLD\"",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:20+00:00"
+    },
+    "o:id": 238799,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:29+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "ミュージカル『マリーゴールド』",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

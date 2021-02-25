@@ -1,0 +1,160 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/235274",
+    "@type": "o:Item",
+    "dcepk:actor": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/216073",
+            "display_title": "金沢真美/民族歌舞団荒馬座",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 216073,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/216074",
+            "display_title": "金子満里/民族歌舞団荒馬座",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 216074,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/216075",
+            "display_title": "宮河伸行/民族歌舞団荒馬座",
+            "is_public": true,
+            "property_id": 486,
+            "property_label": "出演者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 216075,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00882-06-2011-01:1-1",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "はやしはやされあらうままつり",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:contributor": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/226780",
+            "display_title": "宮河伸行",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 226780,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/226781",
+            "display_title": "宮河伸行",
+            "is_public": true,
+            "property_id": 6,
+            "property_label": "Contributor",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 226781,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "pg-7c89a19609454774bcdbbdbff3b7e94a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "pg-7c89a19609454774bcdbbdbff3b7e94a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "囃し囃され荒馬まつり",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Hayashihayasarearaumamatsuri",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/MovingImage",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:19:21+00:00"
+    },
+    "o:id": 235274,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-20T04:23:08+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/10",
+        "o:id": 10
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "囃し囃され荒馬まつり",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

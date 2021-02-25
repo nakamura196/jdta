@@ -1,0 +1,373 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238125",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208009",
+            "display_title": "横浜赤レンガ倉庫1号館［公益財団法人横浜市芸術文化振興財団］",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208009,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:award": [
+        {
+            "@language": "ja",
+            "@value": "審査員賞",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "ポロサス寄付基金 Camping2020賞",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "横山彰乃",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "YOKOYAMA Ayano",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2020/2/9",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "横浜ダンスコレクション2020　コンペティションⅠ",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "舞踊",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Dance",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01497",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "en",
+            "@value": "Ends in the dark",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Proscenium",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "With music",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyEpadOffice": [
+        {
+            "@language": "ja",
+            "@value": "暗転で終わる",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "プロセニアム",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "音楽あり",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "横浜赤レンガ倉庫1号館",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Yokohama Red Brick Warehouse No.1",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "よこはまあかれんがそうこいちごうかん",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234741",
+            "display_title": "水溶媒音",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234741,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234093",
+            "display_title": "EV00216164",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00216164_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/134aa16ddbfcd3d7c95725edfe7480db73363b40.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234093,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236319",
+            "display_title": "01_05927-02-2020-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "05927-02-2020-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/ece51e354b707e5092a83a659a895df88bad420b.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236319,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "05927-02-2020-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "すいようばいおん",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "作品ノート：「よく知っている底から水面を見上げ知らない水平線を思い浮かべず 音の届く先まで睡り どこかの花を想う」 これは「海」をモチーフにした作品の一部です。遠く離れた世界のことを簡単に知る ことができるようになった今だけど、どれだけ本当のことを見ることができるのだろうか。\r\n様々な海から眺める水平線の先は、想像するにはあまりにも遠い。自分が立って いる海の底にも、人の目に触れない流れがきっとたくさんある。潜ってみないと わからないことだらけで、本当は、何も知ってなんかいない。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "‘Looking up to the water's surface from familiar depths/unable to recall an unknown horizon/sleeping until the sound's destination/we sense a flower somewhere' “Suiyoubaion\" is a solo portion from the larger piece ‘Sea.' While information on faraway places is now readily available, how well are we really able to see the truth of it all? The horizon is visible from so many different seas, yet too far away to imagine what lies beyond it. There must be countless invisible flows even in the depths of the sea where I now stand. The only way to find out is to go into the water-overwhelmed by the abstruse, the truth is we know absolutely nothing at all.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2020",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@language": "ja",
+            "@value": "横浜ダンスコレクション2020　コンペティションⅠ",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "05927-02-2020-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "05927-02-2020-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2020/2/9",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "水溶媒音",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Suiyoubaion",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:04+00:00"
+    },
+    "o:id": 238125,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:25+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "水溶媒音",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

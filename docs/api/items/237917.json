@@ -1,0 +1,317 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/237917",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207801",
+            "display_title": "THE SHAMPOO HAT",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207801,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "赤堀雅秋",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "AKAHORI Masaaki",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2013/4/30",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "2016年映画化（脚本／監督：赤堀雅秋）\r\n。",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01122",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "ザ・スズナリ",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "SUZUNARI",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "すずなり",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234505",
+            "display_title": "葛城事件",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234505,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233560",
+            "display_title": "EV00215477",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215477_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/fbe293ae4fc545184e9b81331fbe01622582555a.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233560,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235891",
+            "display_title": "01_03482-01-2013-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03482-01-2013-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/6e866de9e0eea8bff4efcb0e1bd38a337c7ae4d0.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235891,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235892",
+            "display_title": "02_03482-01-2013-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03482-01-2013-01_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/3655a70540990a43d08c29de4a8516984a77bd4d.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235892,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "03482-01-2013-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "かつらぎじけん",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "葛城清（赤堀）と伸子（鈴木）の次男である稔（新井）は、児童8人を殺害する事件を起こす。裁判では被害者遺族の田端博昭（児玉）に悪態をつくなど、反省の様子を見せない稔は死刑を宣告される。その後、稔と獄中結婚した死刑制度に反対する星野順子（安藤）が清の家を訪れる。稔から謝罪の言葉を引き出そうとする彼女は、稔の闇を知るべく稔の昔のことを聞きに来たのだ。暴力的な稔は兄の保（日比）とは対立し、清のいとこ梶竜二（野中）が融通してくれた仕事も続かず、世間を恨み、事件ばかり起こしていた。しかし、そんな稔を伸子はかばい続け、清も放任していた。ある日、伸子は稔を連れ家出する。怒り狂った清は保に居場所を探させ、伸子と稔のアパートに乗り込み、稔を半殺しにしてしまう。稔は清と伸子に恨みの言葉を吐き2人の前から姿を消す。そして、児童殺害の犯行に及び……。\r\n（『演劇ブック』誌より抜粋）",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Minoru (Arai), the second son of Katsuragi Kiyoshi (Akahori) and Nobuko (Suzuki), causes an incident which kills eight children. Minoru shows no remorse at the trial, cursing the victim’s bereaved family, Tabata Hiroaki (Kodama), and Minoru is sentenced to death. Afterwards, Hoshino Junko (Ando), who married Minoru in prison and opposes the death penalty, visits the home of Kiyoshi. In an attempt to extract an apology from Minoru, she comes to Kiyoshi to hear about Minoru’s past in order to learn about his darkness.\r\nThe violent Minoru was often in conflict with older brother Tamotsu (Hibi), would not last long at the work provided by Kiyoshi’s cousin Kaji Ryuji (Nonaka), curses the world, and constantly caused incidents. However, Nobuko continued to defend Minoru, and Kiyoshi also did not interfere. One day, Nobuko ran away from home with Minoru. The furious Kiyoshi had Tamotsu look for them, barged into the apartment of Nobuko and Minoru, and almost killed Minoru. Minoru cursed Kiyoshi and Nobuko and disappeared from the two of them. Eventually, he committed the crime of murdering the children…\r\n(Extracted from “Theatrical Book” Magazine)",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2013",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@language": "ja",
+            "@value": "2016年映画化（脚本／監督：赤堀雅秋）",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "03482-01-2013-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "03482-01-2013-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2013/4/17",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "THE SHAMPOO HAT第28回公演「葛城事件」",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "THE SHAMPOO HAT 28th Performance “Katsuragi Incident”",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:26:59+00:00"
+    },
+    "o:id": 237917,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:24+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "THE SHAMPOO HAT第28回公演「葛城事件」",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

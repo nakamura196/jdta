@@ -1,0 +1,166 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/208684",
+    "@type": [
+        "o:Item",
+        "dcepk:Agent"
+    ],
+    "dcepk:agentTranscription": [
+        {
+            "@language": "ja",
+            "@value": "はんまいむこうぼう",
+            "is_public": true,
+            "property_id": 487,
+            "property_label": "Agent名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:location": [
+        {
+            "@language": "ja",
+            "@value": "東京都",
+            "is_public": true,
+            "property_id": 505,
+            "property_label": "Agent住所(都道府県名)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:role": [
+        {
+            "@language": "ja",
+            "@value": "取得.納入",
+            "is_public": true,
+            "property_id": 514,
+            "property_label": "Agent役割",
+            "type": "literal"
+        }
+    ],
+    "dcepk:roleName": [
+        {
+            "@language": "ja",
+            "@value": "納入",
+            "is_public": true,
+            "property_id": 515,
+            "property_label": "Agent役割名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Delivery",
+            "is_public": true,
+            "property_id": 515,
+            "property_label": "Agent役割名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00418-01-2020-01:del01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "汎マイム工房　主宰あらい汎　舞台監督芸術学院卒　転形劇場を経てママコ・ザ・マイムで活動、1976年汎マイム工房を開設。マイムの3要素である無言、無対象、道化を洗い直し、嘘のないそしてスタイルに捉われないマイムを目指し活動を始める。付属養成所ではサーカス芸を取り入れ。集団による劇マイムの創作を軸に数々の形式の作品を発表している。出身者は国内外の広い分野で活動している。主受賞歴　1982年イタリア国際マイムフェスティバル　最優秀マイムソリスト賞　著書　「パントマイムの心と身体」　晩成書房刊",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Han Mime Kobo. Presided over by Arai Han. Graduate of Butai Geijtutsu Gakuin. Worked at Mamako the Mime after working at transformation theater, after which the Han Mime Kobo was established in 1976. Starting activities aiming for a mime that does not lie and not bound by style after re-examining the three elements of the mime (silence, no objects, clowns). The attached training center incorporates circus art. Published a number of forms of work centering around the collective creation of the drama mime. Graduates are active in a wide range of fields both domestically and internationally. Major awards include the Italian International Mime Festival in 1982, Best Mime Soloist Award. Books: “Pantomime Mind and Body” published by Bansei Shobo",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ag-e2e6998b7696ffdb952534d5185ea63d",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "汎マイム工房",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:homepage": [
+        {
+            "@value": "http://www.hanmime.com",
+            "is_public": true,
+            "property_id": 147,
+            "property_label": "homepage",
+            "type": "literal"
+        }
+    ],
+    "foaf:name": [
+        {
+            "@language": "ja",
+            "@value": "汎マイム工房",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Han Mime Kobo",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:06:27+00:00"
+    },
+    "o:id": 208684,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:19:39+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/307",
+        "o:id": 307
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/12",
+        "o:id": 12
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "汎マイム工房",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

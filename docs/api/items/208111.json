@@ -1,0 +1,166 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/208111",
+    "@type": [
+        "o:Item",
+        "dcepk:Agent"
+    ],
+    "dcepk:agentTranscription": [
+        {
+            "@language": "ja",
+            "@value": "キュイ",
+            "is_public": true,
+            "property_id": 487,
+            "property_label": "Agent名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:location": [
+        {
+            "@language": "ja",
+            "@value": "東京都",
+            "is_public": true,
+            "property_id": 505,
+            "property_label": "Agent住所(都道府県名)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:role": [
+        {
+            "@language": "ja",
+            "@value": "取得.納入",
+            "is_public": true,
+            "property_id": 514,
+            "property_label": "Agent役割",
+            "type": "literal"
+        }
+    ],
+    "dcepk:roleName": [
+        {
+            "@language": "ja",
+            "@value": "納入",
+            "is_public": true,
+            "property_id": 515,
+            "property_label": "Agent役割名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Delivery",
+            "is_public": true,
+            "property_id": 515,
+            "property_label": "Agent役割名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "11755-01-2019-01:del01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "専属の俳優を持たない、プロデュース・ユニットとして活動中。劇作を綾門優季が担当し、外部の演出家とタッグを組みながら創作するスタイルを基本としている。戯曲は「震災、テロ、無差別殺人など、突発的な天災・人災を主なモチーフとすること」を特徴とする、独自の世界観を構築している。2013年、『止まらない子供たちが轢かれてゆく』で第1回せんだい短編戯曲賞大賞を受賞。2015年、『不眠普及』で第3回せんだい短編戯曲賞大賞を受賞。2019年、『蹂躙を蹂躙』で第10回せんがわ劇場演劇コンクール劇作家賞を受賞。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Active as a producing unit without exclusive actors. Ayato Yuki is the overseeing playwright, and the basic style is to create while collaborating with an outside director. Dramas involve the building of its own worldview, characterized by the fact that “the main motif is sudden natural and man-made disasters such as earthquakes, terrorism, and indiscriminate murder”. Won the 1st Sendai Short Drama Award Grand Prize in 2013 for “Children Who Do Not Stop Get Run Over.” Won the 3rd Sendai Short Drama Award Grand Prize in 2015 for “Insomnia Spread.” Won the 10th Sengawa Theater Contest, Playwright Award in 2019 for “Infringing on Infringement.”",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ag-da43258fdca918be5b65374f275db6ab",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "キュイ",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:homepage": [
+        {
+            "@value": "https://cui99iuc.com",
+            "is_public": true,
+            "property_id": 147,
+            "property_label": "homepage",
+            "type": "literal"
+        }
+    ],
+    "foaf:name": [
+        {
+            "@language": "ja",
+            "@value": "キュイ",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Cui",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:06:20+00:00"
+    },
+    "o:id": 208111,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:19:37+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/307",
+        "o:id": 307
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/12",
+        "o:id": 12
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "キュイ",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

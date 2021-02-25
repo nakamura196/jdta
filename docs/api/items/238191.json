@@ -1,0 +1,469 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238191",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208075",
+            "display_title": "キューブ",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208075,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:award": [
+        {
+            "@language": "ja",
+            "@value": "第22回読売演劇大賞最優秀スタッフ賞受賞（美術:二村周作）",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "「2014年ミュージカル・ベスト10」第9位",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "鈴木裕美",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "SUZUKI Yumi",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2014/7/20",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "2012年に韓国で初めて上演されたオリジナルミュージカル。1930年代のドイツを舞台とした心理スリラー作品。脚本・演出・音楽の全てをソ・ユンミが担当している。小劇場公演でありながら2012年の韓国の公演ランキングトップ10に入る人気公演となった。\n\n2014年に日本で初めて上演、2016年に再演。",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01685",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "ja",
+            "@value": "心理",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "スリラー",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "ミステリー",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "家族",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "受賞作",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "翻訳",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "韓国",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "thriller",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "mystery",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Family",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "award-winning",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "translation",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Korea",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "キューブ　東宝芸能　日本テレビ　CAT",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizerTranscription": [
+        {
+            "@language": "ja",
+            "@value": "きゅーぶ　とうほうげいのう　にほんてれび　しーえーてぃー",
+            "is_public": true,
+            "property_id": 521,
+            "property_label": "labelOfOrganizerTranscription",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "世田谷パブリックシアター",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "SETAGAYA PUBLIC THEATRE",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "せたがやぱぶりっくしあたー",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234809",
+            "display_title": "ブラック メリーポピンズ",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234809,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233680",
+            "display_title": "EV00215643",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215643_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/e73a5238445b6114b18fdd4dc6941844257756bd.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233680,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236430",
+            "display_title": "01_05587-03-2014-04_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "05587-03-2014-04_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/a34da4c103fff17ecb37b428bcc577989fb30c4f.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236430,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236431",
+            "display_title": "02_05587-03-2014-04_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "05587-03-2014-04_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/fae9522116337a454d6cf4936516e280a0d4d17e.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236431,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "05587-03-2014-04",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ぶらっくめりーぽぴんず",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "焼け落ちた、豪邸。消え落ちた、記憶。子供たちの、メリーポピンズは何処？\n1930年代､著名な心理学者グラチェン･シュワルツ博士の豪邸で火事が起こり、博士の遺体もろとも、すべてが燃え尽きた｡全身に火傷を負いながら、猛火の中から博士の4人の養子達､ハンス（小西遼生）､ヘルマン（上山竜司）､ヨナス（良知真次）､アンナ（音月桂）を救出した家庭教師メリー・シュミット（一路真輝）。しかし､メリーは失踪｡ \n残された子供たちは､誰一人その夜の事を何も憶えておらず､すべては闇に葬られた｡\n\nそれから12年｡ \nいつしか事件は忘れ去られ､それぞれ違う家庭で新しい人生を送っている4人は久々に再会し、ハンスからグラチェン博士の手帳が存在している事を告げられる。\nあの夜、何があったのか･･･。そこには事件の真相が･･･？\n\nあなたが取り出した子供達の記憶､あなたが消しなさい｡この事実は誰にも知られてはならないのです｡",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "A burnt down mansion. The memories that disappeared. Where is the children’s Merry Poppins?\n\nIn the 1930s, a fire breaks out in the mansion of the renowned psychologist Dr. Grantschen Schwartz, and everything, including the professor’s body, was burned away. With burns all over her body, the tutor Mary Schmidt (Ichiro Maki) rescued the four adopted children of the professor, Hans (Konishi Ryosei), Hermann (Ueyama Ryuji), Jonas (Rachi Shinji), and Anna (Otozuki Kei) from the fire. However, Mary disappeared.\nNone of the children left behind remember anything about that night, and everything was buried in the darkness.\n\n12 years later.\nThe incident is forgotten, and the four individuals who live new lives in different families reunited for the first time, where Hans tells them about the existence of Dr. Grantschen’s notebook.\nWhat happened that night…can the truth of the incident be found there…?\n\nThe memories of the children that you have taken out, you must erase them. This fact cannot be known by anyone.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2014",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "05587-03-2014-04",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "05587-03-2014-04",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "ミュージカル",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "musical",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2014/7/5",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "ブラック メリーポピンズ",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Black Merry Poppins",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:06+00:00"
+    },
+    "o:id": 238191,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-22T06:22:12+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "ブラック メリーポピンズ",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

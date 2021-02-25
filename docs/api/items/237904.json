@@ -1,0 +1,393 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/237904",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207788",
+            "display_title": "SPAC－静岡県舞台芸術センター",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207788,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "宮城聰",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "MIYAGI Satoshi",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2013/6/22",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "・製作：SPAC－静岡県舞台芸術センター\r\n・支援：平成25年度文化庁劇場・音楽堂等活性化事業\r\n・「ふじのくに⇄せかい演劇祭2013」上演作品\r\n・上演時は英語字幕あり（字幕翻訳・操作：コーリー・ターピン）\r\n----------\r\n別途エクセルにて英訳を提供します。",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01099",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "SPAC－静岡県舞台芸術センター",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizerTranscription": [
+        {
+            "@language": "ja",
+            "@value": "すぱっく　しずおかけんぶたいげいじゅつせんたー",
+            "is_public": true,
+            "property_id": 521,
+            "property_label": "labelOfOrganizerTranscription",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "舞台芸術公園 野外劇場「有度」",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Open Air Theatre “UDO”, Shziuoka Performing Arts Park",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ぶたいげいじゅつこうえん やがいげきじょう うど",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234492",
+            "display_title": "黄金の馬車",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234492,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233583",
+            "display_title": "EV00215509",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215509_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/3fec8c2d4bbb5a15d5e0f50649379cbe84c68166.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233583,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235826",
+            "display_title": "01_02633-08-2013-07_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2013-07_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/1f841ae6ffa0bffb68bdeda48715da181750414e.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235826,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235827",
+            "display_title": "02_02633-08-2013-07_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2013-07_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/29b1932d1f3645009d645cbbb0948a6dad1873e7.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235827,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235828",
+            "display_title": "03_02633-08-2013-07_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2013-07_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/5e3c79fe49053f140f7b0f3e8e655d884cecbe36.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235828,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235829",
+            "display_title": "04_02633-08-2013-07_04.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2013-07_04.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/5123cc86a89998c94a164bae6e232559cb71aa03.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235829,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235830",
+            "display_title": "05_02633-08-2013-07_05.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2013-07_05.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/c73279daa3b3352a403f5550e2bf88b748ff5a4f.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235830,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235831",
+            "display_title": "06_02633-08-2013-07_06.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2013-07_06.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/35b267476d3bbafd6f9f2db6a0a464911f93f70e.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235831,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "02633-08-2013-07",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "おうごんのばしゃ",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "「人生は芝居か？芝居こそが人生か？」ジャン・ルノワールの名作映画に着想を得た、絢爛豪華絵巻！\r\n「わからないわ、舞台でも人生でも、懸命に生きているのに。舞台だとうまくいくのに、人生だと愛するものを壊してしまう。どちらに真実があるの？どこまでが舞台で、どこからが人生？」主人公のカミーラはそう呟く。人生は舞台の上か下か。境目もない現実の世界で、求める幸せはどんな形をしているのだろう？山野を揺るがす打楽器の音色に身を任せるうちに、やがて舞台と客席の境界は曖昧になってくる。見惚れ、聞き入り、魂を沿わせ、万感の思いが入り乱れるラストシーンで、あなたは果たして「どちら側」に立っているのだろうか？絢爛豪華な黄金の馬車の輝きが去った後に残されるのは果たして・・・。\r\n\r\n『マハーバーラタ』フランス公演を絶賛の中で終えた宮城聰が、\r\n初夏の野外劇場で、待望の祝祭音楽劇・最新作！\r\n俳優たちがパーカッションを鳴らし、独特のグルーヴ感で会場を包み込むSPACの祝祭音楽劇。既に静岡ではおなじみの光景なのかもしれないが、こんなことができる劇団は世界広しと言えどもここだけである。歌ではない、ダンスでもない、しかし日本人の身体の底に根ざしたリズムとしなやかな所作は間違いなく見るものの心に「非日常」の感動を呼び起こす。古代の森に抱かれた有度山の野外劇場に響く棚川寛子の音楽もますます冴えわたり、本年２月にフランス各地で絶賛を受けた『マハーバーラタ』の系譜に連なる宮城聰の最新作から目が離せない！",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "“Is life an act? Or is acting life?”\r\n A gorgeously colorful performance conceived from Jean Renoir’s famous movie!\r\n I just don’t understand…whether its on stage or in life… and I’m putting all I have into living both. Things go well up on stage, but I destroy the things I love in life. In which does the truth lie? Where does the stage end and life begin?” whispers the main character Camilla. Is life on or off stage? What is the shape of the happiness she seeks in the real world that has no such border? The border between stage and audience blurs as the melodies of percussion instruments shake the hill side and bodies of those enchanted. After being visually and melodically sucked in to the point of soul washing, which side will you be standing on when facing the last scene that overflows with a thousand emotions? As the brilliance of the gorgeous golden coach pulls away, the audience is left with…\r\n \r\n The latest celebrative musical piece to be held under the open sky by Director Satoshi MIYAGI who has recently come away from a highly acclaimed presentation of Mahabharata in France!\r\n At this celebrative musical of SPAC, the actors enthrall the audience with an original groove as they play away on percussion instruments. Although this may be a familiar sight in Shizuoka, this may just be the only theater group in this broad broad world of ours able to do it as such. It is neither song nor dance. However this limber rhythm that has taken root in the bodies of the Japanese is bound to call upon an “unusual” place in the heart of viewers. The music of Hiroko TANAKAWA cuts ever so gradually through the ancient forest in which lies the Open Air Theater UDO. Be captivated by Satoshi MIYAGI’s latest piece since receiving high acclaim for the performance of Mahabharata in multiple regions of France that also bears the same pedigree of style.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2013",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@language": "ja",
+            "@value": "「ふじのくに⇄せかい演劇祭2013」上演作品\r\n上演時は英語字幕あり",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "02633-08-2013-07",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "02633-08-2013-07",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2013/6/1",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "黄金の馬車",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "The Golden Coach",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:26:59+00:00"
+    },
+    "o:id": 237904,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:24+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "黄金の馬車",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

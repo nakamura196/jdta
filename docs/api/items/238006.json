@@ -1,0 +1,422 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238006",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207890",
+            "display_title": "公益財団法人日本製鉄文化財団",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207890,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2010/9/27",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "対談　竹内道敬、徳丸吉彦\r\n「ほととぎす」\r\n　　　箏　　山登松和、田中奈央一\r\n　　　三絃　千葉真佐輝\r\n「葵の上」\r\n　　　箏　　山勢松韻、武田祥勢、奥山益勢\r\n　　　三絃　山勢麻衣子",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "伝統芸能",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Traditional performing arts",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01236",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "en",
+            "@value": "doncho",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Proscenium",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "With music",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "songs",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyEpadOffice": [
+        {
+            "@language": "ja",
+            "@value": "緞帳が上がって始まる",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "緞帳が下りて終演",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "プロセニアム",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "音楽あり",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "歌あり",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "邦楽",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "公益財団法人日本製鉄文化財団",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizerTranscription": [
+        {
+            "@language": "ja",
+            "@value": "こうえきざいだんほうじんにっぽんせいてつぶんかざいだん",
+            "is_public": true,
+            "property_id": 521,
+            "property_label": "labelOfOrganizerTranscription",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "紀尾井小ホール",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Kioi Small Hall",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "きおいしょうほーる",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234615",
+            "display_title": "「ほととぎす」",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234615,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234616",
+            "display_title": "「葵の上」",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234616,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233904",
+            "display_title": "EV00215932",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215932_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/c7737f15e25e86d9bba326d0c97163580d883f90.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233904,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236157",
+            "display_title": "01_11320-03-2010-02_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "11320-03-2010-02_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/cff1771609e2dae7b47823a289a637e23f244db0.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236157,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236158",
+            "display_title": "02_11320-03-2010-02_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "11320-03-2010-02_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/03ca9b58be5c93359c93872b6df93c4bc72a153e.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236158,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "11320-03-2010-02",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "えどおんがくのきょしょうたち　そのじんせいとめいきょく　だいじゅっかい　やまだけんぎょう　そうきょく",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "今日の私たちに伝えられてきている「江戸音楽」を、その時代にあって創り、育んだ巨匠たちに焦点を当てたシリーズ。第10回は江戸の三味線音楽にも通じ、語り物としての筝曲を発達させた　山田検校\r\n\r\n対談　竹内道敬、徳丸吉彦\r\n「ほととぎす」\r\n　　　箏　　山登松和、田中奈央一\r\n　　　三絃　千葉真佐輝\r\n「葵の上」\r\n　　　箏　　山勢松韻、武田祥勢、奥山益勢\r\n　　　三絃　山勢麻衣子",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "A series of concerts focusing on the masters who created and fostered the music of Edo that reflected its era and has been transmitted down to the present day.\r\n10th presentation: The Expert in Edo Shamisen Music who Developed Koto Music as a Narrative Genre: Yamada Kengyō\r\n\r\nDiscussion: Takeuchi Dōkei, Tokumaru Yoshihiko\r\n\r\nMusic: \r\n- Hototogisu\r\nKoto: Yamato Shōwa, Tanaka Naokazu\r\nShamisen: Chiba Masateru\r\n- Aoi no ue\r\nKoto: Yamase Shōin, Takeda Shōse\r\nShamisen: Yamase Maiko",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2010",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "11320-03-2010-02",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "11320-03-2010-02",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "箏曲",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "koto music",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2010/9/27",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "江戸音楽の巨匠たち～その人生と名曲　第１０回 山田検校＜箏曲＞",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Masters of Edo Music, Their Lives and Masterworks (10): \"Yamada Kengyō: Koto Music\"",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:01+00:00"
+    },
+    "o:id": 238006,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:24+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "江戸音楽の巨匠たち～その人生と名曲　第１０回 山田検校＜箏曲＞",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

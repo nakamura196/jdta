@@ -1,0 +1,166 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/208201",
+    "@type": [
+        "o:Item",
+        "dcepk:Agent"
+    ],
+    "dcepk:agentTranscription": [
+        {
+            "@language": "ja",
+            "@value": "とむぷろじぇくとかぶしきがいしゃ",
+            "is_public": true,
+            "property_id": 487,
+            "property_label": "Agent名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:location": [
+        {
+            "@language": "ja",
+            "@value": "東京都",
+            "is_public": true,
+            "property_id": 505,
+            "property_label": "Agent住所(都道府県名)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:role": [
+        {
+            "@language": "ja",
+            "@value": "取得.納入",
+            "is_public": true,
+            "property_id": 514,
+            "property_label": "Agent役割",
+            "type": "literal"
+        }
+    ],
+    "dcepk:roleName": [
+        {
+            "@language": "ja",
+            "@value": "納入",
+            "is_public": true,
+            "property_id": 515,
+            "property_label": "Agent役割名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Delivery",
+            "is_public": true,
+            "property_id": 515,
+            "property_label": "Agent役割名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "02271-03-2018-05:del01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "演劇・舞踊・音楽など既成のジャンルにとらわれず、観る側と、創る側がお互い夢を持てる舞台を創作し、届けたい。心を伝えられる企画・舞台創造・プロデュースを目指しています。平成6年6月、現代創作劇を創造活動の柱に演劇制作を開始。以降、旬の作家、俳優を起用し毎年2,3本の創作劇を中心にプロデュース公演を企画制作。全国ツアーを展開している。平成9年、次代を背負う若き演劇人発掘のため、オーディション選抜の「新人公演」を制作。また平成12年からは海外公演も積極的に取組み、文化交流を進めている。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "We want to create and deliver a stage where the viewer and creator can have dreams together, regardless of established genres such as theater, dance, and music. We aim to create and produce projects that convey the heart. We started producing theater in June 1994, with contemporary creative drama as the pillar of our creative activities. Since then, we have appointed trending writers and actors to plan and produce performances centered on 2 or 3 creative plays every year. We are developing a national tour. In 1997, we produced an audition-selected “newcomer performance” in order to discover young theater people who will shoulder the next generation. Since 2000, we have also been actively engaged in overseas performances and promoted cultural exchanges.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ag-c46efb6db7324ee6ed3fe8eec3e5b4a1",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "トム・プロジェクト株式会社",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:homepage": [
+        {
+            "@value": "http://www.tomproject.com",
+            "is_public": true,
+            "property_id": 147,
+            "property_label": "homepage",
+            "type": "literal"
+        }
+    ],
+    "foaf:name": [
+        {
+            "@language": "ja",
+            "@value": "トム・プロジェクト株式会社",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Tom project",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:06:21+00:00"
+    },
+    "o:id": 208201,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:19:37+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/307",
+        "o:id": 307
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/12",
+        "o:id": 12
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "トム・プロジェクト株式会社",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

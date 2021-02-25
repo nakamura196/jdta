@@ -1,0 +1,373 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238181",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208065",
+            "display_title": "ナイロン100℃",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208065,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "ケラリーノ・サンドロヴィッチ",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "KERARIINO Sandorovitchi",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2018/8/12",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01667",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "ja",
+            "@value": "学生運動",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "バブル経済",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "社会",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "social",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "キューブ",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "東京芸術劇場ウエスト／りゅーとぴあ新潟市民芸術文化会館・劇場／えずこホール／いわき芸術文化交流館アリオス 中劇場",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Tokyo Metropolitan TheatreUESUTO/RYUTOPIANIIGATASHIMINGEIJUTSUBUNKAKAIKANGEKIJO/EZUKOHORU/IWAKIGEIJUTSUBUNKAKORYUKANARIOSUCHUGEKIJO",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "とうきょうげいじゅつげきじょううえすと／りゅーとぴあにいがたしみんげいじゅつぶんかかいかんげきじょう／えずこほーる／いわきげいじゅつぶんかこうりゅうかんありおすちゅうげきじょう",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234799",
+            "display_title": "睾丸",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234799,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233688",
+            "display_title": "EV00215655",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215655_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/9909f147f626b2cdca5d7fc0c3abdd658d1b4910.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233688,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233689",
+            "display_title": "EV00215656",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215656_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/de599dc64e42878f7699a72e3ad2c9fc6f35e585.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233689,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236410",
+            "display_title": "01_02367-01-2018-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02367-01-2018-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/40e8c8a9eaa72a7fed948cfb2c27537d69932159.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236410,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236411",
+            "display_title": "02_02367-01-2018-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02367-01-2018-01_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/d0e1615471fe5f0a69d227b5a5e3fec6a495fa85.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236411,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "02367-01-2018-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "こうがん",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "「25年前の俺たちが、今の俺たちを見たらどう思いますかね」時代の狭間に生きる哀歓を描く、 ケラリーノ・サンドロヴィッチの新境地!\r\n\r\n1993年、バブル景気が終息した日本。旅行会社を経営する赤本建三（三宅弘城）は、東京郊外の一軒家に妻の亜子（坂井真紀）と娘の桃子（根本宗子）と住む。家には亜子の弟・光吉（赤堀雅秋）が居候し、その元妻・浩子（新谷真弓）が夜な夜な訪れる。\r\nだがある深夜、七ツ森豊（安井順平）の死を知らせる電報が届く。建三と亜子には同志の学生たち（眼鏡太郎、皆戸麻衣ほか）と運動に身を投じた過去があった。七ツ森は彼らのセクトのリーダーであり、ある事情で25年前に植物人間になっていたのだ。そこへ突如、かつての同志で演劇仲間だった立石伸高（みのすけ）が来訪し──。\r\n\r\n七ツ森が遺したノートから、明らかになっていく25年前の「真実」。革命を夢見た人々と、その子供たちがたどり着く「然るべき場所」とは？",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "“I wonder what the version of ourselves 25 years ago would say if they saw us now.”\r\nKeralino Sandrovich’s new frontier, depicting the sorrows of living between the times!\r\n\r\nThe year is 1993, and the bubble economy has burst in Japan. Akamoto Kenzo (Miyake Hiroshi), who runs a travel agency, lives in a house on the suburbs of Tokyo with his wife Ako (Sakai Maki) and daughter Momoko (Nemoto Shuko). Ako’s younger brother Mitsuyoshi (Akahori Masaaki) lives in the house, and his ex-wife Hiroko (Shintani Mayumi) visits at night.\r\nBut one late night, a telegram arrives reporting on the death of Nanatsumori Yutaka (Yasui Junpei). Kenzo and Ako had a history of devoting themselves to exercise with their fellow students (Gankyo Taro, Minato Mai, etc.). Nanatsumori was the leader of their sect, and he became a vegetable 25 years ago due to some circumstance. Suddenly, their former comrade and theater companion Tateishi Nobutaka (Minosuke) visits…\r\n\r\nThe “truth” of 25 years ago is revealed from the notes left behind by Nanatsumori. What is the “right place” for those who dreamed of a revolution and their children?",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2018",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "02367-01-2018-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "02367-01-2018-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "現代劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "contemporary theater",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2018/7/6",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "睾丸",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Testicles",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:05+00:00"
+    },
+    "o:id": 238181,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:25+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "睾丸",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

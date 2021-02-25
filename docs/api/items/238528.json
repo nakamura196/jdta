@@ -1,0 +1,315 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238528",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208412",
+            "display_title": "株式会社文学座",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208412,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:award": [
+        {
+            "@language": "ja",
+            "@value": "第20回読売演劇大賞最優秀作品賞",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "第20回読売演劇大賞優秀演出家賞(髙瀬久男)",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "第20回読売演劇大賞最優秀スタッフ賞(島次郎)",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "第20回読売演劇大賞優秀スタッフ賞(沢田祐二)",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "高瀬久男",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "TAKASE Hisao",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2012/6/1",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P02067",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "文学座アトリエ",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "BUNGAKUZAATORIE",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ぶんがくざあとりえ",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235146",
+            "display_title": "ナシャ・クラサ",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235146,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234265",
+            "display_title": "EV00216403",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00216403_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/0adcad74031d660caa2e739c1dc58fc8c9677231.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234265,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234266",
+            "display_title": "EV00216404",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00216404_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/b70ab3d98f8478861f8609c9371c67c3a61fe2ac.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234266,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00453-01-2012-08",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "なしゃくらさ",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "『NASZA KLASA（ナシャ・クラサ）』ポーランド語で私たちの同級生という意味。この作品はポーランドのとある学校の同じ教室で学んだ男女10人の“歴史”を描いたもので、第二次世界大戦におけるユダヤ人への弾圧といった歴史的事実を通して彼らの人生に迫ります。舞台のモデルとなっているのはポーランド北東部に位置するイェドバブネという小さな町。世界大戦によって国の東側をソビエトに占領され、その後独ソ不可侵条約を破って侵攻してきたドイツの占領下となる複雑な時代背景の中、10人の登場人物たちが如何にして生き、死んでいったのか。ポーランド人かユダヤ人か、変えようのない事実が運命を大きく左右する。かつてのクラスメートたちはその運命に翻弄され、抵抗すら出来ずに命を落とす者、誰かを犠牲にしても生きようとする者、それぞれの“歴史”が舞台上に刻まれることになる。それはあたかも彼ら自身の目で見、耳で聞き、心に記録された事実＝歴史を振り返り、学ぶための授業のようである。この町でのユダヤ人虐殺に、ポーランド人が深く関わったといわれる歴史の暗部に鋭く切り込んだ本作は、本国ポーランドにおいて度々上演され、作者はこの作品でニケ賞（ポーランドで最も権威のある文学賞）を受賞しています。日本初演となる本作。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "“NASZA KLASA” means “our classmate” in Polish. This work depicts the “history” between 10 men and women who studied in the same classroom of a certain school in Poland and approaches their lives through historical facts such as the crackdown on Jews during World War II.\r\nThe model for the stage is a small town called Jedwabne, located in northeastern Poland. How did the 10 characters live and die in a complex time period, where the eastern side of their country was occupied by the Soviets, after which they were occupied by the Germans after their breaking of the non-aggression pact and invasion? The unchangeable fact of whether one is a Pole or Jew greatly change the characters’ fates. Former classmates were at the mercy of their own fates. Some who die without being able to resist, some who try to live even at the cost of another life – each of their “histories” are carved into the stage.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2012",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "00453-01-2012-08",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "00453-01-2012-08",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2012/5/18",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "ナシャ・クラサ",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "NASZA KLASA",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:13+00:00"
+    },
+    "o:id": 238528,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:28+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "ナシャ・クラサ",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

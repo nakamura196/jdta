@@ -1,0 +1,132 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/235693",
+    "@type": [
+        "o:Item",
+        "dcepk:StillImage"
+    ],
+    "dcepk:fileName": [
+        {
+            "@value": "08223-01-2012-02_02.jpg",
+            "is_public": true,
+            "property_id": 499,
+            "property_label": "ファイル名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:materialType": [
+        {
+            "@language": "ja",
+            "@value": "舞台写真",
+            "is_public": true,
+            "property_id": 507,
+            "property_label": "資料タイプ",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "stage photo",
+            "is_public": true,
+            "property_id": 507,
+            "property_label": "資料タイプ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "08223-01-2012-02_02",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "si-6c4b42a18891f3c9bf92efeb3a9cf7ed",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@language": "ja",
+            "@value": "松本久木",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "松本久木",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "02_08223-01-2012-02_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/StillImage",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:20:59+00:00"
+    },
+    "o:id": 235693,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/media/239066",
+            "o:id": 239066
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:21:42+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/308",
+        "o:id": 308
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/15",
+        "o:id": 15
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "02_08223-01-2012-02_02.jpg.jpg",
+    "thumbnail_display_urls": {
+        "large": "/files/large/ca5e2cf5e94ebea070e8ef948ab80119ce8f8f38.jpg",
+        "medium": "/files/medium/ca5e2cf5e94ebea070e8ef948ab80119ce8f8f38.jpg",
+        "square": "/files/square/ca5e2cf5e94ebea070e8ef948ab80119ce8f8f38.jpg"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/236882",
+    "@type": [
+        "o:Item",
+        "dcepk:StillImage"
+    ],
+    "dcepk:fileName": [
+        {
+            "@value": "00380-01-2003-01_02.jpg",
+            "is_public": true,
+            "property_id": 499,
+            "property_label": "ファイル名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00380-01-2003-01_02",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "si-e5bff6e3fcbc15839462aebf881aca9e",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "02_00380-01-2003-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:21:12+00:00"
+    },
+    "o:id": 236882,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/media/241454",
+            "o:id": 241454
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:21:45+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/308",
+        "o:id": 308
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/15",
+        "o:id": 15
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "02_00380-01-2003-01_02.jpg.jpg",
+    "thumbnail_display_urls": {
+        "large": "/files/large/3cfc166fe3759787c37033a6ce2dc32addaa3df2.jpg",
+        "medium": "/files/medium/3cfc166fe3759787c37033a6ce2dc32addaa3df2.jpg",
+        "square": "/files/square/3cfc166fe3759787c37033a6ce2dc32addaa3df2.jpg"
+    }
+}

@@ -1,0 +1,357 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238179",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208063",
+            "display_title": "ナイロン100℃",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208063,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "ケラリーノ・サンドロヴィッチ",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "KERARIINO Sandorovitchi",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2014/11/2",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01664",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "ja",
+            "@value": "サスペンス",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Suspense",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "キューブ",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "本多劇場／北九州芸術劇場　中劇場／シアター・ドラマシティ／りゅーとぴあ新潟市民芸術文化会館　劇場",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "HONDAGEKIJO/KITAKYUSHUGEIJUTSUGEKIJO　CHUGEKIJO/THEATREDORAMASHITEI/RYUTOPIANIIGATASHIMINGEIJUTSUBUNKAKAIKAN　GEKIJO",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ほんだげきじょう／きたきゅうしゅうげいじゅつげきじょう　ちゅうげきじょう／しあたーどらましてぃ／りゅーとぴあにいがたしみんげいじゅつぶんかかいかん　げきじょう",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234797",
+            "display_title": "社長吸血記",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234797,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233671",
+            "display_title": "EV00215632",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215632_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/3bfc7aa96e29066537549fd922d4dea2c03390ef.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233671,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233672",
+            "display_title": "EV00215633",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215633_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/25309ced5ae27b98e6dc9d377d27a07e7405822f.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233672,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236406",
+            "display_title": "01_02367-01-2014-02_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02367-01-2014-02_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/7a529987486e9924231190942f9b4d51aeee4c38.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236406,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236407",
+            "display_title": "02_02367-01-2014-02_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02367-01-2014-02_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/b0b6ebb3aa0360f20d1e7afe2ae2de0214a42efb.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236407,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "02367-01-2014-02",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "しゃちょうきゅうけつき",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "ナイロン100℃流、サスペンス×ナンセンスの波状攻撃ブラック企業社長失踪事件の真実に探偵はたどり着けるのか\r\n鍵を握るのは謎のメッセージ──「今日は集合の日だ」\r\n\r\nとあるビルディングに入る会社で起きた社長失踪事件。室長の目崎（三宅弘城）、黛（大倉孝二）、その妹（鈴木杏）、若手の道下（岩崎う大）ら社員たちは社長の身を案じつつも、昼下がりのビルの屋上でのんきに過ごしている。刑事の森（みのすけ）もおざなりな捜査をするだけだ。会社は老人を狙ってもあこぎな商売をしているようで、担当官マリィ（犬山イヌコ）のもと、若手の毛利（槙尾ユウスケ）やベテランのメイコ（村岡希美）ら社員が参加してシミュレーション演習が行われている。\r\n失踪事件解決の依頼を受けた良い探偵（山内圭哉）は、独自に調査を開始。どうやら隣のビルに住む男・曲（山内／2役）が何か関係しているようだ。かすかに漏れ聞こえてくるのは「今日は集合の日だ」という謎の声。その部屋にはミミや、関西弁の女マサヨ（峯村リエ）が出入りしていた。\r\n一方、人の気配がなくなったビルの屋上に、どこからともなく男女が集まってくる。辻（三宅）、平井（みのすけ）、大田黒（大倉）、千津（峯村）、春奈（村岡／以上2役）の6人は、以前この会社で働いていたらしい。\r\n社長の行方は明らかになるのか。そしてビルの屋上になぜ男女が集められたのか──。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "A wave-like attack of suspense × nonsense, Nylon 100℃ style\r\nWill the detective be able to arrive at the truth of the disappearance of the corrupt company president?\r\nThe key is in the mysterious message – “Today is the meeting day”.\r\n\r\nThe disappearance of a president at a company in a certain building. Despite being concerned about their president, employees such as the manager Mezaki (Miyake Hiroki), Mayuzumi (Okura Koji), his younger sister (Suzuki Anna), and the young Michishita (Iwasaki Udai) pass their time on the building rooftop in the afternoon in a carefree manner. Detective Mori (Minosuke) also only conducts a basic investigation. The company seems to greedily conduct business, even if it means targeting the elderly, and employees like the young Mori (Makio Yusuke) and veteran Meiko (Muraoka Nozomi) participate under the officer Marie (Inuyama Inuko) and conduct simulation exercises.\r\nThe good detective (Yamauchi Keiya), who was asked to resolve the disappearance, independently begins his investigation. It seems that the man Kyoku (Yamauchi / two roles) living in the building next door is somehow related to this case. The mysterious voice faintly heard is “today is the meeting day”. People like Mimi and the woman with the Kansai dialect, Masayo (Minemura Rie) were coming and going from that room.\r\nMeanwhile, on the rooftop of the building where there were no signs of people, a large group of men and women gather from out of nowhere. Tsuji (Miyake), Hirai (Minosuke), Otaguro (Okura), Chizu (Minemura), and Haruna (Muraoka / two roles) all used to work at this company.\r\nWill the whereabouts of the president be revealed? And why were the men and women gathered on the rooftop of the building…?",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2014",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "02367-01-2014-02",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "02367-01-2014-02",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "現代劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "contemporary theater",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2014/9/26",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "社長吸血記",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Company President Blood Sucking Diary",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:05+00:00"
+    },
+    "o:id": 238179,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:25+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "社長吸血記",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

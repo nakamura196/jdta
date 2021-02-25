@@ -1,0 +1,436 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238859",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208743",
+            "display_title": "NPO法人JCDN「踊りに行くぜ!!」",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208743,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "三浦宏之/康本雅子",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "MIURA Hiroyuki/YASUMOTO Masako",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2008/6/30",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "舞踊",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Dance",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P02677",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "en",
+            "@value": "Ends in the dark",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Proscenium",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "With music",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "songs",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyEpadOffice": [
+        {
+            "@language": "ja",
+            "@value": "暗転で終わる",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "プロセニアム",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "音楽あり",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "歌あり",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "バリ公演・バリアートセンター／ジャカルタ・ゲーテハウス／ジョグジャカルタ・Gedung Concert Hall Taman Budaya Yogyakarta／バンドン ・Dewi Asri, STSI Bandun",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Gedung Concert Hall Taman Budaya Yogyakarta/Dewi Asri, STSI BandunYogyakarta/Paris Art Center/GoetheHaus Jakarta",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ばりとう／じゃかるた／じょぐじゃかるた／ばんどん",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235482",
+            "display_title": "ジャカルタ・バリ公演",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235482,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235483",
+            "display_title": "ジョグジャカルタ・バンドン公演",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235483,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233815",
+            "display_title": "EV00215805",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215805_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/afeb5ff903246097dd5131470949123fc605a089.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233815,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233816",
+            "display_title": "EV00215806",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215806_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/c1f21ef4f8222ad4b19ca545d64031a39b833f12.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233816,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237734",
+            "display_title": "01_04872-03-2008-04_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "04872-03-2008-04_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/0cecddda5dff76f03437ff3bf67c599c775d1709.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237734,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237735",
+            "display_title": "02_04872-03-2008-04_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "04872-03-2008-04_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/05242a114c707ebe1388435bb975766a644536dc.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237735,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237736",
+            "display_title": "03_04872-03-2008-04_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "04872-03-2008-04_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/f7ac62f436ba87bc2d288524ed3504a858098167.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237736,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237737",
+            "display_title": "04_04872-03-2008-04_04.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "04872-03-2008-04_04.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/379d1c5f2f02813120eacbcf44dcb7185634a915.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237737,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "04872-03-2008-04",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "おどりにいくぜ　2008ぼりゅーむ2　いんどねしあよんとしつあー",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "「踊りに行くぜ！！」アジアツアーを2007年から2009年まで3年間連続して行いました。2007年マレーシア、フィリピン、インドネシア、タイ、2008年インドネシ　ア4都市ツアー（バリ、ジャカルタ、ショグジャカルタ、バンドン）2009年タイ（バンコク、チェンマイ）マレーシア、ベトナム、カンボジア、中国　北京・広州の7ヶ国１３都市をツアーしました。2008年“スカパー！シアターテレビジョン”にてレギュラー放送されたプログラムです。\r\n上演作品・カンパニー・アーティスト・作品コメント紹介\r\n\r\n星加昌紀（松山）「:帰還者」\r\n[振付・出演] 星加　昌紀\r\n『ゲーム中によくある思考の擬似体験。ゲームはゲーム。長い沈黙の中に男は還ってきた。』\r\n\r\nピンク（東京）「:子羊たちの夕焼けボート」\r\n[振付・出演] 磯島未来、加藤若菜、須加めぐみ\r\n『やればやる程分からなくなり\r\nでもやることで突きとめたい頑固不器用\r\n進んで飲み込まれて\r\nそれでも進む\r\nその先に見えるものは何ですか』\r\n\r\nバゴン・クスディアルジャ芸術財団におけるワークショップ参加者「昨日の明日」\r\n[構成・演出・振付]三浦宏之（東京）\r\n[出演]　インドネシアワークショップ参加者\r\n三浦宏之（東京）が、ジョグジャカルタに滞在し、インドネシア人5名とクリエイション・ワークショップ　を重ね創作した作品 \r\n\r\nムギヨノ・カシド（ソロ）　「うわさKabar Kabur」\r\n振付・出演：ムギヨノ・カシド\r\n『スハルト退陣後の混乱するインドネシアの社会、経済、政治を見つめるところから生まれた作品。社会と身体、それぞれを構成する要素、それぞれの機能と位置を一つ一つ確かめる。社会と身体はお互いに協調しなければならない。そうでなければ、身体は衰え、病み、惨めに死んでいくのみ。』\r\n\r\nDance Theatre LUDENS（東京）「Be」\r\n[構成・演出・振付] 岩淵多喜子　　\r\n[共同振付・出演] 太田ゆかり、大塚啓一\r\n『「Be」　　\r\n～である　存在する\r\n自分自身であること\r\n自分自身でありながら他者と存在すること\r\n他者と存在しながら自分自身であり続けること』",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "The project \"We’re Gonna Go Dancing!!” toured Asia for three consecutive years from 2007 to 2009. It toured 13 cities in 7 countries: Malaysia, Philippines, Indonesia and Thailand in 2007, four cities (Bali, Jakarta, Yogyakarta, Bandung) in Indonesia in 2008, Thailand (Bangkok, Chiang Mai), Malaysia, Vietnam, Cambodia, China (Beijing, Guangzhou) in 2009. These are the Yogyakarta and Bandung performances from the Indonesia 4-city tour of our Asia tour in June 2008. This program was regularly broadcast on the Theater TV channel of a direct broadcast satellite service, SKY PerfecTV! in October 2008. \r\n\r\nPrograms, companies, artists and comments on the performance are as follows:\r\n\r\nMasanori Hoshika (Matsuyama) “Returnee”\r\n[Choreography・Direction] Masanori Hoshika\r\n“Going through the virtual reality in mind. A game is a game. He has returned into the long silence.”\r\n\r\nPink (Tokyo) “Sunset Boat of Little Lambs”\r\n[Choreography・Dance] Miki Isojima, Wakana Kato, Megumi Suka\r\n“The more we try, the more we get confused.\r\nWe are stubborn, we only find out by trying.\r\nMove forward, get swallowed in, and yet move forward again.\r\nWhat do we see on the other side of the tunnel?”\r\n\r\nThe Participants of the Workshops at Yayasan Bagong Kussudiardja (BK Foundation) “Tomorrow’s Yesterday” \r\n[Direction・Choreography] Hiroyuki Miura (Tokyo)\r\n[Dance] Participants of the workshops in Indonesia\r\nHiroyuki Miurra (Tokyo) stayed in Yogyakarta and held a series of creation workshops with five Indonesian dancers and created this piece.\r\n\r\nMugiyono Kasido (solo) “Kabar Kabur (The Rumors)”\r\nChoreography・Dance: Mugiyono Kasido\r\n“This work is the result of observing the chaotic society, economy, and politics of Indonesia after Suharto’s departure. It examines society and the body, the elements that constitute both, and the functions and positions one by one. Society and the body must work together in harmony. Otherwise, the body will deteriorate, get sick and die miserably.\"\r\n\r\nDance Theatre LUDENS (Tokyo) “Be”\r\n[Direction・Choreography] Takiko Iwabuchi\r\n[Co-Choreography・Dance] Yukari Ota, Keiichi Otsuka\r\n\"To exist or live\r\nTo be yourself \r\nTo be yourself while being with others\r\nTo continue to be yourself while being with others\"",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2008",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "04872-03-2008-04",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "04872-03-2008-04",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "コンテンポラリーダンス",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "contemporary dance",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2008/6/12",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "「踊りにいくぜ！！」2008アジアツアーvol.2　インドネシア　4都市ツアー",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "JCDN \"We’re Gonna Go Dancing!!\"　Sellection 04",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:21+00:00"
+    },
+    "o:id": 238859,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:30+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "「踊りにいくぜ！！」2008アジアツアーvol.2　インドネシア　4都市ツアー",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

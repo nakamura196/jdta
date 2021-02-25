@@ -1,0 +1,124 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/237181",
+    "@type": [
+        "o:Item",
+        "dcepk:StillImage"
+    ],
+    "dcepk:fileName": [
+        {
+            "@value": "00371-01-2020-01_02.jpg",
+            "is_public": true,
+            "property_id": 499,
+            "property_label": "ファイル名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:materialType": [
+        {
+            "@language": "ja",
+            "@value": "その他",
+            "is_public": true,
+            "property_id": 507,
+            "property_label": "資料タイプ",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "others",
+            "is_public": true,
+            "property_id": 507,
+            "property_label": "資料タイプ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00371-01-2020-01_02",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "si-28e8e3a70503d8f2450bb125f957d125",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@language": "en",
+            "@value": "0",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "02_00371-01-2020-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/StillImage",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:21:15+00:00"
+    },
+    "o:id": 237181,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/media/241753",
+            "o:id": 241753
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:21:46+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/308",
+        "o:id": 308
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/15",
+        "o:id": 15
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "02_00371-01-2020-01_02.jpg.jpg",
+    "thumbnail_display_urls": {
+        "large": "/files/large/c1629a26141c66396b71838421e5b20e2a2cf24e.jpg",
+        "medium": "/files/medium/c1629a26141c66396b71838421e5b20e2a2cf24e.jpg",
+        "square": "/files/square/c1629a26141c66396b71838421e5b20e2a2cf24e.jpg"
+    }
+}

@@ -1,0 +1,413 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238193",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208077",
+            "display_title": "キューブ",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208077,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "板垣恭一",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "ITAGAKI Kyouichi",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2014/2/27",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "2011年8月に韓国で初演された作品。\r\n第17回韓国ミュージカル大賞で最優秀作品賞、作曲賞、脚本賞の3部門、第6回ザ・ミュージカルアワードでも創作ミュージカル賞、演出賞、脚本賞、作詞作曲賞、男優新人賞の5部門で受賞。\r\nこの作品の日本版初演となる。",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01689",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "ja",
+            "@value": "ミステリー",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "翻訳",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "韓国",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "mystery",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "translation",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Korea",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "東宝芸能　キューブ",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "東京芸術劇場プレイハウス／サンケイホールブリーゼ／キャナルシティ劇場／松本市民芸術館 主ホール／愛知県芸術劇場 大ホール／イズミティ21 大ホール／岩手県民会館 大ホール",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Tokyo Metropolitan TheatrePlayhouse/SANKEIHORUBURIZE/KYANARUSHITEIGEKIJO/MATSUMOTOSHIMINGEIJUTSUKANSHUHORU/AICHIKENGEIJUTSUGEKIJODAI・HALL/IZUMITEINIJUICHIDAI・HALL/IWATEKEMMINKAIKANDAI・HALL/",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "とうきょうげいじゅつげきじょうぷれいはうす／さんけいほーるぶりーぜ／きゃなるしてぃげきじょう／まつもとしみんげいじゅつかんしゅほーる／あいちけんげいじゅつげきじょうだいほーる／いずみてぃにじゅういちだいほーる／いわてけんみんかいかんだいほーる／",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234811",
+            "display_title": "シャーロック ホームズ～アンダーソン家の秘密～",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234811,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233681",
+            "display_title": "EV00215646",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215646_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/dfcaed82c0abed2d03308e76d7acc8128de6382e.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233681,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233682",
+            "display_title": "EV00215647",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215647_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/f7f44f6e7bc6fdf2620e6887869f4a4729a2f80b.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233682,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236435",
+            "display_title": "01_05587-03-2014-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "05587-03-2014-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/542150d40d3af1f7a669a5981618a86abf7168ee.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236435,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236436",
+            "display_title": "02_05587-03-2014-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "05587-03-2014-01_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/dd65d19cda117697455ced95165c22d37d9621d8.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236436,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236437",
+            "display_title": "03_05587-03-2014-01_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "05587-03-2014-01_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/85453691f5554292b0e1ab8dee4de9be3a9587b6.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236437,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "05587-03-2014-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "しゃーろっくほーむず　あんだーそんけのひみつ",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "19世紀末のロンドン。クリスマスの夜にイギリスの名門アンダーソン家で2発の銃声が響く。邸宅にいたのは家長アダム・アンダーソン（浦井健治）と双子の弟エリック・アンダーソン（浦井健治／二役）、そして2人に愛され、今はアダムの婚約者となったルーシー（昆夏美）。その事件直後から、ルーシーは行方不明となり･･･。難事件解決が人生の楽しみそのものであるシャーロック・ホームズ（橋本さとし）の元に、アンダーソン家の3人の男が次々と調査依頼にやって来る。一人は、アンダーソングループの会長でもある長男のアダム。一人は、兄の陰に隠れるように生きる弟エリック。そしてもう一人、ボディーガードを伴って現れたのは、2人の叔父でアンダーソングループ副会長である野心家のポビー（大澄賢也）。\r\n単純な失踪事件ではなさそうなこの案件にホームズは彼自身の偏執的好奇心をそそられ、本格的捜査に、助手のワトソン（一路真輝）と共に本格的に着手する。ほどなくアンダーソン家の周辺人物が一人ずつ殺害され始め･･･",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "London at the end of the 19th century. Two gunshots echo at the prestigious Anderson home in England on the night of Christmas. Those present in the home were the patriarch Adam Anderson (Urai Kenji), his twin brother Eric Anderson (Urai Kenji, dual role), and Lucy (Kon Natsumi), loved by the two men and now Adam’s fiancée. Immediately after the incident, Lucy goes missing…\r\nThree men from the Anderson family come to request investigations one after the other from Sherlock Holmes (Hashimoto Satoshi), whose life’s joy is solving difficult cases. One is Adam, the eldest son and also the chairman of the Anderson Group. The other is Eric, the younger brother who lives in his older brother’s shadow. And the third, who came with a bodyguard, was Pobby (Osumi Kenya), the uncle of the two men and an ambitious individual who is the vice chairman of the Anderson Group.\r\nHolmes’ paranoid curiosity is piqued from this complex-seeming disappearance and begins a full-scale investigation with his assistant Watson (Ichiro Maki). Soon, the people around the Anderson family are killed off one by one…",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2014",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "05587-03-2014-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "05587-03-2014-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "ミュージカル",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "musical",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2014/1/17",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "シャーロック ホームズ～アンダーソン家の秘密～",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Sherlock Holmes: the secret of the Anderson family",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:06+00:00"
+    },
+    "o:id": 238193,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:25+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "シャーロック ホームズ～アンダーソン家の秘密～",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

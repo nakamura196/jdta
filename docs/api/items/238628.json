@@ -1,0 +1,479 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238628",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208512",
+            "display_title": "有限会社劇団東少",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208512,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "源紀",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "GENKI",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2016/10/2",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "ミュージカル・児童劇・ファミリー対象・こども対象",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P02307",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "ja",
+            "@value": "ミュージカル",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "児童劇",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "ファミリー",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "眠れる森の美女",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "musical",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "theater for children",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Family",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "三越劇場／ライフピアいちじま／伊豆の国長岡総合文化会館／四日市市文化会館／里庄総合文化ホール／松伏町中央公民館／志木市民会館／川崎市民プラザ／西東京市保谷こもれびホール／福生市民会館／橿原万葉ホール／文化パルク城陽／多気町文化会館／東大和市民会館／庄原市民会館／熊野町公民館／勝央文化ホール",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "MITSUKOSHIGEKIJO/RAIFUPIAICHIJIMA/IZUNOKUNINAGAOKASOGOBUNKAKAIKAN/YOKKAICHISHIBUNKAKAIKAN/SATOSHOSOGOBUNKAHORU/MATSUBUSECHOCHUOKOMINKAN/SHIKISHIMINKAIKAN/KAWASAKISHIMIMPURAZA/NISHITOKYOSHIHOYAKOMOREBIHORU/FUSSASHIMINKAIKAN/KASHIHARAMANYOHORU/BUNKAPARUKUJOYO/TAKICHOBUNKAKAIKAN/HIGASHIYAMATOSHIMINKAIKAN/SHOBARASHIMINKAIKAN/KUMANOCHOKOMINKAN/SHOOBUNKAHORU//",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "みつこしげきじょう／らいふぴあいちじま／いずのくにながおかそうごうぶんかかいかん／よっかいちしぶんかかいかん／さとしょうそうごうぶんかほーる／まつぶせちょうちゅうおうこうみんかん／しきしみんかいかん／かわさきしみんぷらざ／にしとうきょうしほうやこもれびほーる／ふっさしみんかいかん／かしはらまんようほーる／ぶんかぱるくじょうよう／たきちょうぶんかかいかん／ひがしやまとしみんかいかん／しょうばらしみんかいかん／くまのちょうこうみんかん／しょうおうぶんかほーる／／",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235246",
+            "display_title": "眠れる森の美女",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235246,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233327",
+            "display_title": "EV00215194",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215194_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/fd8fda8a52ded509c60dba9effa764a9a5e799ce.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233327,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237198",
+            "display_title": "01_00371-01-2016-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00371-01-2016-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/4eb169cbb9bd826f3745b4ca58a16845a5dbc302.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237198,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237199",
+            "display_title": "02_00371-01-2016-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00371-01-2016-01_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/23f4e5a5d51162bf1c1ea579fd427e71759026b2.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237199,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237200",
+            "display_title": "03_00371-01-2016-01_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00371-01-2016-01_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/9c0918f54df8509a8b5d227d092ced6d5a0d38a3.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237200,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237201",
+            "display_title": "04_00371-01-2016-01_04.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00371-01-2016-01_04.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/51cc0862494840df1d701821aafb04332685d3fb.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237201,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237202",
+            "display_title": "05_00371-01-2016-01_05.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00371-01-2016-01_05.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/d690040748da2c4806e7feee9d09071af21bdb5c.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237202,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237203",
+            "display_title": "06_00371-01-2016-01_06.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00371-01-2016-01_06.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/990478ba4940e66024a898c32f4674cf2dc9e941.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237203,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237204",
+            "display_title": "07_00371-01-2016-01_07.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00371-01-2016-01_07.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/576edde1a45d2fd0bee20f05b579e6c263b76952.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237204,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00371-01-2016-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ねむれるもりのびじょ",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "王女様の誕生日に、王女様は、赤、緑、白（眠り）の妖精から、素晴らしい贈り物をもらいます。そんな中、招かれなかった黒の妖精は、王女に１８歳の時糸車の針に刺されて死ぬと呪いをかけます。その後王女は、何不自由なく過保護に育ち、わがままな娘となります。しかし、姫が１８歳の時に、糸車の針でさされてしまいますが、白の妖精も眠りの贈り物により、その後１００年の間眠りにつきました。その眠りの夢の中で、王子と出会い、「本当に大切なことは、心の目で見なければ、それは見えない。」と王女にせまり強く反省を促します。その事により、王女は自分の過去を反省し、生まれ変わり「目ざめる.」のです。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "On the princess’ birthday, the princess receives a wonderful gift from the red, green, and white (sleeping) fairies. Meanwhile, the black fairy, who was not invited, curses the princess that she will die on her 18th birthday after being stabbed by the needle of a spinning wheel. Afterwards, the princess grows up being overprotected without any inconveniences, becoming a selfish daughter. However, when she turned 18, she was stabbed by the needle of a spinning wheel, but thanks to the sleeping gift of the white fairy, she fell into a sleep for 100 years. In her sleeping dreams, she meets a prince, who tells her to reflect strongly on her actions, saying that the truly important things must be seen with the eyes of the soul – otherwise, it is not seen at all. From this encounter, the princess regrets her past actions, is reborn, and “awakens”.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2016",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@language": "ja",
+            "@value": "ミュージカル・児童劇・ファミリー対象・こども対象",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "00371-01-2016-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "00371-01-2016-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "ミュージカル",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "児童劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "musical",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "theatre for children",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2016/7/23",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "眠れる森の美女",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Sleeping Beauty",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:15+00:00"
+    },
+    "o:id": 238628,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:28+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "眠れる森の美女",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

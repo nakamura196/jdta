@@ -1,0 +1,395 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238802",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208686",
+            "display_title": "竹生企画",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208686,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "倉持裕",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "KURAMOCHI Yutaka",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2015/12/12",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "竹生企画とは\r\n生瀬勝久のなかに芽生えた「竹中直人さんと二人芝居がやりたい!」という俳優ならではの「欲望」。そんな「欲望」を発端に、屈指の超個性派俳優であり、クリエイターでもある竹中・生瀬二人のユニット「竹生企画」は誕生した。当時、竹中が「一緒に芝居づくりを」と熱望していた倉持裕を劇作・演出に招き、「舞台初体験の女優を迎える」というサブ・ルールを携え2011年に第一回公演『ヴィラ・グランデ青山〜返り討ちの日曜日〜』を上演。",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P02590",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "ja",
+            "@value": "喜劇",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "ホラー",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "ミステリー",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Comedy",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Horror",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Mystery",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "東宝　キューブ",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizerTranscription": [
+        {
+            "@language": "ja",
+            "@value": "とうほう　きゅーぶ",
+            "is_public": true,
+            "property_id": 521,
+            "property_label": "labelOfOrganizerTranscription",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "シアター1010／上野学園ホール(広島県立文化芸術ホール)／サンケイホールブリーゼ／富士市文化会館ロゼシアター大ホール／／シアタークリエ／中日劇場／福岡市民会館／宝山ホール／倉吉未来中心　大ホール／りゅーとぴあ 新潟市民芸術文化会館・劇場／岩手県民会館　大ホール／足利市民会館　大ホール",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "THEATRESENJU/UENOGAKUENHORU　HIROSHIMAKENRITSUBUNKAGEIJUTSUHORU/SANKEIHORUBURIZE/FUJISHIBUNKAKAIKANROZETHEATREDAI・HALL/THEATREKURIE/CHUNICHIGEKIJO/FUKUOKASHIMINKAIKAN/HOZANHORU/KURAYOSHIMIRAICHUSHINDAI・HALL/RYUTOPIANIIGATASHIMINGEIJUTSUBUNKAKAIKANGEKIJO/IWATEKEMMINKAIKANDAI・HALL/ASHIKAGASHIMINKAIKANDAI・HALL",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "しあたーせんじゅ／うえのがくえんほーる　ひろしまけんりつぶんかげいじゅつほーる／さんけいほーるぶりーぜ／ふじしぶんかかいかんろぜしあたーだいほーる／しあたーくりえ／ちゅうにちげきじょう／ふくおかしみんかいかん／ほうざんほーる／くらよしみらいちゅうしんだいほーる／りゅーとぴあにいがたしみんげいじゅつぶんかかいかんげきじょう／いわてけんみんかいかんだいほーる／あしかがしみんかいかんだいほーる",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235421",
+            "display_title": "ブロッケンの妖怪",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235421,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233698",
+            "display_title": "EV00215678",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215678_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/ca4b4eb068de50bb2bb33eccc4721d095251746b.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233698,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237634",
+            "display_title": "01_02646-03-2015-03_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02646-03-2015-03_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/3610bbd0f06415b400c7028e08fccbe79d5901b4.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237634,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237635",
+            "display_title": "02_02646-03-2015-03_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02646-03-2015-03_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/ebcd6b7a3ab6a90b5fb705e13e659c7f9eb3ac52.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237635,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "02646-03-2015-03",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ぶろっけんのようかい",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "竹中直人×生瀬勝久　個性派俳優の激突再び！！人気劇作家・倉持裕が書きおろす　笑いと怪奇が入り混じるホラーコメディ\r\n\r\nある秋の日の午後。絵本作家の打越（竹中直人）と担当編集者の黒柳（生瀬勝久）、そして、打越の放浪癖と浮気性を心配する恋人の桃（安藤聖）が、高地にある大きな湖の真ん中に浮かぶ小島を訪れていた。そこには城のような洋館が建っており、それが島の敷地のほとんどを占めている。　\r\n霧の濃い日はその霧に洋館の影が映り、湖の上にもう一つの洋館が現れるという。「ブロッケン現象」と言われるものだ。霧に映った洋館の影を虹が囲む、その美しい光景を、打越たちは取材にきたのだった。　\r\n洋館には日ノ原虹子（高橋惠子）という女主人と娘の小真代（佐々木希）、使用人の若い男・稲井（大貫勇輔）が暮らしていた。他に、生活に必要な品を本土から運んでくる船乗り・泊（田口浩正）も出入りしている。　\r\n会話や態度に、どこかしらギクシャクしたものが感じられる日ノ原家の人々。\r\n不審に思う打越と黒柳らは、嵐の夜にこの洋館と家族を巡る、驚くべき秘密に遭遇することになる。\r\n\r\n　全てを手放そうとする者と、一つとしてこぼすまいと抱え込む者———霧に包まれた孤島で様々な人間模様が繰り広げられる。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Takenaka Naoto × Namase Katsuhisa – once again, a clash of individual actors!!\r\nA horror comedy written by popular playwright Kuramochi Yutaka which mixes laughter and mystery\r\n\r\nOne autumn afternoon. Picture book writer Uchikoshi (Takenaka Naoto), editor Kuroyanagi (Namase Katsuhisa), and Uchikoshi’s lover Momo (Ando Sei), who worries about his wandering and cheating habits, visited a small island in the middle of a large lake in the highlands. There was a castle-like mansion there, which occupied most of the land area of the island.\r\nOn foggy days, the shadow of the mansion is reflected on the fog, and it is said that a second mansion appears on the lake. It is called a Brocken specter. Uchikoshi and his colleagues came to cover the beautiful sight of the rainbow surrounding the shadow of the mansion reflected in the fog.\r\nA mistress named Hinohara Nijiko (Takahashi Keiko), her daughter Samayo (Sasaki Nozomi), and the young servant Inai (Onuki Yusuke) lived in the mansion. The sailor Tomari (Taguchi Hiromasa), who brings the necessary items for daily life, also comes and goes. \r\nThere is something off about the conversations and attitudes of the Hinohara family.\r\nSuspicious, Uchikoshi and Kuroyanagi discover a shocking secret that visits this mansion and family on a stormy night.\r\n\r\nThose who try to let go of everything, and those who try to hold onto everything – various human patterns are unfolded on an isolated island surrounded by fog.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2015",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "02646-03-2015-03",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "02646-03-2015-03",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "現代劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "contemporary theater",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2015/10/30",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "ブロッケンの妖怪",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "The Brocken Ghost",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:20+00:00"
+    },
+    "o:id": 238802,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:29+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "ブロッケンの妖怪",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

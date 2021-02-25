@@ -1,0 +1,467 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/237962",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207846",
+            "display_title": "京都芸術大学 舞台芸術研究センター",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207846,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "渡邊守章",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "WATANABE Moriaki",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2016/12/11",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "作：ポール･クローデル『繻子の靴』（岩波文庫刊）",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01181",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "ja",
+            "@value": "長編",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "日本初演",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "京都造形芸術大学舞台芸術研究センター",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizerTranscription": [
+        {
+            "@language": "ja",
+            "@value": "きょうとぞうけいげいじゅつだいがくぶたいげいじゅつけんきゅうせんたー",
+            "is_public": true,
+            "property_id": 521,
+            "property_label": "labelOfOrganizerTranscription",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "京都芸術劇場 春秋座",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "KYOTOGEIJUTSUGEKIJO SHUNJUZA",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "きょうとげいじゅつげきじょう しゅんじゅうざ",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234550",
+            "display_title": "一日目／二日目／三日目／四日目",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234550,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233213",
+            "display_title": "EV00215033",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215033_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/e48e2e93c424a37c1f5387ee0d466158e715903e.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233213,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233214",
+            "display_title": "EV00215034",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215034_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/a7553a585e380ec60c784db814419f10e9bb4575.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233214,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233215",
+            "display_title": "EV00215035",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215035_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/560c04cc618168ae0da30b5a779afd268579a7fb.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233215,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233216",
+            "display_title": "EV00215036",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215036_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/a889eb40dded1bdd4750cf39a8c1ce547ee1889d.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233216,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236032",
+            "display_title": "01_00195-03-2016-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00195-03-2016-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/6e5e46d1b6cfefc9d57b0ae9d4df12abb7a8e1ce.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236032,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236033",
+            "display_title": "02_00195-03-2016-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00195-03-2016-01_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/2a9d2fd53ed07ed231e5f5ae072d535e6aa9b949.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236033,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236027",
+            "display_title": "03_00195-03-2016-01_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00195-03-2016-01_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/3ab90a1389275b6a3417531a3441fc72a8539d44.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236027,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236028",
+            "display_title": "04_00195-03-2016-01_04.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00195-03-2016-01_04.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/d4f06381fe67eddde0d6c0910b6f4b48b1e500c8.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236028,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236029",
+            "display_title": "05_00195-03-2016-01_05.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00195-03-2016-01_05.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/07a272abe1f2afad15c388e9df8216a3439d66af.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236029,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236030",
+            "display_title": "06_00195-03-2016-01_06.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00195-03-2016-01_06.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/f0f9502f6ba0c1576d115f4ed6d6bd3ae2f89cb9.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236030,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236031",
+            "display_title": "07_00195-03-2016-01_07.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00195-03-2016-01_07.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/45d6ebf4beaf5c4c20089947f7a1b9b39af40077.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236031,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00195-03-2016-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "しゅすのくつ",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "大航海時代、新旧両大陸を舞台にした「禁じられた恋」の壮大な物語『繻子の靴』は、詩人・外交官で、大正年間に日本にも駐在したポール・クローデル（1868-1955）が、1925年に東京で書き上げた集大成的な戯曲で、「四日間のスペイン芝居」と副題された、リヒャルト・ワーグナーの『ニーベルングの指輪』四部作に匹敵する規模の「世界大演劇」です。新大陸のコンキスタドール（征服者）ドン・ロドリッグと、すでに人妻であった若いスペイン貴族の女性ドニャ・プルエーズとの間の、地上では結ばれることのない《禁じられた恋》を主筋にし、新旧両世界に展開されます。\r\nタイトルの『繻子の靴』は、夫の守るアフリカの要塞へ出発する前に、館の門の上に祀ってある聖母像に、自分の片方の靴を捧げて、「悪へと走る時には、片方の足が萎えていますように」と祈る感動的な情景に由来します。「クローデル詩句」と呼ばれる長短入り混じる独自の自由詩形で書かれた台詞の迫力、その劇作術上の実験と並んで、演出面でも、世界の様々な舞台芸術を活用した極めて野心的な作品で、1943年のジャン＝ルイ・バローによる上演版の初演以来、二十世紀フランス演劇の一つの頂点と見なされています。\r\n本作は、渡邊守章による翻訳・構成・演出で、2016年12月に日本初演で上演しました。\r\n\r\nあらすじ\r\n◆「一日目」\r\n　アフリカ北西海岸の総司令官であるドン・ペラージュの若い妻ドニャ・プルエーズは、ふとした偶然から出遭った騎士ドン・ロドリッグに激しい恋を抱いているが、結婚の秘蹟に妨げられて、恋を遂げることはできない。年老いたペラージュは、臣下ドン・バルタザールの警護のもと、わざとプルエーズを遠方に派遣しようとするが、プルエーズはまさにその機を利用し、ロドリッグのもとに走ろうとする。だが、ロドリッグは偶発的に起こった戦闘で重傷を負い、二人の出会いは挫折する。\r\n\r\n◆「二日目」\r\n　生死の境をさまようロドリッグを介護する母ドニャ・オノリアの館で、プルエーズはあえてロドリッグに会わない決断する。ペラージュは、「一つの誘惑に加えてさらに大きな誘惑」を与えるべく、プルエーズを、彼女に焦がれるもうひとりの男、背教者であるドン・カミーユが守備するアフリカ・モガドール要塞へと出発させる。国王からプルエーズへの帰国命令の親書を託されたロドリッグは愛する彼女を追うが、プルエーズはロドリッグに会うことを拒絶する。\r\n\r\n◆「三日目」\r\n　夫ペラージュが死に、プルエーズは、アフリカ西海岸の守備のため、カミーユとの結婚を選んだ。しかし、その折に書いたロドリッグ宛の手紙は、10年間地球上をさまよった挙句、ようやくロドリッグの手元に届く。すでに夢のなかで守護天使と対話し、〈自己犠牲〉を受け入れることを選んだプルエーズと、背教者カミーユとのあいだの息詰まる対決。「禁じられた恋」を遂げるため、船団を組んでモガドール沖に侵攻した征服者ロドリッグと対面したプルエーズは、カミーユとの間にできた娘ドニャ・セテペ（七剣姫）をロドリックに託し、天上での愛の成就を祈念しつつ、永遠に彼の下を去ることを決心する。\r\n\r\n◆「四日目」\r\n　「三日目」からさらに約10年後。かつての征服者ロドリッグは、いまや老残の身となっている。スペイン国王の寵愛を失って訪れた日本で、合戦により片足を失い名古屋城御天守に幽閉され、そこで日本人絵師に会い、日本の美学とその哲学を学ぶ。ヨーロッパに戻ったロドリックは、国王の仕掛けた罠によって追放の憂き目にあう。\r\n全てを失ったロドリックは、満天の星の下、はじめて魂の救済をおぼえるのであった――。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "A magnificent story of “forbidden love” set in the Old and New World during the Age of Discovery.\r\n“The Satin Slipper” is a compilation of plays written in Tokyo in 1925 by Paul Claudel (1868-1955), who was a poet and diplomat that was also stationed in Japan during the Taisho era. It is a “grand global drama” on a scale comparable to Richard Wagner’s “Der Ring des Nibelungen” four-drama cycle, which was also subtitled a “four-day Spanish play”. The story develops in both the Old and New World, with a focus on a “forbidden love” between the New World conquistador Don Rodrigue and Doña Prouhèze, the young wife of a Spanish nobleman, who would never be united on this earth.\r\nThe titular “Satin Slipper” comes from a moving scene where Doña Prouhèze, before leaving for the fortress in Africa that her husband protects, leaves one pair of her slippers and offers it to the statue of the Virgin Mary, which is enshrined at the gate of the mansion, where she prays that “if she runs towards sin, may her legs wither”.  Along with the power of the dialogue written in a unique freeform poetry called “Claudel Poetry”, and its playwright experiment, it is an extremely ambitious work that utilizes various performing arts around the world for its production. It has been regarded as one of the pinnacles of French theatre in the 20th century since its premiere by Jean-Louis Barrault in 1943.\r\nThis work has been translated, composed, and directed by Watanabe Moriaki, premiering in Japan in December 2016.\r\n\r\nSynopsis\r\n- “First Day”\r\nDoña Prouhèze, the young wife of Don Pelage, who is the commander of the northwest coast of Africa, falls deeply in love with the knight Don Rodrigue, who she encountered by chance. However, bound by the sacrament of marriage, she cannot fulfill her love. The aged Pelage deliberately tries to send Prouhèze away under the protection of his vassal Don Balthazar, but Prouhèze takes that opportunity to try to run to Rodrigue’s side. However, Rodrigue is heavily wounded in an accidental battle, and the two fail to meet.\r\n\r\n- “Second Day”\r\nAt the mansion of Doña Honoria, the mother of Rodrigue, whose life hangs in the balance, Prouhèze vows not to meet Rodrigue. Pelage, in an attempt to give her “an even larger temptation in the face of one temptation”, sends Prouhèze to the African fortress of Mogador which is protected by Don Camille, an apostate and another man who lusts after her. Rodrigue, entrusted with a personal letter from the king to Prouhèze to return to the country, pursues his beloved, but Prouhèze refuses to meet Rodrigue.\r\n\r\n- “Third Day”\r\nWith the death of her husband Pelage, Prouhèze chooses to marry Camille in order to defend the west coast of Africa. However, the letter she wrote to Rodrigue at the time finally reaches him after wandering the globe for 10 years. A suffocating confrontation between Prouhèze, who has already spoken with her guardian angel in her dreams and chose to accept “self-sacrifice”, and the apostate Camille. Prouhèze confronts the conqueror Rodrigue, who invaded the coast of Mogador after forming a fleet to fulfill his “forbidden love”, entrusts her daughter Doña Sept-Epées (“Princess of the Seven Swords”) conceived between Prouhèze and Camille. Prouhèze decides to leave him forever while praying that their love may be fulfilled in Heaven.\r\n\r\n- “Fourth Day”\r\nAbout 10 years have passed since the “Third Day”. The former conqueror Rodrigue is how an elderly husk of his former self. After losing the love of the King of Spain, he came to Japan, where he lost one of his legs in battle and was imprisoned in the tower of Nagoya Castle. There, he meets a Japanese painter, learning Japanese aesthetics and its philosophy. Returning to Europe, Rodrigue is banished from the country after being ensnared in a trap set by the King.\r\nLosing everything, Rodrigue first learns of the salvation of his soul under the stars of the sky…",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2016",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@language": "ja",
+            "@value": "繻子の靴　四日間のスペイン芝居　全曲上演\r\n作：ポール･クローデル『繻子の靴』（岩波文庫刊）",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "00195-03-2016-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "00195-03-2016-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2016/12/10",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "繻子の靴",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "SHUSUNOKUTSU",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:00+00:00"
+    },
+    "o:id": 237962,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:24+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "繻子の靴",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

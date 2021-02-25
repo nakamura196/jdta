@@ -1,0 +1,371 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238188",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208072",
+            "display_title": "キューブ",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208072,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "河原雅彦",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "KAWAHARA Masahiko",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2017/8/13",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01679",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "ja",
+            "@value": "恋愛",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "歴史",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "人間ドラマ",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "romance",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "History",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "Bunkamuraシアターコクーン／刈谷市総合文化センターアイリス大ホール／サンケイホールブリーゼ",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "BUNKAMURATHEATREKOKUN　/KARIYASHISOGOBUNKASENTAAIRISUDAI・HALL　/SANKEIHORUBURIZE",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ぶんかむらしあたーこくーん　／かりやしそうごうぶんかせんたーあいりすだいほーる　／さんけいほーるぶりーぜ",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234806",
+            "display_title": "魔都夜曲",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234806,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233706",
+            "display_title": "EV00215689",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215689_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/356414294d5ae8be087bd5872d2df9adc35595ac.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233706,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233707",
+            "display_title": "EV00215690",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215690_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/49099d50ae3c3e4e0b893d78418c891bef2e7db1.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233707,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236424",
+            "display_title": "01_04946-03-2017-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "04946-03-2017-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/801af2a636003acca1862cd57e11438909e56396.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236424,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236425",
+            "display_title": "02_04946-03-2017-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "04946-03-2017-01_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/18fdee3081773951a714c077c509c5cb6c32268c.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236425,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "04946-03-2017-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "まとやきょく",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "華やかさと暗部を抱えた1930年代の上演、異国情緒溢れる租界のジャスクラブを舞台に、歴史に秘められた恋と濃密な人間ドラマが、生のジャズバントの演奏と共に、鮮やかに描かれる。\r\n1939年（昭和14年）、中国・上海。当時、ここはイギリス、フランス、アメリカ、ロシア、そして日本などから多くの人々が移住。租界と呼ばれる居留地は発展し、異国情緒溢れる都市として＜東洋のパリ＞や＜魔都＞とも称されるほど繁栄していた。\r\nある日、その華やかな街に一人の男が降り立つ。その名は、白河清隆（藤木直人）。公家の血を引き、日本政府の要人を父に持つ彼は、諸国を遊学、芸術に親しみながら遊興に明け暮れている。そして父の指示により、ここ上海にやってきた。\r\n春の夜、清隆の前に二人の男女が現れる。中国人の父と日本人の母を持つ周紅花（マイコ）とその兄・周志強（小西遼生）だ。運命的な出会いも手伝って、三人の間には友情が芽生え、また清隆は清楚でありながら溌剌とした紅花に惹かれていく。\r\n新田日出夫（橋本さとし）が支配人を務めるクラブ「ル・パシフィーク」には、毎夜、多種多様な人々が集まっている。バンドによるジャズの生演奏に、熱を帯びた論議……。あらゆる思惑や欲望が渦巻く摩訶不思議な空間だ。フランス租界にあるこの秘めやかな場で、清隆・紅花・志強の三人は様々な人たちと出会う。\r\n時は第二次世界大戦前夜、この街にも大きな影が落ち始めている。清隆も自身の宿命により、大いなる歴史の波に巻き込まれていく。\r\n彼らを取り巻く人々の運命はーーー。そして、清隆と紅花の恋はいかにーーー。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Performed during the gorgeousness and darkness that was the 1930s and set in a jazz club at an exotic concession, a rich human drama with the love hidden in history is vividly depicted along with a live jazz band performance.\r\n\r\nShanghai, China, 1939. At the time, many people had migrated here from the United Kingdom, France, the United States, Russia, and Japan. The settlement, called a concession, developed and prospered as an exotic city and was called the “Paris of the Orient” or the “Magic City”.\r\nOne day, a man lands in the gorgeous city. His name was Shirakawa Kiyotaka (Fujiki Naohito). From a court noble family and with a father who is a dignitary of the Japanese government, he spends his days entertaining himself while studying and familiarizing himself with the arts of each country. And at the instruction of his father, he came to Shanghai. \r\nTwo men and women appear in front of Kiyotaka on a spring night. They were Zhou Honghua (Maiko) and her older brother Zhou Chee Chan (Konishi Ryosei), who have a Chinese father and Japanese mother. With the help of a fateful encounter, the three develop a friendship, and Kiyotaka becomes attracted to the pure yet lively Honghua. \r\nMany kinds of people gather every night at the club “Le Pacifique,” which is managed by Nitta Hideo (Hashimoto Satoshi). Live performances by a jazz band, and heat debates…it is a mysterious space where all thoughts and desires swirl. In this secret place within the French concession, Kiyotaka, Honghua, and Chee Chan encounter various types of people.\r\nThe time is on the eve of World War II, and a large shadow begins to fall on this city as well. Kiyotaka is swept up in the large waves of history due to his own destiny. \r\nWhat are the fates of those around him…And what will become of Kiyotaka’s and Honghua’s love…",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2017",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "04946-03-2017-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "04946-03-2017-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "音楽劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "music show",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2017/7/7",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "魔都夜曲",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Night Song of the Magic City",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:05+00:00"
+    },
+    "o:id": 238188,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:25+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "魔都夜曲",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

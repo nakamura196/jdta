@@ -1,0 +1,158 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/216023",
+    "@type": "o:Item",
+    "dcepk:agentTranscription": [
+        {
+            "@language": "ja",
+            "@value": "みやたけしろう",
+            "is_public": true,
+            "property_id": 487,
+            "property_label": "Agent名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:belongToOrganization": [
+        {
+            "@language": "ja",
+            "@value": "人形劇団むすび座",
+            "is_public": true,
+            "property_id": 490,
+            "property_label": "所属先",
+            "type": "literal"
+        }
+    ],
+    "dcepk:characterName": [
+        {
+            "@language": "ja",
+            "@value": "玉帝/混世魔王",
+            "is_public": true,
+            "property_id": 492,
+            "property_label": "出演者役名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Gyokutei/konseimao",
+            "is_public": true,
+            "property_id": 492,
+            "property_label": "出演者役名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:characterNameTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ぎょくてい/こんせいまおう",
+            "is_public": true,
+            "property_id": 493,
+            "property_label": "出演者役名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00880-05-2000-03:1-1:cas06",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@language": "ja",
+            "@value": "玉帝/混世魔王:宮武史郎:人形劇団むすび座",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Gyokutei/konseimao:MIYATAKE Shirou",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ag-22b6cb7d36048aa221ab1234005bb68a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "ag-22b6cb7d36048aa221ab1234005bb68a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "宮武史郎",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:name": [
+        {
+            "@language": "ja",
+            "@value": "宮武史郎",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "MIYATAKE Shirou",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:12:39+00:00"
+    },
+    "o:id": 216023,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-20T04:16:01+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/14",
+        "o:id": 14
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "宮武史郎",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

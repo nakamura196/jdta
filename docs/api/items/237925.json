@@ -1,0 +1,325 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/237925",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207809",
+            "display_title": "株式会社オポス／ヨーロッパ企画",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207809,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "上田誠",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "UEDA Makoto",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2014/10/5",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "2014/9/15、ABCホール（大阪府大阪市福島区福島１丁目１−３０）にて収録\r\n。",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01132",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "栗東芸術文化会館さきら中ホール　京都府立文化芸術会館　本多劇場　ABCホール　アステールプラザ中ホール　西鉄ホール　名古屋市芸術創造センター　KAAT神奈川芸術劇場大スタジオ",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "RITTOGEIJUTSUBUNKAKAIKANSAKIRACHUHORU　KYOTOFURITSUBUNKAGEIJUTSUKAIKAN　HONDAGEKIJO　EBISHIHORU　ASUTERUPURAZACHUHORU　NISHITETSUHORU　NAGOYASHIGEIJUTSUSOZOSENTA　KANAGAWA ARTS THEATRE Large Studio",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "りっとうげいじゅつぶんかかいかんさきらちゅうほーる　きょうとふりつぶんかげいじゅつかいかん　ほんだげきじょう　えーびーしーほーる　あすてーるぷらざちゅうほーる　にしてつほーる　なごやしげいじゅつそうぞうせんたー　かーとかながわげいじゅつげきじょうだいすたじお",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234513",
+            "display_title": "ビルのゲーツ",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234513,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233472",
+            "display_title": "EV00215375",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215375_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/b0e08014b59b67e3cb59d4a45af05eaf0f384576.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233472,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235910",
+            "display_title": "01_04853-01-2014-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "04853-01-2014-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/e7a9f45907c4e1bfadb6454dcf84255f9b1ff2ac.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235910,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235911",
+            "display_title": "02_04853-01-2014-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "04853-01-2014-01_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/95376f62f42c4d6077a120bf0547a397c6c8591d.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235911,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "04853-01-2014-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "びるのげーつ",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "巨大カンパニーのビルに呼ばれた、ベンチャー企業の社員たち。もらったＩＤカードを首にぶら下げ、奥へ進むと、\r\n待っていたのは、重厚なゲート。\r\n\r\n襟を正しつつ、カードをかざしてゲートを開ければ、\r\nそこには上へと続く階段が。\r\nそして登った先には、２つ目のゲートが待ち受けていた。\r\n\r\n現れないＣＥＯ、現れ続けるフロア。\r\nクイズを解き、罰をくらい、ホットドッグを食べ、\r\n他社と出し抜きあい、あるいは協調しながら、\r\nビルを登りつづける社員たち。\r\nそれにしてもゲートは、どこまでも続く。\r\n\r\nヨーロッパ企画がスーツ姿で送る、ゲートコメディ。\r\nビルのゲーツの、その先へ。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Employees of a venture capital company called to the building of a massive company.\r\nWith the ID cards they received around their necks, they go further into the building, whereupon they are faced with a heavy gate.\r\n\r\nThe employees fix their collars and open the gate by holding up their card. \r\nThere, a flight of stairs that heads upwards.\r\nAfter climbing up the stairs, there was second gate that awaited them.\r\n\r\nA CEO that doesn’t appear, and floors that keep appearing.\r\nThe employees solve riddles, get punished, and eat hot dogs,\r\nContinuing to climb up the building as they alternatively outsmart or cooperate with the others.\r\nAnd yet, the gates continue.\r\n\r\nA gate comedy delivered in suits by a European project.\r\nThe gates of the building continue forever.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2014",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "04853-01-2014-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "04853-01-2014-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "小劇場演劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "shogekijo",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2014/8/9",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "ビルのゲーツ",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Building Gates",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:26:59+00:00"
+    },
+    "o:id": 237925,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:24+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "ビルのゲーツ",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

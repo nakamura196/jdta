@@ -1,0 +1,166 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/208672",
+    "@type": [
+        "o:Item",
+        "dcepk:Agent"
+    ],
+    "dcepk:agentTranscription": [
+        {
+            "@language": "ja",
+            "@value": "いっぱんしゃだんほうじんけんたろっかーず",
+            "is_public": true,
+            "property_id": 487,
+            "property_label": "Agent名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:location": [
+        {
+            "@language": "ja",
+            "@value": "東京都",
+            "is_public": true,
+            "property_id": 505,
+            "property_label": "Agent住所(都道府県名)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:role": [
+        {
+            "@language": "ja",
+            "@value": "取得.納入",
+            "is_public": true,
+            "property_id": 514,
+            "property_label": "Agent役割",
+            "type": "literal"
+        }
+    ],
+    "dcepk:roleName": [
+        {
+            "@language": "ja",
+            "@value": "納入",
+            "is_public": true,
+            "property_id": 515,
+            "property_label": "Agent役割名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Delivery",
+            "is_public": true,
+            "property_id": 515,
+            "property_label": "Agent役割名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "09491-01-2009-02:del01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "HIPHOPを中心としたストリートダンステクニックをベースとしながらも、スタイル化されたものから離れた視点で感性を表現。音楽を唄もの・ダンスミュージック・映画音楽的なものまで自作でまるごと作り、言葉と共に作品に反映させている。ひらかれたマイノリティとして国内外でダンサー・振付家として幅広く活動し、ソロ・カンパニー共に高い評価を得ている。2008年よりダンスカンパニー＜東京ＥＬＥＣＴＯＲＩＣＫ　ＳＴＡＡＩＲＳ＞を結成。その頃より自作音源い特化した作品を創作。\r\n2008年横浜ダンスコレクションR「若手振付家のための在日フランス大使館賞」、トヨタコレオグラフィーアワード2008「オーディエンス賞」「ネクステージ特別賞」受賞。2010年「日本ダンスフォーラム賞」を受賞。この年より３期連続セゾン・ジュニアフェロー。国内外でダンサー・振付家として活動している。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "While basing his dance techniques on street dance, mainly hip hop, KENTARO!! expresses his aesthetics from his own viewpoint, avoiding rigid stylization. Composing his own songs, dance music and cinematic music, KENTARO!! uses them in his works along with the element of language. A self-professed member of a minority, he works as a dancer and choreographer both in Japan and overseas, and he has received much acclaim both for his solo and company work. In 2008, he formed dance company <Tokyo ELECTROCK STAIRS>. Around that time, he started to create works using his own music pieces. He received the French Embassy Prize for Young Choreographers at Yokohama Dance Collection R in 2008, Toyota Choreography Award 2008 Audience Award and Nextage Special Award. In 2010, he received the Japan Dance Forum Award. He was a Saison Junior Fellow for three consecutive terms from 2010.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ag-a3cfcb22d3bae72a214bd72ae03f04c8",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "一般社団法人KENTAROCKERS",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:homepage": [
+        {
+            "@value": "http://kentarock.com/index.html/",
+            "is_public": true,
+            "property_id": 147,
+            "property_label": "homepage",
+            "type": "literal"
+        }
+    ],
+    "foaf:name": [
+        {
+            "@language": "ja",
+            "@value": "一般社団法人KENTAROCKERS",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "KENTAROCKERS",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:06:27+00:00"
+    },
+    "o:id": 208672,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:19:39+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/307",
+        "o:id": 307
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/12",
+        "o:id": 12
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "一般社団法人KENTAROCKERS",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

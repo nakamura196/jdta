@@ -1,0 +1,549 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/237907",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207791",
+            "display_title": "SPAC－静岡県舞台芸術センター",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207791,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "宮城聰",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "MIYAGI Satoshi",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2016/2/10",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "・製作：SPAC ‐ 静岡県舞台芸術センター\r\n・支援：平成27年度文化庁劇場・音楽堂等活性化事業\r\n・ふじのくに芸術祭共催事業\r\n・上演時は英語字幕あり（英語字幕作成：大西彩香、英語字幕操作：片岡佐知子）\r\n-----\r\n「作品概要（コンセプトや、あらすじなど）」以外は英訳を提供します。\r\n「作品概要（コンセプトや、あらすじなど）」については、。",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01102",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "ja",
+            "@value": "ミステリー",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "犯罪",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "宮城聰",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "三島由紀夫",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "江戸川乱歩",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "mystery",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "crime",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "MIYAGI satoshi",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "MISHIMA yukio",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "EDOGAWA ranpo",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "SPAC－静岡県舞台芸術センター",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizerTranscription": [
+        {
+            "@language": "ja",
+            "@value": "すぱっく　しずおかけんぶたいげいじゅつせんたー",
+            "is_public": true,
+            "property_id": 521,
+            "property_label": "labelOfOrganizerTranscription",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "静岡芸術劇場",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Shizuoka Arts Theatre",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "しずおかげいじゅつげきじょう",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234495",
+            "display_title": "黒蜥蜴",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234495,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233586",
+            "display_title": "EV00215512",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215512_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/da4268794efa7a9b255808f136c34578cb987ad4.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233586,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235849",
+            "display_title": "01_02633-08-2016-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2016-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/ddc26e43a04602064ee6f1b660b1ee68b2d19ad3.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235849,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235850",
+            "display_title": "02_02633-08-2016-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2016-01_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/84327750f493a2753caf457c8507433dff020752.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235850,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235846",
+            "display_title": "03_02633-08-2016-01_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2016-01_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/dbcb0d7f3050ba60a2fce91131b84f6220b0f647.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235846,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235847",
+            "display_title": "04_02633-08-2016-01_04.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2016-01_04.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/44eb7b458af23dbb638051d13c8a81b96537a0be.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235847,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235848",
+            "display_title": "05_02633-08-2016-01_05.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2016-01_05.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/6725f117e8fdc52a2f8cb797e41b119544bef321.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235848,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235852",
+            "display_title": "06_02633-08-2016-01_06.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2016-01_06.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/89135cd693fd32d72d1de14f188bd64510a95a7c.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235852,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235853",
+            "display_title": "07_02633-08-2016-01_07.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2016-01_07.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/c74996a9ecc7e8cdd1a81a41826959ad023b7ec3.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235853,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235854",
+            "display_title": "08_02633-08-2016-01_08.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2016-01_08.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/3fd0b4221595fcebcc19cd0c09878a701bc47ab5.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235854,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235855",
+            "display_title": "09_02633-08-2016-01_09.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2016-01_09.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/7f1fdd862de20f7126afcb25a42c909e275c3c4f.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235855,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235851",
+            "display_title": "10_02633-08-2016-01_10.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2016-01_10.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/9c6d68ad2ffc8a39f841195e8e560361493e3d0b.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235851,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "02633-08-2016-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "くろとかげ",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "没後50年を越えた今もなお高い人気を誇る江戸川乱歩。小説『黒蜥蜴』は、明智小五郎シリーズの一篇として1934年に発表されました。日本一のダイヤと宝石商の美しい娘を狙う美貌の女盗賊・黒蜥蜴と、それに立ち向かう名探偵・明智小五郎。誰もが心躍る探偵活劇を、三島由紀夫は、1920年代の大阪から、高度経済成長期の東京に設定を変更。さらに原作では背景にあった恋愛や耽美的要素を前面に押し出すことで、情と知が幾重にも交錯する攻防戦を、決して結ばれぬ宿命にある男女の恋物語として戯曲化しました。1962年、新派を代表する水谷八重子主演で上演され、以来美輪明宏はじめ数々の名優・女優が挑戦し、映画・ドラマ化もされてきました。三島戯曲の中ではもちろん、 戦後演劇の金字塔として多くの人々を魅了してやまない傑作です。三島は、戯曲を書くにあたり常に「日本の古典劇にある情」と「欧米人が構築した論理性」を意識していました。『黒蜥蜴』においては、「情」の黒蜥蜴 対「知性の怪物」明智という構図で、非常に分かりやすく表現されています。一方で本作には、大衆向けの娯楽作品として歌舞伎の様々な様式や手法が盛り込まれており、溢れ出る美しい台詞には、美醜善悪の価値判断を揺るがす作家独自の美学も色濃く表れています。\r\n宮城聰は、言葉の音楽性に注目し、本作の上演としては珍しい音楽劇としての演出を試みます。出演者は総勢20名。音楽は宮城作品ではお馴染みの棚川寛子。スタッフには、かつて三島の舞台を手掛けた舞台美術家・高田一郎氏、日本の舞台照明界を長年牽引してきた沢田祐二氏の両巨匠を迎え、豪華布陣が実現しました。宮城聰とSPACが満を持して三島の美学に挑む一大スペクタクルです。\r\n\r\n＜あらすじ＞\r\n美しいものをこよなく愛する美貌の女賊・黒蜥蜴は、巨大なダイヤ「エジプトの星」を狙い、宝石商の娘の誘拐をくわだてる。名探偵・明智小五郎の機転で誘拐は未遂に終わるが、黒蜥蜴はさらに巧妙な手口で迫る。追う者と追われる者、知と情が激しく交錯し、いつしか二人の間には奇妙な愛が芽生えるが…。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Edogawa Rampo, still popular even 50 years after his death. His novel “Black Lizard” was published in 1934 as part of the Akechi Kogoro series. The Black Lizard, who is the beautiful female thief that targets the beautiful daughter of Japan’s biggest diamond and jewelry merchant; and Akechi Kogoro, the detective that stands against her. Mishima Yukio changed the setting of this beloved detective story from 1920s Osaka to Tokyo in the midst of the economic bubble. By further pushing out the romance and aesthetic elements that were in the background of the original work to the forefront for the adapted work, the repeated and intersecting struggle between emotion and knowledge was dramatized into a love story between men and women who were destined to be apart. This was performed in 1962 starring Mizutani Yaeko, who represents the Shinha, and since then, many famous actors and actresses such as Miwa Akihiro have taken on the challenge, also adapting it into a movie and TV drama. This was a masterpiece that has fascinated many people as not only a Mishima drama but also as a monument to postwar theater.\r\nIn writing his dramas, Mishima was always conscious of the “emotions of Japanese classical drama” and “the logic constructed by Westerners.” This is expressed in an extremely easy-to-understand manner in “Black Lizard,” with the structure of the “emotion” of the Black Lizard vs. the “intellectual beast” that is Akechi. Meanwhile, various styles and methods of Kabuki were incorporated in this work as an entertainment work for the masses, and the overflowing beautiful lines strongly express the artist’s unique aesthetic that shakes the value judgments of beauty, ugliness, good, and evil. \r\nMiyagi Satoshi pays attention to the musicality of words and tries to direct it as a musical drama, which is rare for the performance of this work. There are a total of 20 performers. The music is by Tanagawa Hiroko, who is familiar with Miyagi’s works. The staff members include Takada Ichiro, who is a stage artist that once worked on the stage of Mishima; and Sawada Yuji, who has been a leader in the Japanese stage lighting industry for many years, and we have realized a luxurious lineup of staff. This is a massive spectacle where Miyagi Satoshi and SPAC fully challenge the aesthetics of Mishima. \r\n\r\n<Synopsis>\r\nThe Black Lizard, who is a beautiful female thief that loves beautiful things, targets the massive diamond, “Star of Egypt” and plans to abduct the daughter of the jeweler. The abduction ends in failure thanks to the quick actions of the famed detective Akechi Kogoro, but the Black Lizard comes after the jewel with renewed vigor. The pursuer and the pursued, knowledge and emotion fiercely collide, and a mysterious love begins to form between the two, but…",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2016",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@language": "ja",
+            "@value": "ふじのくに芸術祭共催事業\r\n上演時は英語字幕あり",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "02633-08-2016-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "02633-08-2016-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "現代劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "contemporary theater",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2016/1/14",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "黒蜥蜴",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Black Lizard",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:26:59+00:00"
+    },
+    "o:id": 237907,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:24+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "黒蜥蜴",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

@@ -1,0 +1,361 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238039",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207923",
+            "display_title": "Dance New Air実行委員会",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207923,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "ハイネ・アヴダル/篠崎由紀子",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2015/10/12",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "舞踊",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Dance",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01379",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "en",
+            "@value": "With music",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyEpadOffice": [
+        {
+            "@language": "ja",
+            "@value": "音楽あり",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "Dance New Air実行委員会",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizerTranscription": [
+        {
+            "@language": "ja",
+            "@value": "だんすにゅーえあーじっこういいんかい",
+            "is_public": true,
+            "property_id": 521,
+            "property_label": "labelOfOrganizerTranscription",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "スパイラルホール",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Spiral Hall",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "すぱいらるほーる",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234649",
+            "display_title": "“distant voices – carry on”～青山借景",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234649,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234008",
+            "display_title": "EV00216072",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00216072_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/878fab64e1e1a6e66b4d2ec186b6215a7cfa85b0.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234008,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236221",
+            "display_title": "01_11908-03-2015-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "11908-03-2015-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/04739d835bc91795bdfb11956e770fc63b78cd44.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236221,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236222",
+            "display_title": "02_11908-03-2015-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "11908-03-2015-01_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/f5c5f5684e906c9892f403b9a7533562da562604.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236222,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236223",
+            "display_title": "03_11908-03-2015-01_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "11908-03-2015-01_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/4de77269da7d357934172f903bdcb9db54e12e7f.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236223,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "11908-03-2015-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "だんすにゅーえあーにーぜろいちろくぷれこうえんさいとすぺしふぃっくしりーずぼりゅーむわん　でぃすたんとぼいせず　きゃりーおん　あおやましゃっけい",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "慣れ親しんだはずの日常風景をさりげなく非日常へと反転させた『Borrowed Landscape-Yokohama（横浜借景）』 から3年－。ハイネ・アヴダルと篠崎由紀子は、今年30周年を迎えるスパイラル ［建築：槇文彦］ の空間を舞台に、ヨーロッパと日本のアーティストによる国際共同制作『“distant voices - carry on』”～青山借景』に取り組みます。スパイラルの屋内外、一般には公開されない空間に身体／音／オブジェを介在させ、時間の経過とともに作品の形態を変化させていくサイトスペシフィックな作品。\r\n来場者ひとりひとりが自分の位置や見方を主観的に選択することができ、知覚が開かれ、ありふれた日常を別のイメージへと読み替えるパフォーマンス体験です。\r\n\r\nブリュッセルとオスロを拠点に世界各国で活動している「fieldworks」主宰/芸術監督のハイネ・アヴダルと篠崎由紀子。ともに、メグ・スチュアート率いる「Damaged Goods」でダンサーとして活躍した後、1999年より振付家としての活動を始める。現在まで20作品を振付・演出、各国の主だった芸術祭から招聘を受け上演している。劇場空間での作品に留まらず、ホテルやオフィス、スーパーマーケットなど数多くのロケーションベースの作品を創作・発表。2011年日本で初演された 『Field Works-office』 をきっかけに、伝統的な造園技法である〈借景〉の概念をパフォーミングアーツに用いた国際共同制作 「Borrowed Landscape Project」 を開始。これまでに、日本の第一線のアーティストたちとのコラボレーションで、横浜にあるモデルハウスや商業モールを舞台としたサイトスペシフィックな作品 『Borrowed Landscape-Yokohama（横浜借景）』 を発表。ダンスの概念を覆す取り組みとして好評を博す。本作は、ベルギー／ドイツ／ポーランド／レバノン／東京でのリサーチを経て、2014年10月にベルギー・ルーヴェンで初演され高い評価を得た 『distant voices』 をベースに、ヨーロッパと日本のアーティストによる世界初演となる。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Three years has passed since the presentation of Borrowed Landscape-Yokohama, a site-specific work created to casually reverse familiar landscapes into those of extraordinary. This year, the same choreographers Heine Avdal and Yukiko Shinozaki will present an international co-production: “distant voices –carry on” ~Aoyama Shakkei, which will be set in Spiral (architecture by Fumihiko Maki), a cultural-art complex commemorating its 30th anniversary.\r\n“distant voices –carry on” ~Aoyama Shakkei is a site-specific work, in which bodies / sounds / objects are placed in and outside Spiral including areas that are usually not open to the public, and whose form is gradually transformed as the performance continues. In this experience-based show, the public will be asked to subjectively choose his/her own positions and perspectives and open his/her perception to alter images of the everyday world into different ones.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2015",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "11908-03-2015-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "11908-03-2015-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "コンテンポラリーダンス",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "contemporary dance",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2015/10/11",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "Dance New Air 2016 プレ公演サイトスペシフィックシリーズvol.1 『“distant voices – carry on”～青山借景』",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "“distant voices –carry on” ~ Aoyama Shakkei",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:02+00:00"
+    },
+    "o:id": 238039,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:25+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Dance New Air 2016 プレ公演サイトスペシフィックシリーズvol.1 『“distant voices – carry on”～青山借景』",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

@@ -1,0 +1,317 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238010",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207894",
+            "display_title": "東京芸術劇場",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207894,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "熊林弘高",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "KUMABAYASHI Hirotaka",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2019/9/15",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01314",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "東京芸術劇場（公益財団法人東京都歴史文化財団）",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizerTranscription": [
+        {
+            "@language": "ja",
+            "@value": "とうきょうげいじゅつげきじょう　こうえきざいだんほうじんとうきょうとれきしぶんかざいだん",
+            "is_public": true,
+            "property_id": 521,
+            "property_label": "labelOfOrganizerTranscription",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "東京芸術劇場プレイハウス／穂の国とよはし芸術劇場PLAT　主ホール／りゅーとぴあ新潟市民芸術文化会館　劇場／兵庫県立芸術文化センター　阪急中ホール／熊本県立劇場　演劇ホール／北九州芸術劇場　中劇場",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Tokyo Metropolitan Theatre　Playhouse/HONOKUNITOYOHASHIGEIJUTSUGEKIJOPURATTO　SHUHORU/RYUTOPIANIIGATASHIMINGEIJUTSUBUNKAKAIKAN　GEKIJO/HYOGOKENRITSUGEIJUTSUBUNKASENTA　HANKYUCHUHORU/KUMAMOTOKENRITSUGEKIJO　ENGEKIHORU/KITAKYUSHUGEIJUTSUGEKIJO　CHUGEKIJO",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "とうきょうげいじゅつげきじょう　ぷれいはうす／ほのくにとよはしげいじゅつげきじょうぷらっと　しゅほーる／りゅーとぴあにいがたしみんげいじゅつぶんかかいかん　げきじょう／ひょうごけんりつげいじゅつぶんかせんたー　はんきゅうちゅうほーる／くまもとけんりつげきじょう　えんげきほーる／きたきゅうしゅうげいじゅつげきじょう　ちゅうげきじょう",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234621",
+            "display_title": "お気に召すまま",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234621,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233835",
+            "display_title": "EV00215825",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215825_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/1d89cde479ec2a2aea8609965acc98a85bc034af.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233835,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233836",
+            "display_title": "EV00215826",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215826_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/7cea16b46f31db64c662fd63bf56f503fd1e9e8c.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233836,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236179",
+            "display_title": "01_01586-02-2019-05_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "01586-02-2019-05_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/9f990b725ca6aeea30fc40b847064940b08b132a.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236179,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "01586-02-2019-05",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "おきにめすまま",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "青年オーランドは実兄オリバーに疎まれ不遇をかこっている。ロザリンドと恋に落ちるが、現公爵の不興を買い、父の忠臣だったアダムと共に森に逃れる。同じく追放されたロザリンドは、旅の危険を避けるために男装して“ギャニミード”を名乗り、シーリアと召使のタッチストーンを伴い森に向かう。森で暮らすオーランドの頭の中はロザリンドのことばかり。そこに“ギャニミード”が現れ、恋の相談を受ける。二人の倒錯した恋愛ごっこは次第にエスカレートしていく。森に迷い、本能が解放された人々の乱れ咲く恋が最後に見せる未来図は……。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "The young man Orlando is shunned by his brother Oliver and suffers misfortune for it. He falls in love with Rosalind, but he incurs the displeasure of the Duke, and he escapes into the woods with his father’s loyal retainer, Adam. The similarly banished Rosalind dresses as a man and calls herself “Ganymede” in order to avoid the dangers of being on the road as a woman. Accompanied by Celia and her servant Touchstone, she heads for the forest. Orlando’s thoughts as he lives in the forest is filled with those of Rosalind. Here, “Ganymede” appears receives advice about love. The perverted love affairs of the two gradually escalate. What is the final map of the future of the turbulent love of those who are lost in the forest and whose instincts have been set free…",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2019",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "01586-02-2019-05",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "01586-02-2019-05",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2019/7/30",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "お気に召すまま",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "As You Like It",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:01+00:00"
+    },
+    "o:id": 238010,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:24+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "お気に召すまま",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

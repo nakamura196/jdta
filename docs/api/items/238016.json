@@ -1,0 +1,297 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238016",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207900",
+            "display_title": "DUMBTYPE",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207900,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:award": [
+        {
+            "@language": "ja",
+            "@value": "TTVV-Riccione, Sole d'Oro賞（イタリア）",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "IMZダンス・スクリーン92ベスト・ステージ・レコーディング賞（ドイツ）",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "1995/9/30",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "舞踊",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Dance",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01324",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "スパイラル・ホール（東京）／アートスペース無門館（京都）／京都市美術館／ICA名古屋／Estadio de la Juventud（スペイン／グラナダ）／The Brooklyn Bridge Anchorage（アメリカ／ニューヨーク）／モーダ・ホール（大阪）／Coal Exchange-Chapter（イギリス／カーディフ）／Tramway（イギリス／グラスゴー）／Messepalast, ウィーン 芸術祭（オーストリア／ウィーン）／Centro de Arte Reina Sofia（スペイン／マドリッド）／Theater im Pumpenhaus（ドイツ／ミュンスター）／Museum of Contemporary Art（オーストラリア／シドニー）／スパイラル・ホール（東京）／Theaterhaus Gessnerallee（スイス／チューリッヒ）／VISAS Festival（フランス／モブージュ）／Creteil Maison des Arts（フランス／クレテイユ）／Harbourfront Centre（カナダ／トロント）",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "SUPAIRARUHORU",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "すぱいらるほーる",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234627",
+            "display_title": "pH",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234627,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233843",
+            "display_title": "EV00215833",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215833_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/25c69343373dce6a5e2eb0f5e41014b5cbc1e929.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233843,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236183",
+            "display_title": "01_02124-01-1990-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02124-01-1990-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/117d6750d917f5ebd05dc6d54e8e243d475669d5.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236183,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236184",
+            "display_title": "02_02124-01-1990-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02124-01-1990-01_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/615dcd3c72e53d3954ed1c437979324725a2d479.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236184,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "02124-01-1990-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ぴーえいち",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "“pH”とは、物質の酸性／アルカリ性の度合を示す用語。パフォーマンスは二項対立の図式にそって13のphases ー 問い／答え、イメージ／言葉、事実／虚構、拡張／圧縮、公／私、現実／非現実、攻撃／防御、緊張／弛緩、生産／再生産、男／女、外／内、そして最後に第一場と最終場に共通する開始／終焉／再開 ー から構成されている。細長いパフォーマンス・エリアの両側２階の客席から観客は舞台を覗き込むように見下ろす。上下に設置された２機のコンピューター制御されたトラス（バー）が舞台の端から端へと移動し、常時パフォーマーの動きを制限する。上方のトラスには、6台のスライド・プロジェクターが配置され、パフォーマーを監視・追跡し、あるいは、誘発・誘導する様々なイメージを床面に投射する。下方のトラスは床から45cmの高さに設置され、パフォーマンス・エリアを横切るように移動し、パフォーマーは床に横たわってトラスをやり過ごすか、飛び越えなければならない。\r\n “pH”のコンセプトのもと、インスタレーションや印刷物、ビデオなど、複数のメディアで展開された。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "“pH” is a term that indicates the degree of acidity / alkalinity of a substance. The performance is composed of 13 phases according to this binary opposition – question / answer, image / word, fact / fiction, expansion / contraction, public / private, reality / fantasy, attack / defense, tension / relief, production / regeneration, man / woman, outside / inside, and finally the start / end / restart that is common to both the first and final stage. \r\nThe audience looks down into the stage from the second floor on both sides of the narrow and long performance area. Two computer-controlled trusses (bars) installed above and below move from one end of the stage to the other, constantly restricting the performer’s movements. Six slide projectors are placed on the upper trust in order to monitor and track performers, or to project various images that induce and guide them on the floor. The lower truss is installed at a height of 45 cm above the floor and moves across the performance area, allowing performers to lie on the floor so that it can pass by them or jump over them. \r\nMultiple types of media such as installations, printed matter, and videos were developed under the concept of “pH.”",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "1990",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "02124-01-1990-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "02124-01-1990-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "1990/8/8",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "pH",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "pH",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:02+00:00"
+    },
+    "o:id": 238016,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:25+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "pH",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

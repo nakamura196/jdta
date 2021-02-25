@@ -1,0 +1,279 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238889",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208773",
+            "display_title": "株式会社オポス／ヨーロッパ企画",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208773,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2013/10/6",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P02727",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "栗東芸術文化会館さきら中ホール　京都府立文化芸術会館　アートピアホール　本多劇場　シアターBRAVA!　アステールプラザ中ホール　西鉄ホール",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "RITTOGEIJUTSUBUNKAKAIKANSAKIRACHUHORU　KYOTOFURITSUBUNKAGEIJUTSUKAIKAN　ATOPIAHORU　HONDAGEKIJO　THEATREBURABA　ASUTERUPURAZACHUHORU　NISHITETSUHORU",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "りっとうげいじゅつぶんかかいかんさきらちゅうほーる　きょうとふりつぶんかげいじゅつかいかん　あーとぴあほーる　ほんだげきじょう　しあたーぶらば　あすてーるぷらざちゅうほーる　にしてつほーる",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235514",
+            "display_title": "建てましにつぐ建てましポルカ",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235514,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234364",
+            "display_title": "EV00216610",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00216610_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/5e8f3b7b24df2bfec8fd44d75861c841c333926d.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234364,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237811",
+            "display_title": "01_04853-01-2013-04_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "04853-01-2013-04_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/b957e2e6e56b17954dd4f4b7c0e9e5f1fc62f288.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237811,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237812",
+            "display_title": "02_04853-01-2013-04_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "04853-01-2013-04_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/ecc1d7294cba83bac05b8cc91ad66c3a62ddbe2a.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237812,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "04853-01-2013-04",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "たてましにつぐたてましぽるか",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "中世、東欧。王権のかつての威光は翳り、諸侯が跋扈する混迷の時代。\r\n城では絶えずそこかしこで、建てましにつぐ建てましがなされている。\r\n\r\nそんな城で、パーティに戻る道すがら、迷ってしまった貴族と従者。\r\n歩けども歩けども、元の道には戻れず、見慣れぬ回廊が続くばかり。\r\n\r\n高みの見物の新興貴族、足手まといな辺境伯。\r\n不案内なメイドに、不遜な物乞い、通りすがる道化。\r\nはては城の秘密や、世界の危機までもが、壁のむこうに見え隠れ。\r\n\r\nヨーロッパ企画が放つ、迷路コメディ。\r\n諸君、今こそ迷路狂時代である！",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Medieval, Eastern Europe. \r\nThe old prestige of the kingship is over, and the era is of turmoil with feudal lords in power. \r\nThe castle is constantly extended everywhere, one after another. \r\n\r\nIn the castle, a nobleman and his servant are lost on the way back to the party. \r\nThey keep walking, but cannot go back to the original road. Only an unfamiliar corridor stretches in front of thier eyes. \r\n\r\nAn unconcerned new aristocrat, and a dependent old earl. \r\nA useless maid, an irreverent beggar, and a passing-by clown. \r\nThe secrets of the castle and the crises of the world appear and disappear behind walls. \r\n\r\nA maze comedy released by Europe Kikaku. \r\nGuys, it is the time for maze fans!",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2013",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "04853-01-2013-04",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "04853-01-2013-04",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2013/8/31",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "建てましにつぐ建てましポルカ",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Building polka after building polka",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:22+00:00"
+    },
+    "o:id": 238889,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:30+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "建てましにつぐ建てましポルカ",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

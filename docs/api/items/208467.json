@@ -1,0 +1,166 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/208467",
+    "@type": [
+        "o:Item",
+        "dcepk:Agent"
+    ],
+    "dcepk:agentTranscription": [
+        {
+            "@language": "ja",
+            "@value": "いとうきむ　かがやくみらい",
+            "is_public": true,
+            "property_id": 487,
+            "property_label": "Agent名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:location": [
+        {
+            "@language": "ja",
+            "@value": "神奈川県",
+            "is_public": true,
+            "property_id": 505,
+            "property_label": "Agent住所(都道府県名)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:role": [
+        {
+            "@language": "ja",
+            "@value": "取得.納入",
+            "is_public": true,
+            "property_id": 514,
+            "property_label": "Agent役割",
+            "type": "literal"
+        }
+    ],
+    "dcepk:roleName": [
+        {
+            "@language": "ja",
+            "@value": "納入",
+            "is_public": true,
+            "property_id": 515,
+            "property_label": "Agent役割名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Delivery",
+            "is_public": true,
+            "property_id": 515,
+            "property_label": "Agent役割名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "03532-01-2005-02:del01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "87年、舞踏家・古川あんずに師事。95年「伊藤キム＋輝く未来」を結成。1996年『生きたまま死んでいるヒトは死んだままいきているのか？』でバニョレ国際振付賞、 02年第一回朝日舞台芸術賞・寺山修司賞。05～06年にバックパックを背負って半年間の世界一周の旅に出る。11年「輝く未来」を解散。13年京都・本能寺創建600年の記念イベント『本能寺のD』で演出・振付・出演、国内外をツアー。14年六本木アートナイト2014パレードの監修。小中高生へのワークショップや振付、おやじが踊って給仕する「おやじカフェ」のプロデュースを国内外で行う。京都造形芸術大学客員教授。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Kim Itoh began studying dance under Butoh artist Anzu Furukawa in 1987. In 1995, he founded \"Kim Itoh + The Glorious Future.\" He won the Rencontres Chorégraphiques Internationales de Seine-Saint Denis in 1996 and the Shuji Terayama Prize at the 1st Asahi Performing Arts Awards in 2002 for \"Dead and Alive – Body on the Borderline.” From 2005 to 2006, Itoh traveled around the world for six months with a backpack. In 2011, \"The Glorious Future\" was dissolved. In 2013, he directed, choreographed and performed in “Honnoji no D,” an event commemorating the 600th anniversary of the founding of Honnoji Temple in Kyoto, and toured Japan and abroad. In 2014, he supervised the Roppongi Art Night 2014 Parade. He has produced workshops and choreographed for elementary, junior high and high school students, and produces \"Oyaji Cafe\", where middle-aged men dance and serve food both in Japan and abroad. He is a Visiting Professor at Kyoto University of the Arts.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ag-d69716ecc0afb59b986d284136bf4419",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "伊藤キム＋輝く未来",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "foaf:homepage": [
+        {
+            "@value": "http://gero.kim/",
+            "is_public": true,
+            "property_id": 147,
+            "property_label": "homepage",
+            "type": "literal"
+        }
+    ],
+    "foaf:name": [
+        {
+            "@language": "ja",
+            "@value": "伊藤キム＋輝く未来",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Kim Itoh + The Glorious Future",
+            "is_public": true,
+            "property_id": 138,
+            "property_label": "name",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:06:24+00:00"
+    },
+    "o:id": 208467,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:19:38+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/307",
+        "o:id": 307
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/12",
+        "o:id": 12
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "伊藤キム＋輝く未来",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

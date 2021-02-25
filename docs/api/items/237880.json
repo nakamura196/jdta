@@ -1,0 +1,321 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/237880",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207764",
+            "display_title": "ミクニヤナイハラプロジェクト",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207764,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "矢内原美邦",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "YANAIHARA Mikuni",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2016/3/28",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "英訳あり（作品名、あらすじ、上演劇場、上演主体名、上演主体代表者名、スタッフクレジット・配役）",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01066",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "吉祥寺シアター",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Kichijoji Theater",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "きちじょうじしあたー",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234468",
+            "display_title": "東京ノート",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234468,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233524",
+            "display_title": "EV00215430",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215430_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/75f1e735320e92fe86bb4bdd3fb023d7aa0fabc3.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233524,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235774",
+            "display_title": "01_07819-01-2016-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "07819-01-2016-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/4bd7ae5d999071654daed73d8cebc358dd865436.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235774,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235775",
+            "display_title": "02_07819-01-2016-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "07819-01-2016-01_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/39293400415228b8da7c217caa7bebc154bbd30f.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235775,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235773",
+            "display_title": "03_07819-01-2016-01_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "07819-01-2016-01_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/de4e00ad761b050d84d2a065b769fb4643d645dd.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235773,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "07819-01-2016-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "とうきょうのーと",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "2015年度に開館10周年を迎える吉祥寺シアター。また、吉祥寺シアターのこけら落とし公演をきっかけに始まった「ミクニヤナイハラプロジェクト」も同じく 10周年を迎えます。両者の10周年記念公演として。\r\n超高速な発話と激しい動き、デフォルメされたキャラクターが特徴である「ミクニヤナイハラプロジェクト」が、全く逆の「静かな演劇」と評される平田オリザの名作『東京ノート』にどのように挑むのか。\r\n\r\n2015 年の半年間をかけて文化庁文化交流士としてアジア各都市を視察して回り、外側から自分たちの暮らす東京を見てきた。この「東京ノート」という物語に、目の前にいまある東京と、遠いどこかの国でみた東京という幻を見る。あえて意味は問わず、身体感覚で捉える。いまある自分の身体と、俳優たちの身体と、そしてそれを見ている観客の身体と、その足元にある東京と、そこに住む人々、日常、喧騒、風景、交わされる無数の言葉たちと、沈黙、孤独、相違、この先にあるいくつかの時間たち、そしていくつかの場所。なにか言葉にならない叫びのような東京を手のひらで握りしめるように。\r\n\r\nはたして今、ここからどんな東京が、どんな世界が見えるだろうか。。。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "\"The theater created by choreographer Mikuni Yanaihara is characterized by very fast-paced speech and intense movement. This piece, however, is quite the opposite and has been rated as \"\"quiet theater.\"\" Yanaihara took up the challenge of \"\"Tokyo Notes,\"\" a major opus of Oriza Hirata and one of the most famous plays in the history of Japanese theater, first staged in 1994. The setting is the lobby of an art museum in Tokyo in the not-too-distant future. A terrible war has broken out in Europe, and masterpiece paintings from there have been taken to Japan for safekeeping. All sorts of uninvolved people - museum staff, students, art donors, relatives, lovers, and friends - engage in repeated fragmentary conversation about subjects such as care of their parents, inheritance problems, career, and love. The additions made by Yanaihara to the original script, which was written 22 years ago, blend in the influence of the Great East Japan Earthquake and Fukushima Daiichi nuclear catastrophe in 2011, and terrorist attacks that have occurred in various parts of the world in recent years, to better speak to people living in contemporary Tokyo. Bringing them to the ultimate degree of deformation, Yanaihara's direction keeps the\r\n cast, whose members number no less than 20, moving their bodies both dynamically and precisely, as if they were musicians in the same orchestra, and rouses the feeling of being alive here and now from corporeality that has fallen into an uncontrollable status.\r\n Yanaihara visited various cities in Asia for a period of six months in 2015 as Japan Cultural Envoy, and so had the opportunity to view the Tokyo where she lives from the outside. In \"\"Tokyo Notes,\"\" we see both the Tokyo here before our eyes and the vision of Tokyo as viewed from some faraway country. Yanaihara makes a point of not delving into the meaning but instead explores it with physical expression. Her own body at present,\r\n those of the actors, and those of the audience looking on. The Tokyo beneath our feet, the people living there, the daily routine, commotion, cityscape, and countless words flying back and forth. Silence, isolation, disagreement, the different times lying ahead, and different places. The work allows us to grasp a Tokyo like shouting which cannot be put into words, right in the palm of the hand.\"",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2016",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "07819-01-2016-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "07819-01-2016-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2016/3/24",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "東京ノート",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Tokyo Note",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:26:58+00:00"
+    },
+    "o:id": 237880,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:23+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "東京ノート",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

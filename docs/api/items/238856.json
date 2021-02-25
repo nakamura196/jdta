@@ -1,0 +1,365 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238856",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208740",
+            "display_title": "NPO法人JCDN「踊りに行くぜ!!」",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208740,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2008/3/8",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "舞踊",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Dance",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P02680",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "en",
+            "@value": "Ends in the dark",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Proscenium",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "With music",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "songs",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyEpadOffice": [
+        {
+            "@language": "ja",
+            "@value": "暗転で終わる",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "プロセニアム",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "音楽あり",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "歌あり",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "アサヒアートスクエア",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Asahi Art Square",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "あさひあーとすくえあ",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235479",
+            "display_title": "SPECIAL　IN　TOKYO",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235479,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233818",
+            "display_title": "EV00215808",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215808_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/ef17eebcda78a00fc47bad6f0c3033a542f5a3c7.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233818,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237740",
+            "display_title": "01_04872-03-2008-03_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "04872-03-2008-03_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/d3dc2616ed96e020f2ecd208507583e7a5f21d09.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237740,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237741",
+            "display_title": "02_04872-03-2008-03_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "04872-03-2008-03_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/b36c375af8a759d6be5568bd7367019b852caf70.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237741,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "04872-03-2008-03",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "おどりにいくぜ　せれくしょん　ぜろいち",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "2003年「踊りに行くぜ!!」vol.4より、毎年その年の話題になって作品を紹介する場として, 「踊りに行くぜ!!」SPECIAL IN TOKYOと銘打ち、最終公演を行ってきた。また、2008年5月―2009年5月まで毎月演劇・ダンスの専門チャンネル“スカパー！シアターテレビジョン（シアテレ）”にて、毎月内容を変えてレギュラー放送を行っていた。今回は、そのシアテレの一回目2008年5月の放送を行った。「踊りに行くぜ!!」vol.8　SPECIAL　IN　TOKYOを紹介する。番組として、作品紹介だけではなく、開催各地の紹介、アーティストインタビューなど盛り沢山な内容となっている。\r\n上演作品・カンパニー・アーティスト・作品コメント紹介\r\n\r\nKIKIKIKIKIKI　（京都）　「サカリバ007」\r\n構成･演出･振付：きたまり \r\n出演：花本ゆか、舟木理恵、白石紗知子、きたまり\r\n音楽：,G　　美術：黒田政秀　　衣装：園部典子\r\n『ここにいる。ここで起こる開放的な時間、ここで流れる閉鎖的な時間、破裂するほどの感情や氾濫する情報の渦の中、あさましくここにいる。』\r\n\r\nプロジェクト大山（東京）　「てまえ悶絶　～3000円くらいの自己肯定～」\r\n構成･演出･振付：古家優里\r\n共同振付･出演：長内裕美、梶本はるか、三浦舞子、三輪亜希子、古家優里/音：武田直之\r\n『日々、悶絶しております。いえ、悶絶のてまえ一歩で　もんもんと。しかし、その一味　意外と美味しいかも。3000円くらい分の自己肯定、味わっていってください。』\r\n\r\nKENTARO!!　(東京)　「東京で会いましょう」\r\n振付・出演：KENTARO!!\r\n『お久しぶりです。君と出会ったあの日から、一体どれくらい経ったのだろう。僕も大人になりました、多分。料理も少しばかり出来るようになって、掃除も(２週間に１度ですが・・)する様になりました。そしたら景色が変わり始め、言葉と気持ちが揺れてどんどん僕になっていくんです。このまま染まってしまってもいいのかもしれないけど・・・だけど、あの日の気持ちだけは変わらないんです。仕事も恋愛も超えて君に会いたい!!でも会いに行く勇気が出ない。だから、会いに来てください。\r\n時間が夢を蝕む日々なんです。「ここに、会いにきてください。」』\r\n\r\n白舞寺　White Dance Temple（台湾）　「過火　Crossing Fire」\r\n構成･演出･振付：ユー・シャオチン　\r\n出演：ツァイ･ジャーチュン、ツァイ･ウェンリン、ユー･シャオチン\r\n『台湾古代の清めの儀式「火渡り」（台湾語では過火）より名付ける。プロジェクターで映し出されるスピード感のある台湾の都市の風景と、ダンスが奇妙に交じり合い、現代生活の中での歴史や文化のあり様を伝える。非常に激しい身体性とエネルギーを要求されるこのダンスでは、寺院の祭典で行われる古代儀式の最中に得られるような孤高感を達成できる。』",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Starting from “We’re Gonna Go Dancing!!” Vol.4 in 2003, the final performance titled “We’re Gonna Go Dancing! SPECIAL IN TOKYO” was held every year to introduce the most popular works presented that year. In addition, from May 2008 to May 2009, the project was broadcast on the theater and dance channel Theater TV of SKY PerfecTV! with a different content every month. This show is from “We’re Gonna Go Dancing! Vol. 8 SPECIAL IN TOKYO,” which commemorated the first Theater TV broadcast in May 2008. The program not only introduced the works, but also the various locations where the events were held, interviews with the artists, and much more.\r\n\r\nPrograms, companies, artists and comments on the performance are as follows:\r\n\r\nKIKIKIKIKIKI (Kyoto) “Beehive 007”\r\n[Direction・Choreography] Kitamari\r\n[Dance] Kyoko Nobuchi, Yuka Hanamoto, Emi Matsuo, Kitamari\r\n[Music] ,G\r\n[Scenic Design] Masahide Kuroda\r\n[Costume] Noriko Sonobe\r\n“I am here. In the openness of time that happens here, in the closeness of time that flows here, with almost exploding emotions, inside of a whirl of overflowing information, I am here, wretched.”\r\n\r\nProject Ohyama (Tokyo) “One Step Away from Agony: Self-Affirmation at About 3000 Yen”\r\nDirection・Choreography: Yuri Furuie\r\nCo-Choreography・Dance: Yumi Osanai, Haruka Kajimoto, Maiko Miura, Akiko Miwa, Yuri Furuie \r\nSound: Naoyuki Takeda\r\n“I am in agony every day. No, it’s actually a step away from fainting in agony. However, that taste may be surprisingly delicious. Please enjoy the self-affirmation for about 3000 yen.\"\r\n\r\nKENTARO!! (Tokyo) “See You in Tokyo”\r\nChoreography・Dance: KENTARO!!\r\n“Long time no see. How long has it been since the day I first met you? I’ve grown up, I guess. I can cook a little better, and I even clean the house (once every two weeks…). Then, the scenery began to change, and my words and feelings were shaken and I became more and more me. Perhaps it’s okay to let it be as is… But I can’t change the way I felt that day. I want to see you more than going to work and being in love!! But I can’t find the courage to go see you. So, please come and see me. \r\nTime is eating away at my dreams these days. ‘Please come and see me here.’”\r\n\r\nWhite Dance Temple (Taiwan) “Crossing Fire”\r\n[Direction・Choreography] You Shao-Jing\r\n[Dance] ツァイ･ジャーチュン、ツァイ･ウェンリン, You Shao-Jing\r\n“Named after the ancient Taiwanese purification ritual called “firewalking” (overfire in Taiwanese). The dance and footage of bustling scenery from Taiwan’s urban cities blend unexpectedly, and convey how history and culture exist among contemporary life. This dance, which requires extremely intense physicality and energy, can achieve a sense of isolation similar to that felt during the ancient rituals performed at temple festivals.\"",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2008",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "04872-03-2008-03",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "04872-03-2008-03",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "コンテンポラリーダンス",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "contemporary dance",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2008/3/7",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "「踊りに行くぜ!!」セレクション 01",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "JCDN \"We’re Gonna Go Dancing!!\"　Sellection 01",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:21+00:00"
+    },
+    "o:id": 238856,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:30+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "「踊りに行くぜ!!」セレクション 01",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

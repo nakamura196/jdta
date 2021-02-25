@@ -1,0 +1,533 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/237835",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207719",
+            "display_title": "維新派",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207719,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "松本雄吉",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "MATSUMOTO Yuukichi",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2011/5/17",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "瀬戸内国際芸術祭2010参加作品\r\nシンガポールアーツフェスティバル2011参加作品\r\nWhen a Gray Taiwanese Cow Stretched / ISHINHA\r\n英訳あり（上演主体代表者名・映像権利者名）",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01005",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "岡山・犬島アートプロジェクト「精錬所」内・野外特設劇場／埼玉・彩の国さいたま芸術劇場／シンガポール・フェスティバルヴィレッジ（Esplanade Park)",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "OKAYAMA　INUJIMA　ATOPUROJIEKUTO　SEIRENJONAI　YAGAITOKUSETSUGEKIJO/SAITAMA　SAINOKUNISAITAMAGEIJUTSUGEKIJO/SHINGAPORU　FUESUTEIBARUBIIREJJI",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "おかやま　いぬじま　あーとぷろじぇくと　せいれんじょない　やがいとくせつげきじょう／さいたま　さいのくにさいたまげいじゅつげきじょう／しんがぽーる　ふぇすてぃばるびぃれっじ",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234423",
+            "display_title": "台湾の、灰色の牛が背のびをしたとき",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234423,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233256",
+            "display_title": "EV00215100",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215100_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/289ca5cf6b388c0974f1792bd9903710c49eb247.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233256,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235618",
+            "display_title": "00028-01-2010-01_01",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00028-01-2010-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/31aca295282f7e8b270d2c1f8944990055d8bd28.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235618,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235619",
+            "display_title": "00028-01-2010-01_02",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00028-01-2010-01_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/c6b569fbcc2405c0c747ea48f9e76e13d2bbff54.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235619,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235620",
+            "display_title": "00028-01-2010-01_03",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00028-01-2010-01_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/f6066a772339d8c341da7c19b5afe628f63a3d27.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235620,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235621",
+            "display_title": "00028-01-2010-01_04",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00028-01-2010-01_04.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/c2311c7609d292e110505e693cfbf0e29c9782d3.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235621,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235622",
+            "display_title": "00028-01-2010-01_05",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00028-01-2010-01_05.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/3d517037edc518196fe060984c8f2aa8d5c34f3b.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235622,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235623",
+            "display_title": "00028-01-2010-01_06",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00028-01-2010-01_06.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/adb1eb03923d50c9029d39d920ab0e9b16b5bc78.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235623,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235624",
+            "display_title": "00028-01-2010-01_07",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00028-01-2010-01_07.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/5ed9be20730c1d4517ce4c3abced0fdea84a955a.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235624,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235625",
+            "display_title": "00028-01-2010-01_08",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00028-01-2010-01_08.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/bf7421d91cbcd1ca4c4a0a2ba9768d9bbf2b1901.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235625,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235626",
+            "display_title": "00028-01-2010-01_09",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00028-01-2010-01_09.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/12c61a8dbe67659534055d7127d02fbbf3a2657e.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235626,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235627",
+            "display_title": "00028-01-2010-01_10",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00028-01-2010-01_10.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/1dc381a90c22b13475ef0cbe503d723de5fb1d25.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235627,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235628",
+            "display_title": "00028-01-2010-01_11",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00028-01-2010-01_11.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/50c63463830e8f543952b56b2a4c67a6631e53f7.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235628,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235629",
+            "display_title": "00028-01-2010-01_12",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00028-01-2010-01_12.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/192a8e7d5c1c42da6a92c429bd12fa5f8cba19ee.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235629,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235630",
+            "display_title": "00028-01-2010-01_13",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00028-01-2010-01_13.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/08f1710718541fb4e533f6d38b721d597bf5bc61.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235630,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235631",
+            "display_title": "00028-01-2010-01_14",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00028-01-2010-01_14.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/b59a0f43e340675c1270e99a66608a26bb620fa1.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235631,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235632",
+            "display_title": "00028-01-2010-01_15",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00028-01-2010-01_15.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/abd8984506596bf3266139487334a48e69dda9fa.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235632,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00028-01-2010-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "たいわんのはいいろのうしがせのびをしたとき",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "【Story】多くの島が広がるアジアの海、多島海。その南の海から、島づたいに日本にたどり着く道を、「海の道」と呼びます。 それらの島々を舞台にして、日本から東南アジアへ渡った人々、アジアから日本へ渡ってきた人々にまつわる様々な逸話をもとに、「20世紀の海の道」を描きます。\r\n\r\n【Note】\r\n〈彼〉と旅をする20世紀三部作の最終章となったアジア篇は、維新派史上最大の野外劇場にて上演。 劇場や舞台セットだけではなく、客席へとつながるゆるやかな長い坂道のアプローチも作ることで、全長100ｍ以上、丸太4000本を使った、造形的な野外劇場が、瀬戸内海の犬島に出現した。『カンカラ』以来8年ぶりとなる犬島での公演は、島から島へ、島づたいに続いていく海の道を経て、アジアの多島海へ連なるイメージを作り上げた。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "An Asian sea with many islands, an archipelago. A road that arrives from the southern sea to Japan via islands is called the “road of the sea”. With those islands as the stage, we depict a “20th-century road of the sea” based on various anecdotes about people who have traveled from Japan to Southeast Asia and people who have come to Japan from Asia.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2010",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@language": "ja",
+            "@value": "瀬戸内国際芸術祭2010参加作品\r\nシンガポールアーツフェスティバル2011参加作品",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "00028-01-2010-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "00028-01-2010-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "現代劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "野外劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "contemporary theater",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "outdoor performance",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2010/7/20",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "台湾の、灰色の牛が背のびをしたとき",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "When a Gray Taiwanese Cow Stretched",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:26:57+00:00"
+    },
+    "o:id": 237835,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:23+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "台湾の、灰色の牛が背のびをしたとき",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

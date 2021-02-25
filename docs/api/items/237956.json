@@ -1,0 +1,303 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/237956",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207840",
+            "display_title": "特定非営利活動法人 大阪現代舞台芸術協会（ＤＩＶＥ）",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207840,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "深津篤史",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "FUKATSU Shigefumi",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2012/11/4",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01175",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "伊丹市、公益財団法人伊丹市文化振興財団、NPO法人大阪現代舞台芸術協会（DIVE）",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizerTranscription": [
+        {
+            "@language": "ja",
+            "@value": "いたみし　こうえきざいだんほうじんいたみしぶんかしんこうざいだん　えぬぴーおーほうじんおおさかげんだいぶたいげいじゅつきょうかい　だいぶ",
+            "is_public": true,
+            "property_id": 521,
+            "property_label": "labelOfOrganizerTranscription",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "アイホール",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "AI・HALL",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "あいほーる",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234544",
+            "display_title": "オダサク、わが友",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234544,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233561",
+            "display_title": "EV00215478",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215478_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/c478a88ee8496a268f6083057eb102c0ae998565.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233561,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236010",
+            "display_title": "01_03876-08-2012-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03876-08-2012-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/e07954cd0ee3ae65d71244b2d59330bb8c980d65.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236010,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "03876-08-2012-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "おださくわがとも",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "群像のロマンを目指し、奔放な語り口で定石外れのウソを描こうとした織田作之助。\r\nその精神を受け継ぎ虚構をでっちあげ、織田の小説から夫婦のありようや下町の人間模様になつかしい大阪の人情をにじませた『オダサク、わが友』。\r\n\r\n本作は、北村想が脚本を書き下ろし、新国立劇場での作品上演にて評価の高い深津篤史が演出を手掛け、2011年3月に初演されました。\r\n\r\n今回、初演時のキャストに、新たなメンバーも加わり、予断を許さない関西の演劇状況の中で、再び、浪漫を求めた人情劇を織り成します。\r\n\r\nあらすじ\r\n戦前戦後の文学界に「無頼派」と称される作家が在った。坂口安吾、太宰治、そうして織田作之助である。 安吾と太宰は全国的にもてはやされ、いまに読み継がれる作品も多いが、織田作之助は『夫婦善哉』があるのみで、多くの斬新な文学や評論を知る人は少ない。また、太宰や安吾に比して、その人間像もあまり表に現れることがナイ。『オダサク、わが友』は、この大阪の無頼派、織田作之助にspotlightをあてた作品である。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Aiming for the Romance of a group of people, Oda Sakunosuke tries to draw an extraordinary lie with a free-spirited narrative.\r\n\r\n“Odasaku, My Friend”, which inherited that spirit and conjured up a fiction, and oozes out the humanity of an Osaka with nostalgia for the truths of couples and the human patterns of the downtown areas from Oda’s novel. \r\n\r\nThis work was written by Kitamura So and directed by Fukatsu Shigefumi, who has been highly acclaimed for performing works at the New National Theatre Tokyo, with a premiere in March 2011.\r\n\r\nThis time, new members will join the cast for its premiere, and a new Romance-seeking human drama will be weaved together once again in the unpredictable Kansai theater environment.\r\n\r\nSynopsis\r\nThere was a group of writers known as the “Buraiha” in the pre- and post-war literary world. These included Sakaguchi Ango, Dazai Osamu, and Oda Sakunosuke. Ango and Dazai were touted worldwide, and many of their works are still read today. However, Oda Sakunosuke’s work only includes “Meoto Zenzai”, and few people know many of his cutting-edge literature and critical work. Furthermore, his lifestyle is not as often depicted when compared with Dazai and Ango. “Odasaku, My Friend” is a work that brings the spotlight to this Osaka Buraiha, Oda Sakunosuke.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2012",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "03876-08-2012-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "03876-08-2012-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2012/11/2",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "オダサク、わが友",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Odasaku, My Friend",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:00+00:00"
+    },
+    "o:id": 237956,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:24+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "オダサク、わが友",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

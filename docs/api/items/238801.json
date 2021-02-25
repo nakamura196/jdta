@@ -1,0 +1,425 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238801",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208685",
+            "display_title": "ナイロン100℃",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208685,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:award": [
+        {
+            "@language": "ja",
+            "@value": "第40回（2014年度）菊田一夫演劇賞受賞",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "The 40th Kikuta Kazuo Theater Award",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "ケラリーノ・サンドロヴィッチ",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "KERARIINO Sandorovitchi",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2014/5/3",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "注目を集めた『犬は鎖につなぐべからず』から７年。\r\n日本現代演劇の祖ともいえる岸田國士の名作をコラージュした昨日にナイロン100℃が再び。",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P02589",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "ja",
+            "@value": "喜劇",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "受賞作",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "和装劇",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "家族",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "comedy",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Award-winning work",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Family",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "キューブ",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "青山円形劇場",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "AOYAMAENKEIGEKIJO",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "あおやまえんけいげきじょう",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235420",
+            "display_title": "パン屋文六の思案〜続・岸田國士一幕劇コレクション〜",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235420,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233696",
+            "display_title": "EV00215676",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215676_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/d11e1a654ffe1f869a6e0990af9ee10445504de3.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233696,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233697",
+            "display_title": "EV00215677",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215677_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/1de74f76ba1a04ed1c63984d781a1babea0773ad.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233697,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237632",
+            "display_title": "01_02367-01-2014-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02367-01-2014-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/7f73f79a5245cb07d7320bc371d3c521c4a77572.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237632,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237633",
+            "display_title": "02_02367-01-2014-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02367-01-2014-01_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/9f09d4c79a954eb115b267ce388c37dcf86658b0.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237633,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "02367-01-2014-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ぱんやぶんろくのしあん　ぞくきしだくにおいちまくげきこれくしょん",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "岸田戯曲のとてつもない面白さと奥深さに打ちのめされたKERAが贈る「岸田國士一幕劇コレクション」第二弾。円形劇場を縦横無尽に駆け巡るパノラミックな和装劇！\r\n\r\n実直なパン屋一家（志賀廣太郎、長田奈麻、新谷真弓、森田甘露）を予期せぬ出来事が次々と襲い、茶の間がいきなり怒涛のSF的展開へ突入する表題作『麺麭屋文六の思案』と続編『遂に「知らん」文六』。無邪気な子どもたちの歌声が響く学園で、大人たちの愛憎劇が繰り広げられる『ママ先生とその夫』は、姉さん女房（松永玲子）と年下夫（萩原聖人）という年の差夫婦に、若い女教師（小野ゆり子）と金持ち未亡人（村岡希美）の思惑が絡み合う。愛さえあれば幸せなはずなのに。なぜか涙が出ちゃう若夫婦（みのすけ、村岡希美）、そんな時の憂さ晴らしに『かんしゃく玉』はいかが？\r\n結婚7年目の倦怠期を乗り越えるべく、とある手段で夫婦（廣川三憲、緒川たまき）が互いを見つめ直す『世帯休業』。友達以上恋人未満なんてうそぶいているうちに本当の愛がすり抜けてしまう『恋愛恐怖症』（植本潤、緒川たまき）は、自分に素直になれない恋愛ベタの心をかき乱すことに必至。態度がでかすぎる居候（みのすけ）と、のんきすぎる大家（藤田秀世）に軽い殺意を覚える『長閑なる反目』は、あなたの忍耐力を試すのに最適だ。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "The second installment of the “Kishida Prize for Drama Collection” presented by KERA, which was overwhelmed by the tremendous fun and depth of Kishida dramas.\r\nA panoramic kimono drama that freely goes around the amphitheater!\r\n\r\nThe title work “Thoughts of the Baker Bunroku” and its sequel, “Finally, the ‘Ignorant’ Bunroku,” where unexpected events fall upon an honest bakery family (Shiga Kotaro, Osada Nao, Shintani Mayumi, Morita Kanro), and a living room is suddenly propelled forward in science-fiction developments! “Mom Teacher and Her Husband,” where a love-hate drama between adults unfolds at a school where the singing voices of innocent children echo through the courtyard, involves a young female teacher (Ono Yuriko) and a rich widow (Muraoka Nozomi) becoming intertwined with a married couple with large age differences, where an older wife (Matsunaga Reiko) is married to a younger husband (Hagiwara Masato). They should be happy so long as there is love. When the young couple (Minosuke, Muraoka Nozomi) cries for some reason, why not try “The Temper Ball” to relieve your anxiety?\r\n“Household Leave,” where a couple (Hirokawa Mitsunori, Ogawa Tamaki) devise a plan and take a second look at each other in order to overcome the seven-year itch of their marriage. “Love Phobia” (Uemoto Jun, Ogawa Tamaki), where true love slips through while two people pretend to be more than friends but less than lovers, inevitably disturbs the heart of a love affair that cannot be honest to oneself. “Long-term Rebellion,” where a freeloader with a big attitude (Minosuke) and a landlord who is too carefree (Fujita Hideyo) have slightly murderous intentions, is the best way to test your patience.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2014",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "02367-01-2014-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "02367-01-2014-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "現代劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "contemporary theater",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2014/4/10",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "パン屋文六の思案〜続・岸田國士一幕劇コレクション〜",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Thoughts of Baker Bunroku ~Continued / Kunio Kishida One-act Drama Collection~",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:20+00:00"
+    },
+    "o:id": 238801,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:29+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "パン屋文六の思案〜続・岸田國士一幕劇コレクション〜",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

@@ -1,0 +1,325 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/237911",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207795",
+            "display_title": "キョードー東京",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207795,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2016/8/31",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01109",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "en",
+            "@value": "musical",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "CHICAGO",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "主催：TBS/キョードー東京/梅田芸術劇場",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "KAAT 神奈川芸術劇場／東京国際フォーラム ホールC／梅田芸術劇場メインホール",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "KANAGAWAGEIJUTSUGEKIJO　/TOKYOKOKUSAIFUORAMUHORUSHI/UMEDAGEIJUTSUGEKIJOMEINHORU",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "かながわげいじゅつげきじょう　／とうきょうこくさいふぉーらむほーるしー／うめだげいじゅつげきじょうめいんほーる",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234499",
+            "display_title": "「シカゴ」宝塚歌劇OGバージョン",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234499,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233385",
+            "display_title": "EV00215264",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215264_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/9cea92f8514f13f78556fafdd72f8cd68ec51f6f.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233385,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235876",
+            "display_title": "01_01510-02-2016-04_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "01510-02-2016-04_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/77578d4b52bc595ffc4d67f2f9a380dfc5d4100d.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235876,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235877",
+            "display_title": "02_01510-02-2016-04_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "01510-02-2016-04_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/88fea5f92c12f2979da3e2ac50fcd1797cbb4e3e.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235877,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "01510-02-2016-04",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ぶろーどうぇいみゅーじかるしかごたからづかかげきおーじーばーじょん",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "トニー賞®最優秀リバイバル・ミュージカル作品賞に輝き、アメリカ作品としてはブロードウェイ史上1位のロングラン記録を更新し続けているミュージカル『シカゴ』。何でもあり＜All That Jazz＞な富と名声の物語、素晴らしい楽曲、そしてスタイリッシュでセクシーなダンスが楽しめるこのミュージカルは、ブロードウェイミュージカルの代名詞です。\r\n宝塚歌劇OGバージョンは、宝塚歌劇100周年を祝して2014年11月に上演され、ミュージカルの聖地ブロードウェイでも「最もセクシーなミュージカル」と称される『シカゴ』と、宝塚歌劇団の卒業生(OG)たちのパフォーマンスによる良質な化学反応に溢れた公演は、批評家からも絶賛されました。\r\n\r\nそして2016年にはその評判と公演を手がけたクリエイティブ・チームからの手応えを聞きつけたリンカーン・センター・フェスティバル実行委員会によって、ニューヨーク（デヴィッド・H・コーク・シアター）での上演が実現。ワールドツアーとして、神奈川芸術劇場、ニューヨーク（デヴィッド・H・コーク・シアター）、東京国際フォーラムホールC、梅田芸術劇場メインホールで上演され、ビリー・フリン役を峰さを理、麻路さき、姿月あさとが、ヴェルマ・ケリー役を和央ようか、湖月わたる、水夏希がそれぞれトリプルキャストで演じ、ロキシー・ハート役を朝海ひかると大和悠河がWキャストで務めました。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "The musical “Chicago\",which won 6 Tony Awards including Best Musical Revival, is the longest-running American musical in Broadway history. With its everything-goes story of wealth and fame that is “All That Jazz”, great music, stylish and sexy dances,you can hardly discuss Broadway musical without seeing this show. \r\nThe Takarazuka OG version of \"Chicago\" was firstly played in 2014 to celebrate the 100th anniversary of the Takarazuka Revue and it returned to 2016 for its world tour.It was performed in New York (David H. Koch Theater) to attend the Lincoln Center Festival and got great reputation.They also performed at Kanagawa Arts Theater, Tokyo International Forum and Umeda Arts Theater. The role of Billy Flynn was played by Saori Mine ,Saki Asaji and Asato Shizuki. Velma Kelly was played by Yoka Wao,Wataru Kozuki and Natsuki Mizu. The role of Roxie Hart was played by Hikaru Asami and Yuga Yamato.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2016",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "01510-02-2016-04",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "01510-02-2016-04",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "ミュージカル",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "musical",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2016/7/9",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "ブロードウェイミュージカル「シカゴ」宝塚歌劇OGバージョン",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "\"CHICAGO\" The Musical, Takarazuka OG Version",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:26:59+00:00"
+    },
+    "o:id": 237911,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:24+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "ブロードウェイミュージカル「シカゴ」宝塚歌劇OGバージョン",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

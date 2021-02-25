@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcepk="http://enpaku-jdta.jp/ontologies/"
+  xmlns:o="http://omeka.org/s/vocabs/o#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <o:Item rdf:about="http://enpaku-jdta.jp/api/items/234588">
+    <o:title>第2部　沖縄伝統組踊「子の会（しーのかい）」による組踊「執心鐘入」</o:title>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221704"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221716"/>
+    <dcterms:identifier>pg-e1f83ca6011f5be6962376dd85405728</dcterms:identifier>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221712"/>
+    <o:resource_template>
+      <rdf:Description rdf:about="http://enpaku-jdta.jp/api/resource_templates/10">
+        <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</o:id>
+      </rdf:Description>
+    </o:resource_template>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221715"/>
+    <o:owner>
+      <rdf:Description rdf:about="http://enpaku-jdta.jp/api/users/1">
+        <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</o:id>
+      </rdf:Description>
+    </o:owner>
+    <dcterms:title xml:lang="en">Dainibu　Okinawadentokumiodori「shinokai」niyorukumiodori「shushinkaneiri」</dcterms:title>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221709"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221707"/>
+    <o:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-19T12:18:55+00:00</o:created>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221710"/>
+    <o:is_public rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</o:is_public>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221713"/>
+    <o:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-22T11:28:52+00:00</o:modified>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221700"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221711"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221699"/>
+    <o:resource_class>
+      <rdf:Description rdf:about="http://enpaku-jdta.jp/api/resource_classes/305">
+        <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">305</o:id>
+      </rdf:Description>
+    </o:resource_class>
+    <dcterms:type>http://purl.org/dc/dcmitype/MovingImage</dcterms:type>
+    <rdf:type rdf:resource="http://enpaku-jdta.jp/ontologies/PerformanceRecord"/>
+    <dcterms:title xml:lang="ja">第2部　沖縄伝統組踊「子の会（しーのかい）」による組踊「執心鐘入」</dcterms:title>
+    <o:site>
+      <rdf:Description rdf:about="http://enpaku-jdta.jp/api/sites/1">
+        <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</o:id>
+      </rdf:Description>
+    </o:site>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221717"/>
+    <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234588</o:id>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221714"/>
+    <dcepk:sourceIdentifier>11885-03-2014-01:2-1</dcepk:sourceIdentifier>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221718"/>
+    <dcepk:titleTranscription xml:lang="ja">だいにぶ　おきなわでんとうくみおどり「しーのかい」によるくみおどり「しゅうしんかねいり」</dcepk:titleTranscription>
+  </o:Item>
+  <o:Item rdf:about="http://enpaku-jdta.jp/api/items/234596">
+    <dcterms:title xml:lang="en">Shinaoyagi</dcterms:title>
+    <o:owner rdf:resource="http://enpaku-jdta.jp/api/users/1"/>
+    <o:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-19T12:18:55+00:00</o:created>
+    <rdf:type rdf:resource="http://enpaku-jdta.jp/ontologies/PerformanceRecord"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220654"/>
+    <o:resource_class rdf:resource="http://enpaku-jdta.jp/api/resource_classes/305"/>
+    <o:is_public rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</o:is_public>
+    <o:site rdf:resource="http://enpaku-jdta.jp/api/sites/1"/>
+    <dcterms:type>http://purl.org/dc/dcmitype/MovingImage</dcterms:type>
+    <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234596</o:id>
+    <dcterms:identifier>pg-0a92c71d49b5cf585b00fb11a32a2d43</dcterms:identifier>
+    <o:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-22T08:42:28+00:00</o:modified>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220652"/>
+    <dcepk:titleTranscription xml:lang="ja">しんあおやぎ</dcepk:titleTranscription>
+    <dcterms:title xml:lang="ja">「新青柳」</dcterms:title>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220655"/>
+    <dcepk:sourceIdentifier>11320-03-2017-04:4-1</dcepk:sourceIdentifier>
+    <o:title>「新青柳」</o:title>
+    <o:resource_template rdf:resource="http://enpaku-jdta.jp/api/resource_templates/10"/>
+  </o:Item>
+  <dcepk:PerformanceRecord rdf:about="http://enpaku-jdta.jp/api/items/234584">
+    <dcterms:title xml:lang="en">Shiroyamatanuki</dcterms:title>
+    <o:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-22T10:16:50+00:00</o:modified>
+    <dcterms:title xml:lang="ja">「城山狸」</dcterms:title>
+    <o:resource_class rdf:resource="http://enpaku-jdta.jp/api/resource_classes/305"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221737"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221734"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221735"/>
+    <dcterms:type>http://purl.org/dc/dcmitype/MovingImage</dcterms:type>
+    <o:site rdf:resource="http://enpaku-jdta.jp/api/sites/1"/>
+    <rdf:type rdf:resource="http://omeka.org/s/vocabs/o#Item"/>
+    <dcterms:identifier>pg-c2d4dc82626e80e3ce5580dfb35c8bc2</dcterms:identifier>
+    <dcepk:sourceIdentifier>11889-03-2007-01:2-1</dcepk:sourceIdentifier>
+    <o:title>「城山狸」</o:title>
+    <o:owner rdf:resource="http://enpaku-jdta.jp/api/users/1"/>
+    <o:resource_template rdf:resource="http://enpaku-jdta.jp/api/resource_templates/10"/>
+    <dcepk:titleTranscription xml:lang="ja">しろやまたぬき</dcepk:titleTranscription>
+    <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234584</o:id>
+    <o:is_public rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</o:is_public>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221736"/>
+    <o:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-19T12:18:55+00:00</o:created>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221738"/>
+  </dcepk:PerformanceRecord>
+  <o:Item rdf:about="http://enpaku-jdta.jp/api/items/235493">
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217718"/>
+    <dcterms:identifier>pg-2b91aebbe1add8a917f1dc2f0b4f7dc8</dcterms:identifier>
+    <o:title>「陰陽師」～大江山編～</o:title>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217751"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217742"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217729"/>
+    <o:resource_template rdf:resource="http://enpaku-jdta.jp/api/resource_templates/10"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217736"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217715"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217716"/>
+    <dcterms:type>http://purl.org/dc/dcmitype/MovingImage</dcterms:type>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217733"/>
+    <rdf:type rdf:resource="http://enpaku-jdta.jp/ontologies/PerformanceRecord"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217740"/>
+    <o:resource_class rdf:resource="http://enpaku-jdta.jp/api/resource_classes/305"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217720"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217739"/>
+    <dcepk:sourceIdentifier>03380-03-2020-01:1-1</dcepk:sourceIdentifier>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217747"/>
+    <dcterms:contributor rdf:resource="http://enpaku-jdta.jp/api/items/228394"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217728"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217721"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217734"/>
+    <dcterms:contributor rdf:resource="http://enpaku-jdta.jp/api/items/228398"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217746"/>
+    <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235493</o:id>
+    <dcepk:titleTranscription xml:lang="ja">みゅーじかるおんみょうじおおえやまへん</dcepk:titleTranscription>
+    <dcterms:contributor rdf:resource="http://enpaku-jdta.jp/api/items/228396"/>
+    <o:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-19T12:19:29+00:00</o:created>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217745"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217722"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217735"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217717"/>
+    <dcterms:title xml:lang="en">Musical "Onmyoji" ~ Oeyama Edition ~</dcterms:title>
+    <dcterms:contributor rdf:resource="http://enpaku-jdta.jp/api/items/228397"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217724"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217725"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217749"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217731"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217750"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217743"/>
+    <o:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-19T12:21:34+00:00</o:modified>
+    <o:owner rdf:resource="http://enpaku-jdta.jp/api/users/1"/>
+    <o:is_public rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</o:is_public>
+    <dcterms:contributor rdf:resource="http://enpaku-jdta.jp/api/items/228395"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217730"/>
+    <dcterms:title xml:lang="ja">「陰陽師」～大江山編～</dcterms:title>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217741"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217723"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217732"/>
+    <o:site rdf:resource="http://enpaku-jdta.jp/api/sites/1"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217744"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217726"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217738"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217737"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217727"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217748"/>
+    <dcterms:contributor rdf:resource="http://enpaku-jdta.jp/api/items/228393"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/217719"/>
+  </o:Item>
+  <o:Item rdf:about="http://enpaku-jdta.jp/api/items/234585">
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221743"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221744"/>
+    <o:site rdf:resource="http://enpaku-jdta.jp/api/sites/1"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221741"/>
+    <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234585</o:id>
+    <o:title>「天の網島」</o:title>
+    <o:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-22T10:16:08+00:00</o:modified>
+    <dcterms:type>http://purl.org/dc/dcmitype/MovingImage</dcterms:type>
+    <dcterms:title xml:lang="ja">「天の網島」</dcterms:title>
+    <dcepk:sourceIdentifier>11889-03-2007-01:3-1</dcepk:sourceIdentifier>
+    <o:resource_class rdf:resource="http://enpaku-jdta.jp/api/resource_classes/305"/>
+    <rdf:type rdf:resource="http://enpaku-jdta.jp/ontologies/PerformanceRecord"/>
+    <dcterms:title xml:lang="en">Tennoamijima</dcterms:title>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221742"/>
+    <dcterms:identifier>pg-82c7c2080506dc559e9cb08688e5594c</dcterms:identifier>
+    <o:owner rdf:resource="http://enpaku-jdta.jp/api/users/1"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221739"/>
+    <o:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-19T12:18:55+00:00</o:created>
+    <o:is_public rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</o:is_public>
+    <dcepk:titleTranscription xml:lang="ja">てんのあみじま</dcepk:titleTranscription>
+    <o:resource_template rdf:resource="http://enpaku-jdta.jp/api/resource_templates/10"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221740"/>
+  </o:Item>
+  <o:Item rdf:about="http://enpaku-jdta.jp/api/items/234592">
+    <o:is_public rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</o:is_public>
+    <o:site rdf:resource="http://enpaku-jdta.jp/api/sites/1"/>
+    <o:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-22T09:28:25+00:00</o:modified>
+    <dcterms:type>http://purl.org/dc/dcmitype/MovingImage</dcterms:type>
+    <dcepk:sourceIdentifier>11885-03-2012-03:3-1</dcepk:sourceIdentifier>
+    <dcepk:titleTranscription xml:lang="ja">さんじゅうさんげんどうむなぎのゆらい　へいたろうすみかのだん</dcepk:titleTranscription>
+    <o:resource_class rdf:resource="http://enpaku-jdta.jp/api/resource_classes/305"/>
+    <rdf:type rdf:resource="http://enpaku-jdta.jp/ontologies/PerformanceRecord"/>
+    <dcterms:title xml:lang="ja">女流義太夫節「卅三間堂棟由来（さんじゅうさんげんどうむなぎのゆらい）　平太郎住家の段（へいたろうすみかのだん）」</dcterms:title>
+    <o:title>女流義太夫節「卅三間堂棟由来（さんじゅうさんげんどうむなぎのゆらい）　平太郎住家の段（へいたろうすみかのだん）」</o:title>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221698"/>
+    <dcterms:identifier>pg-a93799f0333524b27517626aedba18d5</dcterms:identifier>
+    <dcterms:title xml:lang="en">Sanjusangendomunaginoyurai　Heitarosumikanodan</dcterms:title>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221697"/>
+    <o:resource_template rdf:resource="http://enpaku-jdta.jp/api/resource_templates/10"/>
+    <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234592</o:id>
+    <o:owner rdf:resource="http://enpaku-jdta.jp/api/users/1"/>
+    <o:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-19T12:18:55+00:00</o:created>
+  </o:Item>
+  <o:Item rdf:about="http://enpaku-jdta.jp/api/items/234604">
+    <o:title>「残月」</o:title>
+    <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234604</o:id>
+    <o:resource_template rdf:resource="http://enpaku-jdta.jp/api/resource_templates/10"/>
+    <o:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-19T12:21:24+00:00</o:modified>
+    <dcepk:titleTranscription xml:lang="ja">ざんげつ</dcepk:titleTranscription>
+    <dcterms:identifier>pg-c2f18869a357e61e55123ddcc29f2b5f</dcterms:identifier>
+    <o:site rdf:resource="http://enpaku-jdta.jp/api/sites/1"/>
+    <o:resource_class rdf:resource="http://enpaku-jdta.jp/api/resource_classes/305"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220600"/>
+    <dcterms:type>http://purl.org/dc/dcmitype/MovingImage</dcterms:type>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220599"/>
+    <rdf:type rdf:resource="http://enpaku-jdta.jp/ontologies/PerformanceRecord"/>
+    <dcterms:title xml:lang="ja">「残月」</dcterms:title>
+    <o:owner rdf:resource="http://enpaku-jdta.jp/api/users/1"/>
+    <dcepk:sourceIdentifier>11320-03-2014-03:3-1</dcepk:sourceIdentifier>
+    <o:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-19T12:18:55+00:00</o:created>
+    <o:is_public rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</o:is_public>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220601"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220598"/>
+    <dcterms:title xml:lang="en">Zangetsu</dcterms:title>
+  </o:Item>
+  <dcepk:PerformanceRecord rdf:about="http://enpaku-jdta.jp/api/items/234609">
+    <dcterms:identifier>pg-25b208c46d4c0455de4369f2165d9519</dcterms:identifier>
+    <o:title>「賎機帯」</o:title>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/242388"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/242389"/>
+    <o:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-22T11:13:57+00:00</o:modified>
+    <o:site rdf:resource="http://enpaku-jdta.jp/api/sites/1"/>
+    <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234609</o:id>
+    <dcterms:type>http://purl.org/dc/dcmitype/MovingImage</dcterms:type>
+    <o:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-19T12:18:56+00:00</o:created>
+    <dcepk:sourceIdentifier>11320-03-2011-01:3-1</dcepk:sourceIdentifier>
+    <o:resource_class rdf:resource="http://enpaku-jdta.jp/api/resource_classes/305"/>
+    <dcterms:title xml:lang="ja">「賎機帯」</dcterms:title>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/242387"/>
+    <rdf:type rdf:resource="http://omeka.org/s/vocabs/o#Item"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220588"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220585"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/242386"/>
+    <dcepk:titleTranscription xml:lang="ja">しずはたおび</dcepk:titleTranscription>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220587"/>
+    <dcterms:title xml:lang="en">Shizuhataobi</dcterms:title>
+    <o:owner rdf:resource="http://enpaku-jdta.jp/api/users/1"/>
+    <dcterms:contributor rdf:resource="http://enpaku-jdta.jp/api/items/232070"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220586"/>
+    <o:is_public rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</o:is_public>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220584"/>
+    <o:resource_template rdf:resource="http://enpaku-jdta.jp/api/resource_templates/10"/>
+    <dcterms:contributor rdf:resource="http://enpaku-jdta.jp/api/items/232089"/>
+  </dcepk:PerformanceRecord>
+  <o:Item rdf:about="http://enpaku-jdta.jp/api/items/234591">
+    <dcterms:identifier>pg-6b973f1ded0d44f76dd35de8b7f4fc97</dcterms:identifier>
+    <o:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-22T10:32:03+00:00</o:modified>
+    <o:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-19T12:18:55+00:00</o:created>
+    <dcepk:sourceIdentifier>11885-03-2012-03:2-1</dcepk:sourceIdentifier>
+    <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234591</o:id>
+    <o:resource_template rdf:resource="http://enpaku-jdta.jp/api/resource_templates/10"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/221696"/>
+    <o:owner rdf:resource="http://enpaku-jdta.jp/api/users/1"/>
+    <dcterms:title xml:lang="ja">浪花節「紺屋高尾（こうやたかお）」</dcterms:title>
+    <o:is_public rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</o:is_public>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/242385"/>
+    <o:title>浪花節「紺屋高尾（こうやたかお）」</o:title>
+    <dcepk:titleTranscription xml:lang="ja">こうやたかお</dcepk:titleTranscription>
+    <dcterms:title xml:lang="en">Koyatakao</dcterms:title>
+    <dcterms:type>http://purl.org/dc/dcmitype/MovingImage</dcterms:type>
+    <o:resource_class rdf:resource="http://enpaku-jdta.jp/api/resource_classes/305"/>
+    <rdf:type rdf:resource="http://enpaku-jdta.jp/ontologies/PerformanceRecord"/>
+    <o:site rdf:resource="http://enpaku-jdta.jp/api/sites/1"/>
+  </o:Item>
+  <o:Item rdf:about="http://enpaku-jdta.jp/api/items/234658">
+    <dcterms:type>http://purl.org/dc/dcmitype/MovingImage</dcterms:type>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220519"/>
+    <dcterms:contributor rdf:resource="http://enpaku-jdta.jp/api/items/232103"/>
+    <rdf:type rdf:resource="http://enpaku-jdta.jp/ontologies/PerformanceRecord"/>
+    <o:site rdf:resource="http://enpaku-jdta.jp/api/sites/1"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220516"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220517"/>
+    <dcepk:sourceIdentifier>11320-03-2009-04:3-1</dcepk:sourceIdentifier>
+    <dcterms:title xml:lang="ja">「吉原雀（筺花手向橘）」</dcterms:title>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/242390"/>
+    <dcterms:identifier>pg-1b2548f36a79c801be0e2f7b335b2a0c</dcterms:identifier>
+    <o:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-22T11:38:31+00:00</o:modified>
+    <dcterms:title xml:lang="en">Yoshiwarasuzume</dcterms:title>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220518"/>
+    <o:resource_template rdf:resource="http://enpaku-jdta.jp/api/resource_templates/10"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220514"/>
+    <o:owner rdf:resource="http://enpaku-jdta.jp/api/users/1"/>
+    <o:title>「吉原雀（筺花手向橘）」</o:title>
+    <dcterms:contributor rdf:resource="http://enpaku-jdta.jp/api/items/232089"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220515"/>
+    <dcepk:titleTranscription xml:lang="ja">よしわらすずめ</dcepk:titleTranscription>
+    <o:is_public rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</o:is_public>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220520"/>
+    <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234658</o:id>
+    <o:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-19T12:18:58+00:00</o:created>
+    <o:resource_class rdf:resource="http://enpaku-jdta.jp/api/resource_classes/305"/>
+  </o:Item>
+  <o:Item rdf:about="http://enpaku-jdta.jp/api/items/234601">
+    <dcterms:title xml:lang="ja">「長恨歌曲」</dcterms:title>
+    <dcterms:type>http://purl.org/dc/dcmitype/MovingImage</dcterms:type>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220557"/>
+    <o:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-22T08:39:27+00:00</o:modified>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220605"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220608"/>
+    <dcepk:sourceIdentifier>11320-03-2014-04:2-1</dcepk:sourceIdentifier>
+    <dcterms:contributor rdf:resource="http://enpaku-jdta.jp/api/items/220602"/>
+    <dcterms:identifier>pg-926b26d0653d85616b33308e1e61a501</dcterms:identifier>
+    <o:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-19T12:18:55+00:00</o:created>
+    <dcterms:contributor rdf:resource="http://enpaku-jdta.jp/api/items/232096"/>
+    <dcterms:title xml:lang="en">Chogonkanokyoku</dcterms:title>
+    <o:resource_template rdf:resource="http://enpaku-jdta.jp/api/resource_templates/10"/>
+    <dcepk:titleTranscription xml:lang="ja">ちょうごんかのきょく</dcepk:titleTranscription>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220604"/>
+    <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234601</o:id>
+    <o:owner rdf:resource="http://enpaku-jdta.jp/api/users/1"/>
+    <o:title>「長恨歌曲」</o:title>
+    <o:resource_class rdf:resource="http://enpaku-jdta.jp/api/resource_classes/305"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220602"/>
+    <o:is_public rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</o:is_public>
+    <rdf:type rdf:resource="http://enpaku-jdta.jp/ontologies/PerformanceRecord"/>
+    <o:site rdf:resource="http://enpaku-jdta.jp/api/sites/1"/>
+  </o:Item>
+  <o:Item rdf:about="http://enpaku-jdta.jp/api/items/234774">
+    <o:owner rdf:resource="http://enpaku-jdta.jp/api/users/1"/>
+    <dcepk:sourceIdentifier>11320-03-2007-03:3-1</dcepk:sourceIdentifier>
+    <dcterms:type>http://purl.org/dc/dcmitype/MovingImage</dcterms:type>
+    <o:is_public rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</o:is_public>
+    <o:resource_class rdf:resource="http://enpaku-jdta.jp/api/resource_classes/305"/>
+    <rdf:type rdf:resource="http://enpaku-jdta.jp/ontologies/PerformanceRecord"/>
+    <o:site rdf:resource="http://enpaku-jdta.jp/api/sites/1"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220464"/>
+    <dcterms:title xml:lang="en">Sukeroku</dcterms:title>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220463"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220465"/>
+    <o:title>「助六」</o:title>
+    <dcterms:title xml:lang="ja">「助六」</dcterms:title>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220462"/>
+    <o:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-19T12:21:25+00:00</o:modified>
+    <o:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-19T12:19:00+00:00</o:created>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220468"/>
+    <o:resource_template rdf:resource="http://enpaku-jdta.jp/api/resource_templates/10"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220469"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220466"/>
+    <dcterms:identifier>pg-c174c55ada7262238580e4199aa56b27</dcterms:identifier>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220467"/>
+    <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234774</o:id>
+    <dcepk:titleTranscription xml:lang="ja">すけろく</dcepk:titleTranscription>
+  </o:Item>
+  <o:Item rdf:about="http://enpaku-jdta.jp/api/items/234595">
+    <o:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-19T12:18:55+00:00</o:created>
+    <o:id rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234595</o:id>
+    <o:site rdf:resource="http://enpaku-jdta.jp/api/sites/1"/>
+    <dcepk:sourceIdentifier>11320-03-2017-04:3-1</dcepk:sourceIdentifier>
+    <dcterms:type>http://purl.org/dc/dcmitype/MovingImage</dcterms:type>
+    <o:resource_class rdf:resource="http://enpaku-jdta.jp/api/resource_classes/305"/>
+    <rdf:type rdf:resource="http://enpaku-jdta.jp/ontologies/PerformanceRecord"/>
+    <dcepk:actor rdf:resource="http://enpaku-jdta.jp/api/items/220649"/>
+    <dcterms:title xml:lang="en">Shinkyorei</dcterms:title>
+    <o:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-22T08:41:52+00:00</o:modified>
+    <dcterms:identifier>pg-0f13bcc96bdbce85d9782e44a68c91f0</dcterms:identifier>
+    <o:owner rdf:resource="http://enpaku-jdta.jp/api/users/1"/>
+    <o:is_public rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</o:is_public>
+    <dcterms:title xml:lang="ja">「真虚霊」</dcterms:title>
+    <o:resource_template rdf:resource="http://enpaku-jdta.jp/api/resource_templates/10"/>
+    <o:title>「真虚霊」</o:title>
+    <dcepk:titleTranscription xml:lang="ja">しんきょれい</dcepk:titleTranscription>
+  </o:Item>
+</rdf:RDF>

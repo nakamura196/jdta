@@ -1,0 +1,363 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238190",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208074",
+            "display_title": "竹生企画",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208074,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "倉持裕",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "KURAMOCHI Yutaka",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2011/12/17",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "竹生企画とは\r\n生瀬勝久のなかに芽生えた「竹中直人さんと二人芝居がやりたい!」という俳優ならではの「欲望」。そんな「欲望」を発端に、屈指の超個性派俳優であり、クリエイターでもある竹中・生瀬二人のユニット「竹生企画」は誕生した。当時、竹中が「一緒に芝居づくりを」と熱望していた倉持裕を劇作・演出に招き、「舞台初体験の女優を迎える」というサブ・ルールを携え第一回公演に本作を上演。",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01682",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "ja",
+            "@value": "喜劇",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "comedy",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "東宝　キューブ",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizerTranscription": [
+        {
+            "@language": "ja",
+            "@value": "とうほう　きゅーぶ",
+            "is_public": true,
+            "property_id": 521,
+            "property_label": "labelOfOrganizerTranscription",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "シアタークリエ／サンケイホールブリーゼ／グランシップ中ホール・大地／ホクト文化ホール大ホール／本多の森ホール／ALSOKホールキャナルシティ劇場／長崎市公会堂／中日劇場",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "THEATREKURIE/SANKEIHORUBURIZE/GURANSHIPPUCHUHORUDAICHI/HOKUTOBUNKAHORUDAI・HALL/HONDANOMORIHORU/ASURAKKUHORU/KYANARUSHITEIGEKIJO/NAGASAKISHIKOKAIDO/CHUNICHIGEKIJO",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "しあたーくりえ／さんけいほーるぶりーぜ／ぐらんしっぷちゅうほーるだいち／ほくとぶんかほーるだいほーる／ほんだのもりほーる／あすらっくほーる／きゃなるしてぃげきじょう／ながさきしこうかいどう／ちゅうにちげきじょう",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234808",
+            "display_title": "ヴィラ・グランデ 青山 ～返り討ちの日曜日～",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234808,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233693",
+            "display_title": "EV00215667",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215667_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/1a8cb42bf227951d33bdf12094e4454a74010924.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233693,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236428",
+            "display_title": "01_02646-03-2011-15_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02646-03-2011-15_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/d16ee4fbaec29869ccc466247c9eb660d9a1cc33.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236428,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236429",
+            "display_title": "02_02646-03-2011-15_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02646-03-2011-15_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/1127818259549da78d56d22cc3210967578cf738.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236429,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "02646-03-2011-15",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "びぃらぐらんであおやま　かえりうちのにちようび",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "超個性派俳優、遂に激突！絶妙且つ軽快な会話によって繰り広げられる、少しほろ苦い大人のコメディ！！！\r\n\r\n20年前に建てられた瀟酒なマンション「ヴィラ・グランデ 青山」の中庭に民谷史章(竹中直人)と、その友人であり仕事仲間でもある陣野圭作(生瀬勝久)がいる。\r\n二人は、はそれぞれこのマンションの一室を同時期に購入したが、陣野は最近、母親とのの同居を決めて引っ越した。二人はここで知り合い、20年余りの間にたくさんの仕事と、それ以外の時間を共有してきた。しかし3年前仕事でぶつかりあい、口もきかないほど疎遠になっていた。\r\nそんな折、陣野は突然民谷から連絡を受ける。民谷によると、先週自宅で娘・蓮(谷村美月)とその恋人・鳴川の喧嘩に仲裁に入った際、逆上した鳴川にナイフで襲われ、彼がこれから謝罪に訪れるという。絶縁の3年間をなかったかのように援軍として自分を呼んだ民谷に、陣野は呆れる他ない。だが現れたのは鳴川の友人を名乗る日野(松下洸平)という青年だった。\r\n陣野の部屋を借りる美女・早坂津弓(山田 優)、マンションの管理人・岡根三知男(田口浩正)を含む住人たちは、一向に姿を見せない鳴川の気配を感じながら、奇妙な人間関係の糸を結びあい、絡め取られていく。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "The extra-individualistic actors finally clash!\r\nA slightly bittersweet adult comedy unfolded by exquisite and light conversations!!!\r\n\r\nTamiya Fumiaki (Takenaka Naoto) and his friend and work colleague Jinno Keisaku (Namase Katsuhisa) are in the courtyard of the liquor-filled condominium “Villa Grande Aoyama”, built 20 years ago.\r\nThe two men each bought a condominium room at the same time, but recently, Jinno decided to live with his mother and moved. The two met here and shared lots of work and other time together over the past 20 years. However, they had a workplace conflict three years ago, and now they became so estranged that they do not even speak to each other.\r\nIn such a context, Tamiya suddenly contacts Jinno. According to Tamiya, when he intervened at home last week in a fight between his daughter Ren (Tanimura Mitsuki) and his lover Narukawa, Narukawa snapped and attacked him with a knife, and says that Narukawa will come to apologize for this. Jinno is astounded at the gall of Tamiya, who calls up Jinno as backup as if the three years of estrangement never even happened. However, the person who arrived was a youth named Hino (Matsushita Kohei), who claimed to be a friend of Narukawa. \r\nThe residents, including a beautiful woman who rents Jinno’s room named Hayasaka Tsuyumi (Yamada Yu) and condominium manager Okane Michio (Taguchi Hiromasa), while sensing the presence of Narukawa, who never appears, connect the strange threads of human relationships, and are entwined.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2011",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "02646-03-2011-15",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "02646-03-2011-15",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "現代劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "contemporary theater",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2011/11/11",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "ヴィラ・グランデ 青山 ～返り討ちの日曜日～",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Villa Grande Aoyama",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:05+00:00"
+    },
+    "o:id": 238190,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:25+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "ヴィラ・グランデ 青山 ～返り討ちの日曜日～",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

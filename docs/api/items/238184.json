@@ -1,0 +1,429 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238184",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208068",
+            "display_title": "世田谷パブリックシアター＋KERA・MAP",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208068,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:award": [
+        {
+            "@language": "ja",
+            "@value": "第51回（2016年）紀伊國屋演劇賞　個人賞（ケラリーノ・サンドロヴィッチ）（初演にて）",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "第68回（2016年）読売文学賞　戯曲・シナリオ部門（初演にて）",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "第4回（2017年）ハヤカワ「悲劇喜劇」賞（初演にて）",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "ケラリーノ・サンドロヴィッチ",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "KERARIINO Sandorovitchi",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2019/6/23",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "ウディ・アレン監督の映画「カイロの紫のバラ」にインスパイアされた舞台。",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01671",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "ja",
+            "@value": "喜劇",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "受賞作",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "ロマンティック・コメディ",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "comedy",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Award-winning work",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Romanticcomedy",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "award-winning",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "世田谷パブリックシアター",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "世田谷パブリックシアター／北九州芸術劇場 中劇場／兵庫県立芸術文化センター 阪急中ホール／名古屋市芸術創造センター／盛岡劇場 メインホール／りゅーとぴあ 新潟市民芸術文化会館・劇場",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "SETAGAYA PUBLIC THEATRE/KITAKYUSHUGEIJUTSUGEKIJOCHUGEKIJO/HYOGOKENRITSUGEIJUTSUBUNKASENTAHANKYUCHUHORU/NAGOYASHIGEIJUTSUSOZOSENTA/MORIOKAGEKIJOMEINHORU/RYUTOPIANIIGATASHIMINGEIJUTSUBUNKAKAIKANGEKIJO",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "せたがやぱぶりっくしあたー／きたきゅうしゅうげいじゅつげきじょうちゅうげきじょう／ひょうごけんりつげいじゅつぶんかせんたーはんきゅうちゅうほーる／なごやしげいじゅつそうぞうせんたー／もりおかげきじょうめいんほーる／りゅーとぴあにいがたしみんげいじゅつぶんかかいかんげきじょう",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234802",
+            "display_title": "キネマと恋人",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234802,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233692",
+            "display_title": "EV00215661",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215661_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/61892aeb887dcdfaee166c7b66cf12b1a844e377.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233692,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236416",
+            "display_title": "01_02698-02-2019-04_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02698-02-2019-04_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/cd62f4ddc08442edc479ca6da3138e9232d77b16.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236416,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236417",
+            "display_title": "02_02698-02-2019-04_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02698-02-2019-04_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/b138c300e4ebed833c7b6bbd70bb9fa5a18937e8.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236417,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "02698-02-2019-04",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "きねまとこいびと",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "1936年(昭和11年)の秋。日本のどこか。東京から遠く離れた、ちいさな島のちいさな港町。\nこの町にたったひとつだけある、ちいさな映画館「梟島キネマ」。\nこの映画館の常連客である森ロハルコは、\n時間があれば客席に座り、繰り返し上映される同じ映画を観ている。\n洋食店に勤め、失業中の夫の生活の面倒もみているハルコにとって\n映画だけが唯一の楽しみ、映画を観ているときだけは夢を見ることができた。\n今日もまた、ハルコはスクリーンを見つめている。\nカタカタと映写機が映しだしているのは、『月之輪半次郎捕物帖』。\n主人公「月之輪半次郎」と「間坂寅蔵」らが妖怪相手に立ち回る、オールトーキーの本格的娯楽時代劇であり、「間坂寅蔵」を演じる高木高助という俳優は、ハルコのお気にいりだった。\n悲しいときもつらいときも、映画の中の彼は彼女を笑顔にしてくれた。\nもう何度観たかわからないその映画を微笑みながら楽しんでいるハルコ。\nすると突然、銀幕の向こうにいたはずの「間坂寅蔵」が目の前に現れる。\n驚きながらも憧れの人物を前にしたハルコは、夢の世界に誘われるように、「寅蔵」とふたり、映画館を飛びだしていく。\n一方、「寅蔵」不在の\"映画の中\"は大混乱。観客たちも騒ぎだし、時を同じくして撮影で梟島を訪れていた高木高助は、自らが演じる「寅蔵」の行方を探し始めることになる。\n「寅蔵」も高助もハルコに出会い、ひと目惚れ。こころを惹かれていく。\nそして、ハルコもまた、ふたりに恋をする。\n現実を知らない無垢な「寅蔵」と味わう、おだやかな幸せ。\n高嶺の花と思っていた高助と分かち合う、奮いたつ喜び。\n虚構と現実、憧れと生活の狭間で揺れ動くハルコのこころ。\nハルコの恋の行方は──。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Autumn of 1936 (Showa 11).\nSomewhere in Japan. A small port town on a small island far away from Tokyo.\n“Owl Island Cinema”, a small movie theater and the only one in town.\nMoriguchi Haruko, a regular of this movie theater,\nsits in the audience seat if she has the time and watches the same movie on repeat.\nShe works at a restaurant, and for Haruko, who is also taking care of her unemployed husband,\nMovies are her only joy, and it is only when she is watching movies that she can dream.\nToday as well, Haruko watches the screen.\nThe movie clatters onto the film projector is “Tsukinowa Hanjiro Detective Story”.\nIt is a full-scale, all-talkie entertainment historical drama, in which the protagonists Tsukinowa Hanjiro and Masaka Torazo battle ghosts. The actor Takagi Takasuke, who plays Masaka Torazo, was a favorite of Haruko’s.\nWhether she was sad or going through difficult times, she was always cheered up by the actor in the movie.\nHaruko smiles as she enjoys the film that she has watched countless times.\nThen suddenly, Masaka Torazo, who should have been behind the silver screen, appears in front of her.\nShocked but now facing the person she admires, Haruko jumps out of the movie theater with Torazo, as if invited into a dream world.\nMeanwhile, the “film world” without Torazo is in chaos. The audiences began to panic, and Takagi Takasuke, who was visiting Owl Island at the same time for a movie shoot, begins to look for the whereabouts of the “Torazo” that he played.\n“Torazo” and Takasuke both meet Haruko and fall in love at first sight. Their hearts are drawn to her. \nAnd Haruko falls in love with both of them.\nA gentle happiness experienced with an innocent “Torazo”, who does not know reality.\nA shared and inspired joy with Takasuke, thought to be unattainable.\nHaruko’s heart, swaying between fiction and reality, admiration and life.\nWhat is the fate of Haruko’s love…?",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2019",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@language": "ja",
+            "@value": "ウディ・アレン監督の映画「カイロの紫のバラ」にインスパイアされた舞台。",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "02698-02-2019-04",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "02698-02-2019-04",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "現代劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "contemporary theater",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2019/6/8",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "キネマと恋人（再演）",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Cinemas and Lovers",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:05+00:00"
+    },
+    "o:id": 238184,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-22T06:20:42+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "キネマと恋人（再演）",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

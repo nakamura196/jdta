@@ -1,0 +1,401 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238035",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207919",
+            "display_title": "Dance New Air実行委員会",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207919,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "伊藤キム",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "ITOU Kimu",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2016/10/2",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "舞踊",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Dance",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01375",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "en",
+            "@value": "Ends in the dark",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Proscenium",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "With music",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyEpadOffice": [
+        {
+            "@language": "ja",
+            "@value": "暗転で終わる",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "プロセニアム",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "音楽あり",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "Dance New Air実行委員会",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizerTranscription": [
+        {
+            "@language": "ja",
+            "@value": "だんすにゅーえあーじっこういいんかい",
+            "is_public": true,
+            "property_id": 521,
+            "property_label": "labelOfOrganizerTranscription",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "スパイラルホール",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Spiral Hall",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "すぱいらるほーる",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234645",
+            "display_title": "家族という名のゲーム",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234645,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234004",
+            "display_title": "EV00216068",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00216068_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/35fa1d590106c15b5ca0753aaa07af6f57eb8439.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234004,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236209",
+            "display_title": "01_11908-03-2016-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "11908-03-2016-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/0826c377b1c68fa9ac4422d9e4ac3140f506e041.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236209,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236210",
+            "display_title": "02_11908-03-2016-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "11908-03-2016-01_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/2533c970faece5fefce3bd4e3cfffa3f3cb2c0dc.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236210,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236211",
+            "display_title": "03_11908-03-2016-01_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "11908-03-2016-01_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/08825c2ee19b2cee8c9e298445adc76d207b9877.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236211,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "11908-03-2016-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "だんすにゅーえあー　にーぜろいちろく　かぞくというなのげーむ",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "私事だが最近結婚して、あらためて家族というものを目の当たりにしている。こちらの家族とあちらの家族、ぜんぜん違う。そこから生じる夫婦ふたりの生活スタイル・行動様式も当然違う。で、それぞれ両手を必死に伸ばして、わずかに触れ合う指先がその先の腕を互いにつかみ、ガッチリと離さないようにする。そうして家族は成立する。ひとつの細胞がどんどん分裂していくのが生命への過程ならば、家族は別々の個体がひとつに結合してできあがる。大プロジェクトだ。　皮膚と皮膚を触れ合わせる身体性とともに、家族同士をつなぐもうひとつの生命線は、言葉だ。でも身体に比べてとてもやっかいな道具で、私はこれを扱いあぐねている。だから遊び道具として捉える。もちろん作品での話だが。\r\n　言葉は、モノやコトを特定するものとして機能するが、その場合つまり代用物でしかない。オリジナルのモノやコトがなければ言葉は存在しえない。でも私は、言葉が単なる代役ではなく、より純粋な「音」に近いものとして現れる瞬間を捉えたいと思っている。稽古場で、言葉がもともとの意味を脱ぎ捨ててパズルのピースのように断片的に浮遊するような状態にあるとき、私は美しいと感じる。遊び道具としての言葉が、意味という暑苦しさから開放されて自由に飛び回るさまは、まるでホタルの光が闇に浮かび軌跡を描くように美しい。\r\n　そこには身体の存在が不可欠だ。身体が楽器となって音楽を奏でるように言葉を発すると、言葉がひとり歩きしてどんどん光を放ち、他の身体や言葉と結びついて予想もしなかったようなイメージが立ち上がる。\r\n　この作品に登場するのは5人の演者だが、それぞれが家族の一員としての役割を明確に負っているわけではなく、あくまでゲームのプレーヤーのような存在である。中には家族なのか何なのか分からない存在も登場する。家族という現象を、言葉という擦りガラスを通して透かし見るようにご鑑賞いただければと思う。\r\n伊藤キム",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "I personally was recently married, and have been taking another look at the family. Our family and that family are completely different. The related lifestyles and behavior patterns of the husband and wife are, naturally, also different. They desperately stretch their arms out, their fingertips barely touching, then grab each other's arms and never let go. That is when the family works. While a single cell keeps dividing to produce a single living being, a family depends on the bonding of its different members into a whole. It is a big project.\r\n\tTogether with the physicality of skin touching skin, another lifeline linking members of the family is words. But as compared to the body, they are a troublesome tool that I get tired of handling. That is why I treat them as a plaything - in my works, that is.\r\n\tWords have the function of specifying things, but in this use they are merely substitutes. They could not exist without the original things. However, I want to treat words not merely as substitutes and instead capture the instant when they become something closer to pure sound. I feel a distinctive beauty when words are stripped of their proper meaning and float in fragments like pieces of a puzzle in rehearsals. Liberated from the hardship of carrying meaning, these verbal playthings flit freely around the space, creating an effect as lovely as that of the tracks of light traced by fireflies in the dark.\r\n\tThe existence of body is essential in this context. Body becomes instrument and emits words as if it were playing notes of music. When this happens, the words rapidly fly on by themselves, radiating light, coupling with other bodies and words, and engendering completely unforeseeable images.\r\n\tThe five performers appearing in this work do not have clearly defined roles as members of the family; they are nothing more than players in the game. In the case of at least one, membership in the family is uncertain. I invite all to take another look at the phenomenon of family through the frosted glass of words.\r\n\r\nKim Itoh",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2016",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "11908-03-2016-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "11908-03-2016-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "コンテンポラリーダンス",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "contemporary dance",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2016/10/1",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "Dance New Air 2016『家族という名のゲーム』",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Dance New Air 2016 \"The Game Named Family\"",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:02+00:00"
+    },
+    "o:id": 238035,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:25+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "Dance New Air 2016『家族という名のゲーム』",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

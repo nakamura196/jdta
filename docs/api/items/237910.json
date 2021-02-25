@@ -1,0 +1,369 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/237910",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207794",
+            "display_title": "SPAC－静岡県舞台芸術センター",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207794,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "宮城聰",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "MIYAGI Satoshi",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2015/2/1",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "「作品概要（コンセプトや、あらすじなど）」以外は英訳を提供します。\r\n「作品概要（コンセプトや、あらすじなど）」については、。",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01107",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "SPAC－静岡県舞台芸術センター",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizerTranscription": [
+        {
+            "@language": "ja",
+            "@value": "すぱっく　しずおかけんぶたいげいじゅつせんたー",
+            "is_public": true,
+            "property_id": 521,
+            "property_label": "labelOfOrganizerTranscription",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "静岡芸術劇場",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Shizuoka Arts Theatre",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "しずおかげいじゅつげきじょう",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234498",
+            "display_title": "グスコーブドリの伝記",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234498,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234314",
+            "display_title": "EV00216464",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00216464_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/fc0f9d1608707b0b0cca8c830b1bfe2ddc03922a.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234314,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235874",
+            "display_title": "01_02633-08-2015-05_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2015-05_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/f3d0ba0678f1b1fb9fe63de12b64b8468f5f676d.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235874,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235875",
+            "display_title": "02_02633-08-2015-05_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2015-05_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/24b72ca957d8bf1ae6c6e8de6f1515bbc1001f83.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235875,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235871",
+            "display_title": "03_02633-08-2015-05_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2015-05_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/453237c21ab4ba5f6966a336df7cc24116e973d6.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235871,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235872",
+            "display_title": "04_02633-08-2015-05_04.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2015-05_04.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/bf7b6123fcb86901240985fcc42c12e34de862ff.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235872,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235873",
+            "display_title": "05_02633-08-2015-05_05.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02633-08-2015-05_05.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/81773851727ea317de14d86f82cfde2f90cf1d34.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235873,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "02633-08-2015-05",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ぐすこーぶどりのでんき",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "宮沢賢治作品 初演出となる演出家・宮城聰と、初の演劇台本に挑む小説家・山崎ナオコーラによる、異色のコラボレーションが実現。等身大の人形を駆使し、変幻自在の劇世界を追求した作品。詩人、童話作家として有名な宮沢賢治は、地質学や土壌学の専門家でもあり、貧困を極めていた当時の農民と生活をともにし、収穫量を改善しようと奮闘した。『グスコーブドリの伝記』は、そんな賢治の人生が反映された物語。「人間は自然とどう向き合うべきか」という難問を身をもって体験する主人公を描いている。先鋭な問いを投げかける名作童話の可能性を見つめ直す。\r\n＜あらすじ＞\r\nきこりの息子・グスコーブドリは、妹のネリと仲良く暮らしていたが、深刻な冷害で両親を失い、蚕の繭から糸をとるてぐす工場で働く。火山の噴火で里へ出て、山師・赤髭と沼ばたけの仕事に精を出すが、日照りが続き、やむなく街へ出ることに。クーボー大博士の講義を受け、火山局の職を得ると、噴火の被害を防いだり、干ばつ対策で雨を降らせたり、仕事に熱中するが、幸せの日々は束の間、再び冷害が到来する。被害を最小限にとどめるため、ブドリは立ち上がる。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Work by Miyazawa Kenji\r\nThe realization of a unique collaboration between Miyagi Satoshi, a first-time director; and Yamazaki Naocola, a novelist who takes on her first theater script. A work that pursues a theatrical world that can be transformed by making full use of life-sized dolls. Miyazawa Kenji, who is famous as a poet and fairy tale writer, was also an expert in geology and soil science, and he toiled to improve yields by living with extremely impoverished farmers at the time. “The Life of Guskou Budori” is a story that reflects Kenji’s life. It depicts a hero who experiences the difficult question of “how should humans face nature.” The potential of a masterpiece fairy tale that asks sharp questions is revisited.\r\n\r\n<Synopsis>\r\nThe lumberjack’s son Guskou Budori happily lives with his younger sister Neri, but they lose their parents in severe cold weather and he works at a factory that pulls threads from silkworm cocoons. He goes out to the village due to the eruption of a volcano and devotes himself to the swamp work of the miner Akahige, but the sunshine persists, and he is forced to head into the city. He receives a job at the Volcano Bureau after receiving a lecture from Dr. Kubo. Here, he is devoted to his work, preventing the damage from volcanos and inducing rain to counter droughts, but shortly after these moments of happiness, the cold weather returns. Budori stands up in order to minimize the damage.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2015",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "02633-08-2015-05",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "02633-08-2015-05",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2015/1/13",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "グスコーブドリの伝記",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "The Life of Gusuko Budori",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:26:59+00:00"
+    },
+    "o:id": 237910,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:24+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "グスコーブドリの伝記",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

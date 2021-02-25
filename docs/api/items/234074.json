@@ -1,0 +1,142 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/234074",
+    "@type": [
+        "o:Item",
+        "dcepk:ItemResource"
+    ],
+    "bibframe:date": [
+        {
+            "@value": "2015/2/11",
+            "is_public": true,
+            "property_id": 384,
+            "property_label": "\n   Date\n  ",
+            "type": "literal"
+        }
+    ],
+    "bibframe:duration": [
+        {
+            "@value": "1:05",
+            "is_public": true,
+            "property_id": 410,
+            "property_label": "\n   Duration\n  ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:is_availability": [
+        {
+            "@value": "1",
+            "is_public": true,
+            "property_id": 500,
+            "property_label": "演劇博物館での閲覧可否",
+            "type": "literal"
+        }
+    ],
+    "dcepk:materialCategory": [
+        {
+            "@language": "ja",
+            "@value": "AV資料",
+            "is_public": true,
+            "property_id": 506,
+            "property_label": "資料分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "EV00216138",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcterms:accessRights": [
+        {
+            "@language": "ja",
+            "@value": "許可",
+            "is_public": true,
+            "property_id": 47,
+            "property_label": "Access Rights",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "EV00216138",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "EV00216138",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/MovingImage",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "foaf:thumbnail": [
+        {
+            "@value": "EV00216138_thum01.jpg",
+            "is_public": true,
+            "property_id": 157,
+            "property_label": "thumbnail",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:17:12+00:00"
+    },
+    "o:id": 234074,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/media/240867",
+            "o:id": 240867
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:21:57+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/304",
+        "o:id": 304
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/11",
+        "o:id": 11
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "EV00216138",
+    "thumbnail_display_urls": {
+        "large": "/files/large/7d34d801fa31f0ed902681e4349d0d36cd25a92e.jpg",
+        "medium": "/files/medium/7d34d801fa31f0ed902681e4349d0d36cd25a92e.jpg",
+        "square": "/files/square/7d34d801fa31f0ed902681e4349d0d36cd25a92e.jpg"
+    }
+}

@@ -1,0 +1,457 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238891",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208775",
+            "display_title": "世田谷パブリックシアター",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208775,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "野村萬斎",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "NOMURA Mansai",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2004/2/21",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "主催／財団法人せたがや文化財団\r\n協力／万作の会\r\n企画制作／世田谷パブリックシアター",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "伝統芸能",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Traditional performing arts",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01310",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "en",
+            "@value": "Seats surrounding the stage",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "With music",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "songs",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyEpadOffice": [
+        {
+            "@language": "ja",
+            "@value": "三方囲み",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "音楽あり",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "世田谷パブリックシアター",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "SETAGAYA PUBLIC THEATRE",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "せたがやぱぶりっくしあたー",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235516",
+            "display_title": "三番叟",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235516,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235517",
+            "display_title": "鎌腹",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235517,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235518",
+            "display_title": "川上",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235518,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233831",
+            "display_title": "EV00215821",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215821_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/6405b592f493477ddc656fccc010c8a15b67e6a5.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233831,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233850",
+            "display_title": "EV00215840",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215840_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/c4a3b50e705e3076f70a349b8feb0b64d18ec116.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233850,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233849",
+            "display_title": "EV00215839",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215839_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/b14608f3e1597d7dfecf14b86675d71cda9279f4.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233849,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236173",
+            "display_title": "01_02698-02-2004-27_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02698-02-2004-27_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/9e560f3c02be6c6d3ccfcf4c888f0cba457deabe.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236173,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236174",
+            "display_title": "02_02698-02-2004-27_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02698-02-2004-27_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/cccaeb06dd08533745279b4c54bd884fef47c145.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236174,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237437",
+            "display_title": "03_02698-02-2004-27_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02698-02-2004-27_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/f1db56c8795e789e751fce8f8c4d6bb6543899d5.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237437,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237438",
+            "display_title": "04_02698-02-2004-27_04.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02698-02-2004-27_04.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/179c2b4062d746ebb6bd9d4288e082954735a0b1.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237438,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237439",
+            "display_title": "05_02698-02-2004-27_05.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02698-02-2004-27_05.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/ffac10a63c8728b28c4dd0f55d2d4f0c116b264f.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237439,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237440",
+            "display_title": "06_02698-02-2004-27_06.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02698-02-2004-27_06.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/9c059c0060e94a3ecdb7ba802f45599e8871fd24.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237440,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "02698-02-2004-27",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "きょうげんげきじょう　そのいち",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "【三番叟】「翁」という儀礼曲の中で狂言方が務める役が三番叟。古風な儀式を留める神聖な曲で、日本芸能の真髄ともいうべき究極の舞。野村家の三番叟には洗練された鮮やかな切れ味がある。舞踏・ダンスにも通じる宇宙的な世界観を持ったこの曲を、野村萬斎が舞う。必見である。\r\n【鎌腹】\r\n怠け者の太郎が妻へのあてつけに腹を切って死のうとする、その一部始終をシテの太郎が独演。妻も仲裁人も見ていないところで一人、何度も腹を切り損なう太郎。まるでベケットの戯曲を思わせる無目的な行為の繰り返しが、人間の愚かしさを際立たせる。古典狂言としては特異な、不条理を感じさせる作品。\r\n【川上】\r\n吉野の里に住む盲目の夫は、川上の地蔵に参籠した甲斐があって目が開くが、地蔵のお告げには「連れ添う妻は悪縁ゆえに離別せよ」という条件があった…。人間と運命の対峙を鮮やかに描く、狂言の異色の名作。四十分弱の作品ながら、長編の演劇に匹敵するほどの緊密間に満ちたドラマ性があり、かつて日本の戯曲ベスト３に挙げられたこともある。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Sanbaso:\r\nThe role played by Kyogen in the ritual song “Okina” is Sanbaso. It is a sacred song that retains its old-fashioned rituals, and it is the ultimate dance that can be called the essence of Japanese performing arts. The Sanbaso of the Nomura family has a sophisticated and clean-cut sharpness. Nomura Mansai dances this song, which has a cosmic perspective that works for both butoh and dance. A must-see.\r\nKamabara:\r\nShite no Taro’s solo play of the entire story of the lazy Taro who tries to commit seppuku to spite his wife. Taro fails to cut his stomach open several time while his wife and assistant are not watching. This repetition of a purposeless act reminiscent of Beckett’s plays highlights human stupidity. A work that brings the feeling of the absurd, which is a unique characteristic for classical Kyogen.\r\nKawakami:\r\nThe blind man who lives in Yoshino-no-Sato was able to see again after visiting the Jizo of Kawakami, but the Jizo tells him that there was the condition that “his union with his wife is a bad one, and so he should divorce”…A unique masterpiece of Kyogen that vividly depicts the confrontation of humans and fate. Although a work of a little over 40 minutes, it is filled with a sense of intimate drama that rivals feature-length plays, and it has once been considered one of the top three dramas of Japan.\r\nAudiences can enjoy the lyrical performance of Nomura Mansaku, who is a treasure in the Kyogen world.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2004",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "02698-02-2004-27",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "02698-02-2004-27",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2004/2/11",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "狂言劇場　その壱",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Kyogen Theater, Part 1",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:22+00:00"
+    },
+    "o:id": 238891,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:30+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "狂言劇場　その壱",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

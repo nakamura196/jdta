@@ -1,0 +1,321 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/237874",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207758",
+            "display_title": "チェルフィッチュ",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207758,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "岡田利規",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "OKADA Toshiki",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2017/12/20",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "タイトル英語表記：Five Days in March Re-creation\r\n英訳あり（あらすじ、上演劇場、上演主体名、上演主体代表者名、スタッフクレジット・配役）",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01054",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "KAAT神奈川芸術劇場",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "KAAT (Kanagawa Art Theatre)",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "かーとかながわげいじゅつげきじょう",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234462",
+            "display_title": "三月の5日間",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234462,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233520",
+            "display_title": "EV00215425",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215425_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/74bf0f955a38f875af9f7a82795a82c199a119ec.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233520,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235754",
+            "display_title": "01_03699-01-2017-02_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03699-01-2017-02_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/d035aa14da9c1670ce2992e552f0f28cbea22709.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235754,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235755",
+            "display_title": "02_03699-01-2017-02_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03699-01-2017-02_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/1bd4989384002573afc801346d83c38c5629f5a3.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235755,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235753",
+            "display_title": "03_03699-01-2017-02_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03699-01-2017-02_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/bab2957cff2e4b615add06a4522cf30b7e9a6165.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235753,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "03699-01-2017-02",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "さんがつのいつかかんりくりえーしょん",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "日本現代演劇の潮流を変えた代表作、完全なる”再創造”90年代生まれの新キャストとともに放つ、集大成にして新たな挑戦が\r\n“演劇”をふたたび覚醒させ、”私たちの現在”を浮き彫りにする\r\n\r\n　2003年3月、アメリカ軍がイラク空爆を開始した日を含む5日間の東京の若者達の日常を描く「三月の5日間」。その言葉と身体の関係性を軸にした非類なき方法論によりそれまで当たり前とされてきた劇構造を根本から覆し、後に続く若手作家達に大きな影響を与え、日本現代演劇史の転機として語られている。遠くの戦争と無関心な若者の日常を描いた初演から十数年が経ち、若者像や社会情勢、情報伝達の速度、戦争との距離感も大きく変化し、劇中で描かれる人間像や状況はもはや「時代劇」となった。物語内容はそのままに、当時と現在の時間の行き来への意識を促すべく書き換えた戯曲、現在性をまとった若い俳優の身体、パフォーマンスとの関わりによって限りなく意味を変容させるトラフ建築設計事務所による舞台空間が、同時代の切実な人間像や容赦のない社会のありさまを鮮明に浮かび上がらせる。何が変わり、何が変わっていないのか。\r\n\r\n今回のリクリエーションでは、舞台上の言葉・身体・空間は、すべて観客が〈想像〉を描くための触媒であるという演劇の本質的な構造を徹底的に追求した。演出の岡田が力を注いできた、〈想像〉を駆使した演出方法の極地と言ってよい。さらにこれまでの幅広い創作によって進化させてきた、ノイズがざわめくような言葉と身体性を発揮するスタイルと、贅肉を削ぎ落とすようなミニマルなスタイルとが絶妙に混ざり合い、次の新たな展開への芽吹きともいえる新境地を見せる。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Five Days in March describes the realities of the lives of several youths in Tokyo during a five-day period in March 2003, including the day on which the United States began bombing Iraq. Its unique methodology, which revolved around the connection between the speech and physical presence/movements of these youths, shook the theatrical structure that had been taken for granted until then to its very foundations. It had an immense impact on the next generation of playwrights and is still talked about as a turning point in the history of contemporary Japanese theater. More than ten years have passed since the premiere performance of this piece portraying the everyday doings of apathetic youths far from the war, and there have been great changes in respect of the picture of youths, social situation, speed of information transmission, and sense of distance from war. The youths and circumstances as described in the original script have already become dated, and in this sense have made the work a \"period piece.\" While the basic story has remained unaltered, the script has been rewritten somewhat to prompt awareness of the passage of time from those days to the present. Designed by Torafu Architects, the stage space allows for boundless changes in meaning through the physical presence/movements of the young actors embodying the present, and their involvement with the performance. This space likewise highlights the earnest human portraits of the times and throws the merciless shape of the contemporary society into sharp relief. What has changed since then, and what has not?\r\n \r\n \r\n This re-creation derives from rigorous pursuit of the essential structure of theater, on the premise that the speech, actors' bodies, and space on the stage are catalysts for the workings of the audience's imagination. It could be regarded as the ultimate in the methodology of theatrical direction making full use of this imagination, which Toshiki Okada has worked so hard to perfect as the director. It is also deftly fuses two different styles that have been developed and refined by Okada through a wide range of works so far: one that gives full rein to kinds of speech and physical motion which could be likened to theatrical static, and one that takes a minimalistic approach aimed at stripping away anything superfluous. In this aspect as well, it breaks new ground that seems to presage the start of a new chapter in his theatrical art.\r\n \r\n Plot\r\n Set in Tokyo, the story takes place at the end of March, 2003, when the U.S. launched air-strikes on Iraq. A man and a woman Roppongi night club with live music. They end up spending the night in a “love hotel in Shibuya. Instead of becoming a one-night stand, their affair continues for five days. All the while, they indulge in sex. At the back of their minds, however, is a wish that the war in Iraq will have been over by the end of their five days together. What with protesters against the war marching on the street and an electric bulletin board spelling out international tension, Shibuya in their eyes seems to have gone through a transformation, They feel as if they were in a foreign city. When the morning comes on the fifth day, the war is stillgoing on. The two leave the hotel and part from each other after promising never to meet again. Okada has staged this simple story with a unique style, using a complex narrative structure inwhich the actors exchange their roles while performing. Widely acclaimed for the sensibility with which it captures the modern life in Tokyo and its inventive mode of expression, Five Days in March has become chelfitsch / Toshiki Okada's representative work.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2017",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "03699-01-2017-02",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "03699-01-2017-02",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2017/12/1",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "『三月の5日間』リクリエーション",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Five Days in March Re-creation",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:26:58+00:00"
+    },
+    "o:id": 237874,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:23+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "『三月の5日間』リクリエーション",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

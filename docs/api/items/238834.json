@@ -1,0 +1,379 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238834",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208718",
+            "display_title": "株式会社ホリプロ",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208718,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:award": [
+        {
+            "@language": "ja",
+            "@value": "「第27回読売演劇大賞」優秀男優賞・新人賞（菅田将暉）",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "the 27th Yomiuri Theater Awards for Outstanding Actor and Oustanding Rookie of the Year(SUDA Masaki)",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "栗山民也",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "KURIYAMA Tamiya",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2019/12/15",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P02645",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "ja",
+            "@value": "歴史",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "History",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "新国立劇場 中劇場／久留米シティプラザ ザ・グランドホール／神戸国際会館こくさいホール／仙台銀行ホール イズミティ21 大ホール",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "SHINKOKURITSUGEKIJO　CHUGEKIJO/KURUMESHITEIPURAZA　ZAGURANDOHORU/KOBEKOKUSAIKAIKANKOKUSAI・HALL/SENDAIGINKOHORUIZUMISHITEI",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "しんこくりつげきじょう　ちゅうげきじょう／くるめしてぃぷらざ　ざぐらんどほーる／こうべこくさいかいかんこくさいほーる／せんだいぎんこうほーるいずみしてぃ",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235453",
+            "display_title": "カリギュラ",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235453,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233854",
+            "display_title": "EV00215844",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215844_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/d3c9da3b8897414d762092c906edaae575d337b6.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233854,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233855",
+            "display_title": "EV00215845",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215845_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/62faca6ce16835d5b11a9bc07393f0daf5a05a13.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233855,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237691",
+            "display_title": "01_00753-03-2019-09_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00753-03-2019-09_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/00d3db57d672fd3bef622321b988bf6fc500a5bc.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237691,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237692",
+            "display_title": "02_00753-03-2019-09_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00753-03-2019-09_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/51cbb313faf5ecb534830a3d90911bf4def19f22.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237692,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237690",
+            "display_title": "03_00753-03-2019-09_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00753-03-2019-09_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/b5602a8d80ac23b137e980c905d03082b7ac689b.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237690,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00753-03-2019-09",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "かりぎゅら",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "ローマ帝国皇帝カリギュラ（菅田将暉）は最愛の妹を亡くし、姿を消す。国政が滞り、右往左往する貴族たち。３日後、ようやく現れたカリギュラはエリコン（谷田歩）に、不可能なことを手伝うよう、内密に頼む。その一方で、王としてあらゆる民から財産の没収を突然宣言し、人々を混乱に陥れた。\r\n　それから３年。カリギュラは、処刑、横領、貴族の妻を奪い公営売春宿で働かせる、市民の食料保管庫を閉鎖して飢饉を起こすなど、暴君の限りを尽くしていた。誰もがカリギュラを恐れたが、セゾニア（秋山菜津子）は彼の理解者であろうと努め、途方もない無償の愛をもって寄り添い続ける。シピオン（高杉真宙）はカリギュラに父を殺されながらも、詩という芸術を通して心の深いところで繋がってゆく。唯一、才気溢れるケレア（橋本淳）だけはこれ以上カリギュラを生かしておくと世のためにならないと、暗殺を計画。カリギュラは状況を察知しながらも、不可能を手に入れるべく、破滅へと進む・・・。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "The Roman Emperor Caligula (Suda Masaki) loses his beloved sister and disappears. The aristocrats waver back and forth due to the deadlock of national affairs.\r\nThree days later, Caligula finally re-appears and asks Helicon (Tanida Ayumi) to secretly help with an impossible task. Meanwhile, as the Emperor, he suddenly declares the confiscation of property from all the citizens and causes mass confusion.\r\nThree years later. Caligula has done everything he can as a tyrant, including executions, embezzlement, taking the wives of aristocrats and making them work in brothels, and closing civilian food depots to cause famine. Everybody feared Caligula, but Caesonia (Akiyama Natsuko) sought to understand him and continues to stand by his side with a tremendous unconditional love. Despite having his father killed by Caligula, Scipio (Takasugi Mahiro) makes a deep connection through the art of poetry. Only the talented Cherea (Hashimoto Atsushi) believes that allowing Caligula to live is a danger to society and plans his assassination. Caligula understands the situation, but goes to ruin in order to obtain the impossible…",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2019",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "00753-03-2019-09",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "00753-03-2019-09",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@language": "ja",
+            "@value": "現代劇",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "contemporary theater",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2019/11/9",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "カリギュラ",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Caligula",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:20+00:00"
+    },
+    "o:id": 238834,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:29+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "カリギュラ",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

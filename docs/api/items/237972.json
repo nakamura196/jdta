@@ -1,0 +1,475 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/237972",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/207856",
+            "display_title": "燐光群",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 207856,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:award": [
+        {
+            "@language": "ja",
+            "@value": "第54回読売文学賞（2002年度）坂手洋二",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "第37回紀伊國屋演劇賞（2002年）坂手洋二",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "第10回読売演劇大賞（2003年）最優秀演出家賞　坂手洋二",
+            "is_public": true,
+            "property_id": 489,
+            "property_label": "受賞歴",
+            "type": "literal"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "坂手洋二",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "SAKATE Youji",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2003/10/12",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "2002年初演\r\n＜東京＞5月16日(木)～6月4日(火)　梅ヶ丘ＢＯＸ\r\n＜名古屋＞6月7日(金)〜9日(日)　七ツ寺共同スタジオ\r\n＜大阪＞6月11日(火)・12日(水)　扇町ミュージアムスクエア\r\n※収録日は記載とは異なります。\r\n※舞台写真は、映像とは異なるキャストの公演を含みます。",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "演劇",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Contemporary Theatre",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01192",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizer": [
+        {
+            "@language": "ja",
+            "@value": "燐光群／有限会社グッドフェローズ",
+            "is_public": true,
+            "property_id": 504,
+            "property_label": "主催者クレジット",
+            "type": "literal"
+        }
+    ],
+    "dcepk:labelOfOrganizerTranscription": [
+        {
+            "@language": "ja",
+            "@value": "りんこうぐん ゆうげんがいしゃぐっどふぇろーず",
+            "is_public": true,
+            "property_id": 521,
+            "property_label": "labelOfOrganizerTranscription",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "梅ヶ丘ＢＯＸ／スタジオふう／せんだい演劇工房 10-BOX",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "UMEGAOKABOKKUSU/SUTAJIOFU/SENDAIENGEKIKOBO TEMBOKKUSU",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "うめがおかぼっくす／すたじおふう／せんだいえんげきこうぼう てんぼっくす",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234560",
+            "display_title": "屋根裏",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234560,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/234326",
+            "display_title": "EV00216542",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00216542_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/d1db08598758b1ddc9431de861e00b0c243d3943.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 234326,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236080",
+            "display_title": "01_00512-01-2003-05_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00512-01-2003-05_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/a3a665dbeaa6ea63032cdeb033605cb679b31bb9.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236080,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236081",
+            "display_title": "02_00512-01-2003-05_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00512-01-2003-05_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/f679e8b09f2f0db4f5c1cf61fa0f94b5df804533.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236081,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236082",
+            "display_title": "03_00512-01-2003-05_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00512-01-2003-05_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/ecd4d079e3f8d96fbffe228a4a0f50dfaff03129.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236082,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236083",
+            "display_title": "04_00512-01-2003-05_04.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00512-01-2003-05_04.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/df06b5b19c74dea0f65641402d43c2b05ec4a244.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236083,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236084",
+            "display_title": "05_00512-01-2003-05_05.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00512-01-2003-05_05.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/9fbb834d3061fce8912a90a23da757cb8987a8b4.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236084,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236085",
+            "display_title": "06_00512-01-2003-05_06.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00512-01-2003-05_06.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/af2f8589200336fd831247c1a4452c4701448157.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236085,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236086",
+            "display_title": "07_00512-01-2003-05_07.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00512-01-2003-05_07.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/bc30aabd7ee5eda9745d9922de99c53a85727557.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236086,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236087",
+            "display_title": "08_00512-01-2003-05_08.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00512-01-2003-05_08.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/76261f365f26d7365b5bfb8d7127831305332b90.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236087,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236088",
+            "display_title": "09_00512-01-2003-05_09.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00512-01-2003-05_09.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/c0a3aa43ad052bf530519e44ef9686f3402ed41c.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236088,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236089",
+            "display_title": "10_00512-01-2003-05_10.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "00512-01-2003-05_10.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/ea3c542a47f450b18c81ce0f44ba74fdb6c39a58.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236089,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "00512-01-2003-05",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "やねうら",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "世界一小さな舞台空間から発信する「超演劇」。演劇を再生させる圧倒的「事件」。\r\n\r\nこれは発明なんだ\r\n今も誰かがあの屋根裏に立て籠もっている\r\nそう考えただけでもう一日生きてみようかと思うことができる\r\nそういう発明なんだ\r\n\r\n初演以降、国内外でのツアーを数多く実施。海外では、ニューヨーク・パリ・ローマ・ウィーン・シビウ・フランクフルト・ブカレスト・ピッツバーグ・マイアミ・ソフィア・ヤルタ・テルニ等で上演している。また、ニューヨーク、パリ、グルノーブル、シドニー、ソウル等において、現地のプロダクションで翻訳上演されている。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "A “super theater” that originates from the smallest space in the world.\r\nAn overwhelming “incident” that recreates a play.\r\n\r\nThis is an invention\r\nSomeone is still holed up in the attic\r\nJust thinking like that helps you consider about living one more day\r\nIt’s that kind of invention\r\n\r\nMultiple nationwide tours conducted since its premiere. Performed overseas in places like New York, Paris, Rome, Vienna, Sibiu, Frankfurt, Bucharest, Pittsburgh, Miami, Sofia, Yalta, and Terni. Also translated and performed in local productions in places like New York, Paris, Grenoble, Sydney, and Seoul.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2003",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@language": "ja",
+            "@value": "2002年初演\r\n＜東京＞5月16日(木)～6月4日(火)　梅ヶ丘ＢＯＸ\r\n＜名古屋＞6月7日(金)〜9日(日)　七ツ寺共同スタジオ\r\n＜大阪＞6月11日(火)・12日(水)　扇町ミュージアムスクエア\r\n\r\n\r\n※収録日は記載とは異なります。\r\n※舞台写真は、映像とは異なるキャストの公演を含みます。",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "00512-01-2003-05",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "00512-01-2003-05",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2003/10/12",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "屋根裏",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Yaneura (The Attic)",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:00+00:00"
+    },
+    "o:id": 237972,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:24+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "屋根裏",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

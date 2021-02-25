@@ -1,0 +1,428 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238887",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208771",
+            "display_title": "世田谷パブリックシアター",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208771,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "野村万作",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "NOMURA Mansaku",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2018/7/1",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:descriptionAboutPerformance": [
+        {
+            "@language": "ja",
+            "@value": "主催／公益財団法人せたがや文化財団\r\n企画制作／世田谷パブリックシアター",
+            "is_public": true,
+            "property_id": 495,
+            "property_label": "記載事項(情報提供者から)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "伝統芸能",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Traditional performing arts",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P01311",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "en",
+            "@value": "Ends in the dark",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Seats surrounding the stage",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "With music",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "songs",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyEpadOffice": [
+        {
+            "@language": "ja",
+            "@value": "暗転で終わる",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "三方囲み",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "音楽あり",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "歌あり",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "世田谷パブリックシアター",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "SETAGAYA PUBLIC THEATRE",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "せたがやぱぶりっくしあたー",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235511",
+            "display_title": "楢山節考",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235511,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235512",
+            "display_title": "鷹姫",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235512,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233832",
+            "display_title": "EV00215822",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215822_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/861aaaf4bab50b3ad8ded45ea62068599c60c252.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233832,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233851",
+            "display_title": "EV00215841",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215841_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/8ef5e1190bc67b1bbff8bcba72b73cd73ae8eb61.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233851,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236175",
+            "display_title": "01_02698-02-2018-07_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02698-02-2018-07_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/6ed49067448d5bb9b40bf7345183d8479b34bbb4.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236175,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/236176",
+            "display_title": "02_02698-02-2018-07_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02698-02-2018-07_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/fbd0cfc05f2be77cf1715a94e76cf8688fa50ca0.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 236176,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237441",
+            "display_title": "03_02698-02-2018-07_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02698-02-2018-07_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/7251171489689426c3838ddfb56dc1f18e13931d.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237441,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237442",
+            "display_title": "04_02698-02-2018-07_04.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "02698-02-2018-07_04.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/fdbb0bc02de882d1858f75109e105667ee188f8b.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237442,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "02698-02-2018-07",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "きょうげんげきじょう　とくべつばん　きょうげん　ならやまぶしこう",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "狂言『楢山節考』おりんの村には、70歳になると供の者に背負われて深い山奥の「楢山さん」へ行き、二度と戻らない「楢山まいり」の風習があった。当年69歳のおりんは、一日も早く楢山まいりに行こうとするのだが、孝行息子の辰平は複雑な心境である。一方、辰平の息子けさ吉は、自分の子供が生まれるのが近いこともあり、おりんに早く楢山まいりに行った方がいいという。村には70歳になってもなかなか楢山へ行こうとしない又やんのような者もいる…。\r\n舞台は、主人公・おりんの回想を交えた形で展開します。野村万作が門弟とともに、笑いの要素が一切ない、シリアスな作品世界を狂言の手法で描き出します。\r\n原作：深沢七郎、脚色：岡本克己、演出：野村万作\r\n能『鷹姫』\r\n物語の舞台は絶海の孤島。飲むと永遠の命を得ることができるという“不老長寿の泉”を巡り、その泉の守り役の鷹姫、何十年もの間、泉から湧く水を待ち続ける老人、そして、新たに水を求めに来た若き王子・空賦麟（くうふりん）、それぞれの水を求める苦悩を嘆き謡う…。\r\n今から100年以上も前、ノーベル文学賞を受賞したアイルランドの詩人ウィリアム・バトラー・イェイツは能の世界に影響を受け、劇作品『鷹の井戸』を執筆しました。その後この作品は日本に渡り、新作能『鷹姫』（1967年）として生まれ変わり、今日まで様々な上演をくり返して参りました。この度は萬斎版の新たな演出でおおくりします。\r\n原作：Ｗ・Ｂ・イェイツ、作：横道萬里雄、演出：野村萬斎",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Kyogen \"Narayama Bushiko\"\r\nIn the village of Orin, there was a custom of “Narayama Mairi,” where those who reach the age of 70 years are carried on the back of another person to go to “Narayama-san” deep in the mountains, never to return. Orin, who was 69 years at the time, tries to go to the Narayama Mairi as soon as possible, but the filial son Tatsuhei has mixed feelings. Meanwhile, Tatsuhei’s son Kesakichi, who is expecting his own child soon, says that it would be good for Orin to go ahead to the Narayama Mairi early. There are also some people in the village like Matayan who does not go to Narayama even after turning 70 years of age…\r\nThe stage is developed with the recollections of the main character, Orin. Nomura Mansaku and his disciples uses Kyogen techniques to depict a serious world of work with no elements of laughter.\r\nOriginal: Fukazawa Shichiro, script: Okamoto Katsumi, director: Nomura Mansaku\r\nNoh \"Takahime\"\r\nThe stage of the story is set on an isolated island in the sea. The story revolves around the “fountain of youth” which is said to impart eternal life to those who drink it. Takahime, who protects the fountain; an elderly man who waits for several decades to drink the water welling from the fountain; and Kufurin, a young prince that has newly arrived in search of this water – each of them mourn the anguish of seeking this water…\r\nOver 100 years ago, William Butler Yeats, who was an Irish poet and the winner of the Nobel Prize in Literature, was influenced by the world of Noh and wrote his play, “At the Hawk’s Well.” This work later came to Japan and was reborn as a new Noh play “Takahime” (1967), which has since seen various performances to date. We will introduce a new production of the Mansai version. \r\nOriginal: W.B. Yeats, Writing: Yokomichi Mario, Direction: Nomura Mansai",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2018",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "02698-02-2018-07",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "02698-02-2018-07",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2018/6/22",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "狂言劇場　特別版",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Kyogen Theater, Special Edition",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:22+00:00"
+    },
+    "o:id": 238887,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:30+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "狂言劇場　特別版",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}

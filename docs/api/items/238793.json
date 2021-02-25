@@ -1,0 +1,659 @@
+{
+    "@context": "http://enpaku-jdta.jp/api-context",
+    "@id": "http://enpaku-jdta.jp/api/items/238793",
+    "@type": [
+        "o:Item",
+        "dcepk:TheatricalResource"
+    ],
+    "dcepk:applicantAgent": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/208677",
+            "display_title": "ダンスカンパニーノマド〜s",
+            "is_public": true,
+            "property_id": 488,
+            "property_label": "公演情報提供者",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 208677,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:creatorNameforDisplay": [
+        {
+            "@language": "ja",
+            "@value": "池宮中夫",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "IKEMIYA Nakao",
+            "is_public": true,
+            "property_id": 520,
+            "property_label": "一覧表示用　演出家・振付家名",
+            "type": "literal"
+        }
+    ],
+    "dcepk:dateClosing": [
+        {
+            "@value": "2007/6/17",
+            "is_public": true,
+            "property_id": 494,
+            "property_label": "公演終了日",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadCategory": [
+        {
+            "@language": "ja",
+            "@value": "舞踊",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Dance",
+            "is_public": true,
+            "property_id": 497,
+            "property_label": "EPAD分野",
+            "type": "literal"
+        }
+    ],
+    "dcepk:epadRequestNo": [
+        {
+            "@value": "P02566",
+            "is_public": true,
+            "property_id": 498,
+            "property_label": "EPAD事業受付番号",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyApplicantAgent": [
+        {
+            "@language": "en",
+            "@value": "Ends in the dark",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Proscenium",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "With music",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "songs",
+            "is_public": true,
+            "property_id": 501,
+            "property_label": "キーワード(提供者作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:keywordbyEpadOffice": [
+        {
+            "@language": "ja",
+            "@value": "暗転で終わる",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "プロセニアム",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "音楽あり",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        },
+        {
+            "@language": "ja",
+            "@value": "歌あり",
+            "is_public": true,
+            "property_id": 502,
+            "property_label": "キーワード(手動作成)",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenue": [
+        {
+            "@language": "ja",
+            "@value": "吉祥寺シアター（東京）／横浜赤レンガ倉庫1号館ホール（横浜）／Casa de la Cultura \"Carmen Conde\"（マハダオンダ・スペイン）／Circulo de Bellas Artes（マドリッド・スペイン）／Centre Comunitari（ヴィッグ・スペイン）／SIN Kulturalis Kozpont（ブダペスト・ハンガリー）",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Kichijoji Theatre (Tokyo)/Yokohama Red Brick Warehouse No.1 3F Hall (Yokohama)/Casa de la Cultura \"Carmen Conde\" (Majadahonda, Spain)/Circulo de Bellas Artes (Madrid, Spain)/Centre Comunitari (Spain)/SIN Kulturalis Kozpont (Budapest, Hungary)",
+            "is_public": true,
+            "property_id": 509,
+            "property_label": "会場",
+            "type": "literal"
+        }
+    ],
+    "dcepk:performanceVenueTranscription": [
+        {
+            "@language": "ja",
+            "@value": "きちじょうじしあたー とうきょう／よこはまあかれんがそうこいちごうかんほーる よこはま／かさでらかるちゅらかるめんこんで まはだおんだ すぺいん／しるくろでべらすあるとれす まどりっど すぺいん／せんたーこみゅにたり ゔぃっぐ すぺいん／しんかるちゅらりすけずぽんと ぶだぺすと はんがりー",
+            "is_public": true,
+            "property_id": 510,
+            "property_label": "会場よみ",
+            "type": "literal"
+        }
+    ],
+    "dcepk:programme": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/235412",
+            "display_title": "The damp elements 〜横たわる湿潤〜",
+            "is_public": true,
+            "property_id": 512,
+            "property_label": "上演作品情報",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 235412,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedItem": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/233802",
+            "display_title": "EV00215792",
+            "is_public": true,
+            "property_id": 513,
+            "property_label": "関連資料",
+            "thumbnail_title": "EV00215792_thum01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/b51971085f34e3e123d3ab65ad9e592ab3483c12.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 233802,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:relatedStillImage": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237588",
+            "display_title": "01_03830-01-2007-01_01.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_01.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/eb7243d119705ff91bdb3b8fffb0e5976c334e6a.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237588,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237589",
+            "display_title": "02_03830-01-2007-01_02.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_02.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/a8b515094e02f9d521200fa54721550442241651.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237589,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237590",
+            "display_title": "03_03830-01-2007-01_03.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_03.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/7b8bdd0cb4b9e64a5f338894c26d9e064081b885.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237590,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237591",
+            "display_title": "04_03830-01-2007-01_04.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_04.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/a818280ecdc7db60ad5822f51b21c9bf9822a96d.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237591,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237592",
+            "display_title": "05_03830-01-2007-01_05.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_05.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/d3e06bf11fa8d106388c7df3a1a56533428fbc96.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237592,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237593",
+            "display_title": "06_03830-01-2007-01_06.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_06.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/ef6c2735bf3e9a678cb08e9f3e1d0285cf35da1f.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237593,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237594",
+            "display_title": "07_03830-01-2007-01_07.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_07.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/42b89aad5d4c960c701c716c5d2459968b59ab49.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237594,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237595",
+            "display_title": "08_03830-01-2007-01_08.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_08.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/53fa1e419597b68b97088c1e370892688aaaaa27.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237595,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237596",
+            "display_title": "09_03830-01-2007-01_09.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_09.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/0dd716e0178dcaabef12d3fbf46f04ac22781a30.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237596,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237597",
+            "display_title": "10_03830-01-2007-01_10.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_10.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/2fe71dfbd9c12bce6c2708665129a1066a0d01f1.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237597,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237598",
+            "display_title": "11_03830-01-2007-01_11.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_11.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/3d6ea13e9151a4e4d3f9efa3535d01d79ab68a49.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237598,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237599",
+            "display_title": "12_03830-01-2007-01_12.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_12.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/72844c64ab430fde3152230b11d92c00ecbd464f.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237599,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237600",
+            "display_title": "13_03830-01-2007-01_13.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_13.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/b4e58bfb7dd7e37f34a194fed25ede3081ec6fb8.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237600,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237601",
+            "display_title": "14_03830-01-2007-01_14.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_14.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/472fe62379935b6c111ae57ed5f756948b0da6cc.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237601,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237602",
+            "display_title": "15_03830-01-2007-01_15.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_15.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/5bac6570bcf3ddbfe0ab73c50b8a0b5ca7adee11.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237602,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237603",
+            "display_title": "16_03830-01-2007-01_16.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_16.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/50b898c54e67586c636a60892087bcd79eb0bf6e.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237603,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237604",
+            "display_title": "17_03830-01-2007-01_17.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_17.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/ea3b2f266e2c7373bc1bc67c045f3313933b2b1c.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237604,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237605",
+            "display_title": "18_03830-01-2007-01_18.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_18.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/63371ac23a581f85514c0863cc945b00faf52b13.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237605,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237606",
+            "display_title": "19_03830-01-2007-01_19.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_19.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/30f453fff2906e603b83dfaa1d33c606bae597be.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237606,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237607",
+            "display_title": "20_03830-01-2007-01_20.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_20.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/fb98cfc21018cad7936b3092e65aa095af8f0240.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237607,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237608",
+            "display_title": "21_03830-01-2007-01_21.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_21.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/64607edc35ebd0a9bb99cc95eb099b49223e37b0.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237608,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237609",
+            "display_title": "22_03830-01-2007-01_22.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_22.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/d696e1720927dd398b5c856854bb286598837144.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237609,
+            "value_resource_name": "items"
+        },
+        {
+            "@id": "http://enpaku-jdta.jp/api/items/237610",
+            "display_title": "23_03830-01-2007-01_23.jpg.jpg",
+            "is_public": true,
+            "property_id": 519,
+            "property_label": "relatedStillImage",
+            "thumbnail_title": "03830-01-2007-01_23.jpg",
+            "thumbnail_type": "image/jpeg",
+            "thumbnail_url": "/files/square/11196f2703c4a09632797826a1bb18d319c045de.jpg",
+            "type": "resource",
+            "url": null,
+            "value_resource_id": 237610,
+            "value_resource_name": "items"
+        }
+    ],
+    "dcepk:sourceIdentifier": [
+        {
+            "@value": "03830-01-2007-01",
+            "is_public": true,
+            "property_id": 516,
+            "property_label": "ソースID",
+            "type": "literal"
+        }
+    ],
+    "dcepk:titleTranscription": [
+        {
+            "@language": "ja",
+            "@value": "ざだんぷえれめんつ よこたわるしつじゅん",
+            "is_public": true,
+            "property_id": 517,
+            "property_label": "公演名よみ",
+            "type": "literal"
+        }
+    ],
+    "dcterms:abstract": [
+        {
+            "@language": "ja",
+            "@value": "地上を　あとに　水を　纏いに　行く。　人を　脱ぎ　新しい　喪の　ドア。机　上に　盲　目の　自己家畜化家達。　ソックスを脱いで　わたしの　身がわりを　飲みに行く。\r\n座るのはまだ早い。",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "We leave the earth, and go wear the water. Taking off being human, the door of new mourning. Blind self-domesticators on the table. I take off my socks and go to drink my doppelganger. \r\nIt's still too early to sit down.",
+            "is_public": true,
+            "property_id": 19,
+            "property_label": "Abstract",
+            "type": "literal"
+        }
+    ],
+    "dcterms:date": [
+        {
+            "@value": "2007",
+            "is_public": true,
+            "property_id": 7,
+            "property_label": "Date",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "03830-01-2007-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        },
+        {
+            "@value": "03830-01-2007-01",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:temporal": [
+        {
+            "@value": "2007/6/15",
+            "is_public": true,
+            "property_id": 41,
+            "property_label": "Temporal Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@language": "ja",
+            "@value": "The damp elements 〜横たわる湿潤〜",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "The damp elements",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "dcterms:type": [
+        {
+            "@value": "http://purl.org/dc/dcmitype/Event",
+            "is_public": true,
+            "property_id": 8,
+            "property_label": "Type",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T12:27:19+00:00"
+    },
+    "o:id": 238793,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-02-19T13:56:29+00:00"
+    },
+    "o:owner": {
+        "@id": "http://enpaku-jdta.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http://enpaku-jdta.jp/api/resource_classes/306",
+        "o:id": 306
+    },
+    "o:resource_template": {
+        "@id": "http://enpaku-jdta.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:site": [
+        {
+            "@id": "http://enpaku-jdta.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "The damp elements 〜横たわる湿潤〜",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    }
+}
