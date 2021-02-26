@@ -2,19 +2,39 @@
   <v-row>
     <v-col v-for="(obj, index) in list" :key="index" :cols="cols" :sm="sm">
       <v-card no-body flat class="mb-4">
-        <nuxt-link :to="localePath(obj.path)">
-          <v-img
-            :src="obj.image"
-            contain
-            style="height: 150px"
-            width="100%"
-            class="grey lighten-2"
-          ></v-img>
-        </nuxt-link>
-        <div class="pa-4">
+        <template v-if="obj.href">
+          <a target="_blank" :href="obj.href">
+            <v-img
+              :src="obj.image"
+              contain
+              style="height: 150px"
+              width="100%"
+              class="grey lighten-2"
+            ></v-img>
+          </a>
+        </template>
+        <template v-else>
           <nuxt-link :to="localePath(obj.path)">
-            <h3>{{ obj.label }}</h3>
+            <v-img
+              :src="obj.image"
+              contain
+              style="height: 150px"
+              width="100%"
+              class="grey lighten-2"
+            ></v-img>
           </nuxt-link>
+        </template>
+        <div class="pa-4">
+          <template v-if="obj.href">
+            <a target="_blank" :href="obj.href">
+              <h3>{{ obj.label }}</h3>
+            </a>
+          </template>
+          <template v-else>
+            <nuxt-link :to="localePath(obj.path)">
+              <h3>{{ obj.label }}</h3>
+            </nuxt-link>
+          </template>
 
           <p v-if="obj.description" class="mt-2 mb-0">{{ obj.description }}</p>
         </div>

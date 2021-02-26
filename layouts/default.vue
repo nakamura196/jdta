@@ -16,8 +16,7 @@
             link
             :to="
               localePath({
-                name: 'entity',
-                params: { entity: 'agent' },
+                name: 'search',
               })
             "
           >

@@ -5,9 +5,6 @@ on:
     branches:
       - master
 
-env:
-  SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
-
 jobs:
   build-deploy:
     runs-on: ubuntu-18.04
@@ -38,21 +35,3 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./dist
-
-    # テスト成功時はこちらのステップが実行される
-    - name: Slack Notification on Success
-      if: success()
-      uses: rtCamp/action-slack-notify@v2.0.2
-      env:
-        SLACK_CHANNEL: website
-        SLACK_TITLE: Test Success
-        SLACK_COLOR: good
-
-    # テスト失敗時はこちらのステップが実行される
-    - name: Slack Notification on Failure
-      uses: rtCamp/action-slack-notify@v2.0.2
-      if: failure()
-      env:
-        SLACK_CHANNEL: website
-        SLACK_TITLE: Test Failure
-        SLACK_COLOR: danger

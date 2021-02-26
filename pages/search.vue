@@ -19,6 +19,7 @@
         </div>
       </template>
       <template v-else>
+        <!--
         <v-row align="center" class="mt-5">
           <v-col cols="12">
             <v-text-field
@@ -39,6 +40,7 @@
             ></v-text-field>
           </v-col>
         </v-row>
+        -->
 
         <div class="text-center my-5">
           <v-pagination
@@ -75,9 +77,9 @@ import Grid from '~/components/Grid.vue'
   },
 })
 export default class about extends Vue {
-  endpoint: string = 'https://jpsearch.go.jp/rdf/sparql?query='
+  endpoint: string = 'https://dydra.com/ut-digital-archives/jdta/sparql?query='
 
-  name: string = "search"
+  name: string = 'search'
   type: string = 'agential'
 
   total: number = 0
@@ -97,23 +99,10 @@ export default class about extends Vue {
   }
 
   async getTotal() {
-    const keyword = this.keywordStr
     const query = `
-      PREFIX schema: <http://schema.org/>
-      PREFIX type: <https://jpsearch.go.jp/term/type/>
-      PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-      PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-      PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-      PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-      PREFIX owl: <http://www.w3.org/2002/07/owl#>
-      PREFIX dct: <http://purl.org/dc/terms/>
-      PREFIX hpdb: <https://w3id.org/hpdb/api/>
-      PREFIX sh: <http://www.w3.org/ns/shacl#>
+      PREFIX dcepk: <http://enpaku-jdta.jp/ontologies/>
       SELECT DISTINCT (count(distinct ?cho) as ?c) WHERE {
-        ?s schema:creator ?cho .
-        ?cho rdfs:label ?label;
-        schema:image ?thumbnail . 
-        ${keyword !== '' ? '?label bif:contains \'"' + keyword + '"\'' : ''}
+        ?cho a dcepk:Agent
       }
     `
 
@@ -121,7 +110,7 @@ export default class about extends Vue {
 
     const results = await axios.get(url)
 
-    return Number(results.data.results.bindings[0].c.value)
+    return Number(results.data[0].c)
   }
 
   // state
@@ -170,28 +159,12 @@ export default class about extends Vue {
     const lang = this.lang
 
     const query = `
-      PREFIX schema: <http://schema.org/>
-      PREFIX type: <https://jpsearch.go.jp/term/type/>
-      PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-      PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-      PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-      PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-      PREFIX owl: <http://www.w3.org/2002/07/owl#>
-      PREFIX dct: <http://purl.org/dc/terms/>
-      PREFIX hpdb: <https://w3id.org/hpdb/api/>
-      PREFIX sh: <http://www.w3.org/ns/shacl#>
-      select distinct count(?s) as ?count ?cho ?label ?name ?thumbnail WHERE {
-        ?s schema:creator ?cho .
-        ?cho rdfs:label ?label;
-        schema:image ?thumbnail . 
-        ${
-          lang === 'ja'
-            ? ''
-            : "OPTIONAL {?cho schema:name ?name . filter (lang(?name) = 'en')} "
-        }
-        ${keyword !== '' ? '?label bif:contains \'"' + keyword + '"\'' : ''}
+      PREFIX o: <http://omeka.org/s/vocabs/o#>
+      PREFIX dcepk: <http://enpaku-jdta.jp/ontologies/>
+      select distinct ?cho ?label WHERE {
+        ?cho a dcepk:Agent; o:title ?label;
       }
-      ORDER BY desc(?count)
+      ORDER BY asc(?label)
       LIMIT ${this.perPage}
       OFFSET ${from}
     `
@@ -201,28 +174,23 @@ export default class about extends Vue {
       .then((response) => {
         const people = []
 
-        const results = response.data.results.bindings
+        const results = response.data
 
         for (let i = 0; i < results.length; i++) {
           const obj = results[i]
 
-          let label = obj.label.value
-          label = obj.name ? obj.name.value : label
+          const label = obj.label
 
           const person: any = {
             label,
-            path: {
-              name: 'item',
-              query: {
-                id: obj.cho.value,
-              },
-            },
+            href: process.env.BASE_URL + '/snorql/?describe=' + obj.cho,
           }
 
           if (obj.thumbnail) {
             person.image = obj.thumbnail.value
           } else {
-            person.image = process.env.BASE_URL + '/img/icons/no-image.png'
+            person.image =
+              'https://icon-library.com/images/user-icon-free/user-icon-free-8.jpg'
           }
 
           people.push(person)

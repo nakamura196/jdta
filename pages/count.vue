@@ -17,8 +17,8 @@
 </template>
 
 <script lang="ts">
-import { Vue, Component, Watch } from 'nuxt-property-decorator'
-import axios from 'axios'
+import { Vue, Component /* Watch */ } from 'nuxt-property-decorator'
+// import axios from 'axios'
 import ChartCount from '~/components/ChartCount.vue'
 
 @Component({
@@ -57,44 +57,6 @@ export default class about extends Vue {
         text: this.$t('タイプ別アイテム数'),
       },
     ]
-  }
-
-  @Watch('$route')
-  watchR(): void {
-    this.init()
-  }
-
-  // state
-  created() {
-    this.init()
-  }
-
-  async init() {
-    const entity = this.$route.params.entity
-    const type = entity === 'agent' ? 'dcepk:Agent' : ''
-    const limit = 100
-    const query = `
-        SELECT distinct ?s ?label WHERE {
-          
-          ?s a ${type}; dct:title ?label . 
-        }
-        LIMIT ${limit}
-      `
-
-    this.results = [
-      {
-        label: '中村覚',
-        url: 'http://yahoo.co.jp',
-      },
-    ]
-
-    const result = await axios.get(
-      this.endpoint + encodeURIComponent(query) + '&output=json'
-    )
-
-    const results = result.data.results.bindings
-
-    console.log({ results })
   }
 
   head() {

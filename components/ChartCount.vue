@@ -50,73 +50,45 @@ export default {
     init() {
       this.chartData = []
 
-      const lang = this.$i18n.locale
-
-      let query = 'PREFIX schema: <http://schema.org/> \n'
-      query += 'PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> \n'
-      query +=
-        'SELECT (count(distinct ?cho) as ?c) ?pLabel ?name ?provider WHERE { \n'
-
-      query += ' { '
-      query += '?cho rdfs:label ?label; \n'
-      query += 'schema:creator/owl:sameAs? <' + this.u + '> . \n'
-      query += ' } UNION { '
-      query += '?cho rdfs:label ?label; \n'
-      query +=
-        '?x ?y . ?y <https://jpsearch.go.jp/term/property#value> <' +
-        this.u +
-        '> . \n'
-      query += ' } '
-
-      query += 'OPTIONAL {?cho schema:image ?thumbnail} \n'
-
-      query += '?cho jps:sourceInfo ?source . \n'
-      query += '?source schema:provider ?provider . \n'
-      query += '?provider rdfs:label ?pLabel . \n'
-
-      query +=
-        lang === 'en'
-          ? '?provider schema:name ?name . filter(lang(?name) = "en") . \n'
-          : ''
-
-      query += '} group by ?pLabel ?name ?provider order by desc(?c) limit 10\n'
+      const query = `
+      PREFIX o: <http://omeka.org/s/vocabs/o#>
+      SELECT DISTINCT (count(?s) as ?c) ?type 
+        WHERE {
+          ?s a ?type . filter(?type != o:Item)
+        }
+        GROUP BY ?type
+        ORDER BY desc(?c)`
 
       axios
         .get(
-          'https://jpsearch.go.jp/rdf/sparql?query=' +
+          'https://dydra.com/ut-digital-archives/jdta/sparql?query=' +
             encodeURIComponent(query) +
             '&output=json'
         )
         .then((response) => {
-          const results = response.data.results.bindings
-          console.log({ results })
+          const results = response.data
 
-          /*
           const labels = []
           const values = []
           const uris = []
           for (let i = 0; i < results.length; i++) {
             const obj = results[i]
 
-            let label = obj.pLabel.value
-            label = obj.name ? obj.name.value : label
+            const label = obj.type
+              .replace('http://omeka.org/s/vocabs/o#', 'o:')
+              .replace('http://enpaku-jdta.jp/ontologies/', 'dcepk:')
 
             labels.push(label)
-            values.push(Number(obj.c.value))
-            uris.push(obj.provider.value)
+            values.push(Number(obj.c))
           }
 
           this.uris = uris
-          */
-
-          const values = [10, 4, 4]
-          const labels = ['aaa', 'ccc', 'ddd']
 
           const data = {
             labels,
             datasets: [
               {
-                label: 'Item',
+                label: this.$t('アイテム数'),
                 data: values,
                 borderWidth: 1,
               },

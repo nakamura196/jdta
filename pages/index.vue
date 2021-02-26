@@ -85,10 +85,7 @@ export default class about extends Vue {
       {
         label: this.$t('agential'),
         path: {
-          name: 'entity',
-          params: {
-            entity: 'agent',
-          },
+          name: 'search',
         },
         description: '',
         icon: 'mdi-account',
