@@ -1,3 +1,3 @@
 module.exports = {
-  BASE_URL: 'https://nakamura196.github.io/jpsearch2',
+  BASE_URL: 'https://nakamura196.github.io/jdta',
 }
